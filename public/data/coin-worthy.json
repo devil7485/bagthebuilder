@@ -1,0 +1,815 @@
+[
+  {
+    "fullName": "lrstanley/entrest",
+    "builder": "lrstanley",
+    "description": "Extension that generates a compliant OpenAPI spec and server implementation",
+    "url": "https://github.com/lrstanley/entrest",
+    "stars": 38,
+    "categories": [
+      "api",
+      "tools"
+    ],
+    "score": 93,
+    "language": "Go"
+  },
+  {
+    "fullName": "relf/EGObox",
+    "builder": "relf",
+    "description": "Efficient global optimization toolbox in Rust: bayesian optimization, mixture of gaussian processes, sampling methods ",
+    "url": "https://github.com/relf/EGObox",
+    "stars": 157,
+    "categories": [
+      "ai",
+      "tools"
+    ],
+    "score": 92,
+    "language": "Rust"
+  },
+  {
+    "fullName": "aimeos/pagible",
+    "builder": "aimeos",
+    "description": "Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with JSON:API, GraphQL APIs, templates, and themes",
+    "url": "https://github.com/aimeos/pagible",
+    "stars": 389,
+    "categories": [
+      "ai",
+      "infra",
+      "api",
+      "agi"
+    ],
+    "score": 92,
+    "language": "Vue"
+  },
+  {
+    "fullName": "aimeos/aimeos-headless",
+    "builder": "aimeos",
+    "description": "Aimeos cloud-native, API-first ecommerce headless distribution based on Laravel 11 for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce",
+    "url": "https://github.com/aimeos/aimeos-headless",
+    "stars": 2388,
+    "categories": [
+      "ai",
+      "infra",
+      "api"
+    ],
+    "score": 91,
+    "language": "JavaScript"
+  },
+  {
+    "fullName": "Brandawg93/PeaNUT",
+    "builder": "Brandawg93",
+    "description": "A tiny dashboard for Network UPS Tools",
+    "url": "https://github.com/Brandawg93/PeaNUT",
+    "stars": 1207,
+    "categories": [
+      "tools"
+    ],
+    "score": 91,
+    "language": "TypeScript"
+  },
+  {
+    "fullName": "crypmancer/polymarket-arbitrage-copy-bot",
+    "builder": "crypmancer",
+    "description": "A sophisticated trading bot written in Rust that combines arbitrage detection and copy trading strategies on Polymarket. This bot monitors successful wallets (like arbitrage-focused bots) and selectively copies their trades when arbitrage opportunities are detected.",
+    "url": "https://github.com/crypmancer/polymarket-arbitrage-copy-bot",
+    "stars": 55,
+    "categories": [
+      "crypto",
+      "privacy"
+    ],
+    "score": 91,
+    "language": "TypeScript"
+  },
+  {
+    "fullName": "aimeos/aimeos-core",
+    "builder": "aimeos",
+    "description": "Aimeos PHP e-commerce framework for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce",
+    "url": "https://github.com/aimeos/aimeos-core",
+    "stars": 4374,
+    "categories": [
+      "ai"
+    ],
+    "score": 90,
+    "language": "PHP"
+  },
+  {
+    "fullName": "j178/leetgo",
+    "builder": "j178",
+    "description": "Best LeetCode friend for geek. :snowboarder:",
+    "url": "https://github.com/j178/leetgo",
+    "stars": 643,
+    "categories": [
+      "ai",
+      "tools"
+    ],
+    "score": 90,
+    "language": "Go"
+  },
+  {
+    "fullName": "lrstanley/vault-unseal",
+    "builder": "lrstanley",
+    "description": "auto-unseal utility for Hashicorp Vault",
+    "url": "https://github.com/lrstanley/vault-unseal",
+    "stars": 297,
+    "categories": [
+      "api",
+      "tools"
+    ],
+    "score": 89,
+    "language": "Go"
+  },
+  {
+    "fullName": "lrstanley/go-ytdlp",
+    "builder": "lrstanley",
+    "description": "yt-dlp cli bindings for Go",
+    "url": "https://github.com/lrstanley/go-ytdlp",
+    "stars": 274,
+    "categories": [
+      "api",
+      "tools"
+    ],
+    "score": 89,
+    "language": "Go"
+  },
+  {
+    "fullName": "tunjid/heron",
+    "builder": "tunjid",
+    "description": "A graceful multiplatform bluesky client",
+    "url": "https://github.com/tunjid/heron",
+    "stars": 437,
+    "categories": [
+      "privacy",
+      "api",
+      "agi",
+      "tools"
+    ],
+    "score": 89,
+    "language": "Kotlin"
+  },
+  {
+    "fullName": "aimeos/aimeos-symfony",
+    "builder": "aimeos",
+    "description": "Symfony e-commerce bundle for professional, ultra fast online shops, complex B2B applications and #gigacommerce",
+    "url": "https://github.com/aimeos/aimeos-symfony",
+    "stars": 1363,
+    "categories": [
+      "ai",
+      "api"
+    ],
+    "score": 88,
+    "language": "CSS"
+  },
+  {
+    "fullName": "aimeos/aimeos-typo3",
+    "builder": "aimeos",
+    "description": "TYPO3 e-commerce extension for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce",
+    "url": "https://github.com/aimeos/aimeos-typo3",
+    "stars": 1378,
+    "categories": [
+      "ai",
+      "api",
+      "tools"
+    ],
+    "score": 88,
+    "language": "PHP"
+  },
+  {
+    "fullName": "tunjid/Tiler",
+    "builder": "tunjid",
+    "description": "Experimental declaratively transparent kotlin multiplatform paging library",
+    "url": "https://github.com/tunjid/Tiler",
+    "stars": 113,
+    "categories": [
+      "agi"
+    ],
+    "score": 88,
+    "language": "Kotlin"
+  },
+  {
+    "fullName": "goruck/home-generative-agent",
+    "builder": "goruck",
+    "description": "A home assistant generative agent integration based on langchain and langgraph.",
+    "url": "https://github.com/goruck/home-generative-agent",
+    "stars": 182,
+    "categories": [
+      "ai",
+      "api"
+    ],
+    "score": 88,
+    "language": "Python"
+  },
+  {
+    "fullName": "crypmancer/bnb-copy-trading-bot-go",
+    "builder": "crypmancer",
+    "description": "A Binance Smart Chain (BSC) copy trading bot built in Go that monitors swap transactions from a master wallet on PancakeSwap and automatically replicates them on your follower wallet. BNB Copy Trading Bot BNB Copy Trading Bot BNB Copy Trading Bot BNB Copy Trading Bot BNB Copy Trading Bot",
+    "url": "https://github.com/crypmancer/bnb-copy-trading-bot-go",
+    "stars": 156,
+    "categories": [
+      "crypto",
+      "ai",
+      "privacy"
+    ],
+    "score": 88,
+    "language": "Go"
+  },
+  {
+    "fullName": "lrstanley/geoip",
+    "builder": "lrstanley",
+    "description": ":globe_with_meridians: Geolocation API service -- Run it yourself! | alternative to freegeoip.net",
+    "url": "https://github.com/lrstanley/geoip",
+    "stars": 125,
+    "categories": [
+      "infra",
+      "api",
+      "tools"
+    ],
+    "score": 87,
+    "language": "TypeScript"
+  },
+  {
+    "fullName": "lrstanley/girc",
+    "builder": "lrstanley",
+    "description": ":bomb: girc is a flexible IRC library for Go :ok_hand:",
+    "url": "https://github.com/lrstanley/girc",
+    "stars": 156,
+    "categories": [
+      "api",
+      "tools"
+    ],
+    "score": 87,
+    "language": "Go"
+  },
+  {
+    "fullName": "aimeos/ai-client-jsonapi",
+    "builder": "aimeos",
+    "description": "Aimeos frontend JSON API",
+    "url": "https://github.com/aimeos/ai-client-jsonapi",
+    "stars": 903,
+    "categories": [
+      "ai",
+      "api",
+      "tools"
+    ],
+    "score": 87,
+    "language": "PHP"
+  },
+  {
+    "fullName": "jarek-foksa/xel",
+    "builder": "jarek-foksa",
+    "description": "Xel - Widget toolkit for building native-like Electron and Web apps",
+    "url": "https://github.com/jarek-foksa/xel",
+    "stars": 736,
+    "categories": [
+      "tools"
+    ],
+    "score": 87,
+    "language": "JavaScript"
+  },
+  {
+    "fullName": "nmeum/android-tools",
+    "builder": "nmeum",
+    "description": "Unoffical CMake-based build system for android command line utilities",
+    "url": "https://github.com/nmeum/android-tools",
+    "stars": 272,
+    "categories": [
+      "tools"
+    ],
+    "score": 87,
+    "language": "CMake"
+  },
+  {
+    "fullName": "lrstanley/bubblezone",
+    "builder": "lrstanley",
+    "description": "helper utility for BubbleTea, allowing easy mouse event tracking",
+    "url": "https://github.com/lrstanley/bubblezone",
+    "stars": 793,
+    "categories": [
+      "tools"
+    ],
+    "score": 86,
+    "language": "Go"
+  },
+  {
+    "fullName": "aimeos/ai-client-html",
+    "builder": "aimeos",
+    "description": "Aimeos e-commerce HTML client components",
+    "url": "https://github.com/aimeos/ai-client-html",
+    "stars": 939,
+    "categories": [
+      "ai",
+      "api",
+      "tools"
+    ],
+    "score": 85,
+    "language": "PHP"
+  },
+  {
+    "fullName": "fdciabdul/Google-Trends-Keywords-Scraper",
+    "builder": "fdciabdul",
+    "description": "Scraping Trends Keywords from Google ( All Country)",
+    "url": "https://github.com/fdciabdul/Google-Trends-Keywords-Scraper",
+    "stars": 132,
+    "categories": [
+      "api"
+    ],
+    "score": 85,
+    "language": "JavaScript"
+  },
+  {
+    "fullName": "CryptoGnome/Bybit-Lick-Hunter-v4",
+    "builder": "CryptoGnome",
+    "description": "Lick Hunter is a free trading bot for Bybit built in Node.",
+    "url": "https://github.com/CryptoGnome/Bybit-Lick-Hunter-v4",
+    "stars": 141,
+    "categories": [
+      "crypto",
+      "api",
+      "tools"
+    ],
+    "score": 85,
+    "language": "JavaScript"
+  },
+  {
+    "fullName": "j178/chatgpt",
+    "builder": "j178",
+    "description": "An elegant interactive CLI for ChatGPT",
+    "url": "https://github.com/j178/chatgpt",
+    "stars": 780,
+    "categories": [
+      "ai",
+      "tools"
+    ],
+    "score": 85,
+    "language": "Go"
+  },
+  {
+    "fullName": "Anonym0usWork1221/GMapsScraper",
+    "builder": "Anonym0usWork1221",
+    "description": "A command-line tool which is designed to scrape data from Google Maps search results using multiple threads and efficient search algorithms. ",
+    "url": "https://github.com/Anonym0usWork1221/GMapsScraper",
+    "stars": 55,
+    "categories": [
+      "api",
+      "tools"
+    ],
+    "score": 85,
+    "language": "Python"
+  },
+  {
+    "fullName": "fdciabdul/Vpngate-Scraper-API",
+    "builder": "fdciabdul",
+    "description": "fresh oVPN config from vpngate.net ",
+    "url": "https://github.com/fdciabdul/Vpngate-Scraper-API",
+    "stars": 69,
+    "categories": [
+      "privacy",
+      "api"
+    ],
+    "score": 85,
+    "language": "JavaScript"
+  },
+  {
+    "fullName": "abusaeeidx/IPTV-Scraper-Zilla",
+    "builder": "abusaeeidx",
+    "description": "IPTV Scraper Zilla — High-quality, auto-updating IPTV playlist generator with thousands of live channels including sports, movies, anime, and more. Fast, lightweight, and perfect for seamless streaming across all devices.",
+    "url": "https://github.com/abusaeeidx/IPTV-Scraper-Zilla",
+    "stars": 122,
+    "categories": [
+      "ai",
+      "privacy"
+    ],
+    "score": 85,
+    "language": "Python"
+  },
+  {
+    "fullName": "goruck/nilm",
+    "builder": "goruck",
+    "description": "Energy Management Using Real-Time Non-Intrusive Load Monitoring",
+    "url": "https://github.com/goruck/nilm",
+    "stars": 88,
+    "categories": [
+      "ai",
+      "infra",
+      "privacy"
+    ],
+    "score": 83,
+    "language": "Python"
+  },
+  {
+    "fullName": "hookzof/socks5_list",
+    "builder": "hookzof",
+    "description": "Auto-updated SOCKS5 proxy list + proxies for Telegram",
+    "url": "https://github.com/hookzof/socks5_list",
+    "stars": 875,
+    "categories": [
+      "privacy"
+    ],
+    "score": 82,
+    "language": null
+  },
+  {
+    "fullName": "Anonym0usWork1221/Free-Proxies",
+    "builder": "Anonym0usWork1221",
+    "description": "Update free every 2 hours",
+    "url": "https://github.com/Anonym0usWork1221/Free-Proxies",
+    "stars": 188,
+    "categories": [
+      "privacy"
+    ],
+    "score": 82,
+    "language": "Python"
+  },
+  {
+    "fullName": "dknowles2/ha-pitboss",
+    "builder": "dknowles2",
+    "description": "Home Assistant Custom Integration for PitBoss smokers and grills",
+    "url": "https://github.com/dknowles2/ha-pitboss",
+    "stars": 52,
+    "categories": [
+      "api"
+    ],
+    "score": 82,
+    "language": "Python"
+  },
+  {
+    "fullName": "aimeos/ai-admin-jsonadm",
+    "builder": "aimeos",
+    "description": "Aimeos e-commerce JSON API for administrative tasks",
+    "url": "https://github.com/aimeos/ai-admin-jsonadm",
+    "stars": 22,
+    "categories": [
+      "ai",
+      "api"
+    ],
+    "score": 81,
+    "language": "PHP"
+  },
+  {
+    "fullName": "jiangnanboy/jcorrector",
+    "builder": "jiangnanboy",
+    "description": "jcorrector 中文文本纠错工具， Text Error Correction Tool，Spelling Check",
+    "url": "https://github.com/jiangnanboy/jcorrector",
+    "stars": 81,
+    "categories": [
+      "ai",
+      "privacy",
+      "tools"
+    ],
+    "score": 81,
+    "language": "Java"
+  },
+  {
+    "fullName": "Yawn-Sean/Daily_CF_Problems",
+    "builder": "Yawn-Sean",
+    "description": "To practice your competitive programming skills, try solving daily Codeforces problems!",
+    "url": "https://github.com/Yawn-Sean/Daily_CF_Problems",
+    "stars": 586,
+    "categories": [
+      "ai"
+    ],
+    "score": 81,
+    "language": "C++"
+  },
+  {
+    "fullName": "liutaocode/TTS-arxiv-daily",
+    "builder": "liutaocode",
+    "description": "Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours)",
+    "url": "https://github.com/liutaocode/TTS-arxiv-daily",
+    "stars": 589,
+    "categories": [
+      "ai"
+    ],
+    "score": 81,
+    "language": "Python"
+  },
+  {
+    "fullName": "ColdWindScholar/MIO-KITCHEN-SOURCE",
+    "builder": "ColdWindScholar",
+    "description": "An Android Rom Tool in python",
+    "url": "https://github.com/ColdWindScholar/MIO-KITCHEN-SOURCE",
+    "stars": 353,
+    "categories": [
+      "tools"
+    ],
+    "score": 80,
+    "language": "Python"
+  },
+  {
+    "fullName": "Myyura/the_kai_project",
+    "builder": "Myyura",
+    "description": "The Kai Project, 一个开源的、便捷的、分享与讨论修考试题答案的地方，破除信息之壁。大学院入試（院試）過去問題の解答。",
+    "url": "https://github.com/Myyura/the_kai_project",
+    "stars": 191,
+    "categories": [
+      "ai"
+    ],
+    "score": 80,
+    "language": "CSS"
+  },
+  {
+    "fullName": "DoubleGremlin181/DoubleGremlin181",
+    "builder": "DoubleGremlin181",
+    "description": "Come play TicTacToe on my profile's README",
+    "url": "https://github.com/DoubleGremlin181/DoubleGremlin181",
+    "stars": 148,
+    "categories": [
+      "ai"
+    ],
+    "score": 79,
+    "language": "Python"
+  },
+  {
+    "fullName": "aimeos/aimeos-base",
+    "builder": "aimeos",
+    "description": "Aimeos abstraction layer for host applications",
+    "url": "https://github.com/aimeos/aimeos-base",
+    "stars": 2025,
+    "categories": [
+      "ai"
+    ],
+    "score": 79,
+    "language": "PHP"
+  },
+  {
+    "fullName": "fdciabdul/wa-rs",
+    "builder": "fdciabdul",
+    "description": "A multi-session REST API gateway for WhatsApp Web client built with Rust.",
+    "url": "https://github.com/fdciabdul/wa-rs",
+    "stars": 9,
+    "categories": [
+      "api",
+      "tools"
+    ],
+    "score": 79,
+    "language": "Rust"
+  },
+  {
+    "fullName": "jobovy/extreme-deconvolution",
+    "builder": "jobovy",
+    "description": "Density estimation using Gaussian mixtures in the presence of noisy, heterogeneous and incomplete data",
+    "url": "https://github.com/jobovy/extreme-deconvolution",
+    "stars": 81,
+    "categories": [
+      "ai"
+    ],
+    "score": 78,
+    "language": "Python"
+  },
+  {
+    "fullName": "aimeos/ai-typo3",
+    "builder": "aimeos",
+    "description": "TYPO3 adapter for Aimeos web shops and e-commerce solutions",
+    "url": "https://github.com/aimeos/ai-typo3",
+    "stars": 889,
+    "categories": [
+      "ai"
+    ],
+    "score": 78,
+    "language": "PHP"
+  },
+  {
+    "fullName": "aimeos/ai-laravel",
+    "builder": "aimeos",
+    "description": "Laravel adapter for Aimeos web shops and e-commerce solutions",
+    "url": "https://github.com/aimeos/ai-laravel",
+    "stars": 907,
+    "categories": [
+      "ai"
+    ],
+    "score": 78,
+    "language": "PHP"
+  },
+  {
+    "fullName": "aimeos/ai-admin-jqadm",
+    "builder": "aimeos",
+    "description": "Aimeos e-commerce Vue.js+Bootstrap based admin interface",
+    "url": "https://github.com/aimeos/ai-admin-jqadm",
+    "stars": 949,
+    "categories": [
+      "ai"
+    ],
+    "score": 78,
+    "language": "PHP"
+  },
+  {
+    "fullName": "aimeos/ai-cms-grapesjs",
+    "builder": "aimeos",
+    "description": "GrapesJS CMS integration into Aimeos",
+    "url": "https://github.com/aimeos/ai-cms-grapesjs",
+    "stars": 903,
+    "categories": [
+      "ai",
+      "api"
+    ],
+    "score": 78,
+    "language": "PHP"
+  },
+  {
+    "fullName": "dknowles2/pydrawise",
+    "builder": "dknowles2",
+    "description": "Asynchronous Python 3 library for interacting with Hydrawise sprinkler controllers through the GraphQL API",
+    "url": "https://github.com/dknowles2/pydrawise",
+    "stars": 8,
+    "categories": [
+      "api"
+    ],
+    "score": 78,
+    "language": "Python"
+  },
+  {
+    "fullName": "UnknownX7/NoClippy",
+    "builder": "UnknownX7",
+    "description": "A XIVLauncher plugin.",
+    "url": "https://github.com/UnknownX7/NoClippy",
+    "stars": 152,
+    "categories": [
+      "tools"
+    ],
+    "score": 77,
+    "language": "C#"
+  },
+  {
+    "fullName": "ZhiXuanWang/cf-speed-dns",
+    "builder": "ZhiXuanWang",
+    "description": "CF优选IP工具。动态获取Cloudflare优选IP，CloudflareSpeedTest测速。",
+    "url": "https://github.com/ZhiXuanWang/cf-speed-dns",
+    "stars": 1213,
+    "categories": [
+      "infra"
+    ],
+    "score": 77,
+    "language": "Python"
+  },
+  {
+    "fullName": "aimeos/ai-admin-graphql",
+    "builder": "aimeos",
+    "description": "Aimeos GraphQL API admin interface",
+    "url": "https://github.com/aimeos/ai-admin-graphql",
+    "stars": 880,
+    "categories": [
+      "ai",
+      "api"
+    ],
+    "score": 76,
+    "language": "PHP"
+  },
+  {
+    "fullName": "zhukovyuri/VIINA",
+    "builder": "zhukovyuri",
+    "description": "VIINA: Violent Incident Information from News Articles on the 2022 Russian Invasion of Ukraine",
+    "url": "https://github.com/zhukovyuri/VIINA",
+    "stars": 333,
+    "categories": [
+      "ai"
+    ],
+    "score": 76,
+    "language": null
+  },
+  {
+    "fullName": "abusaeeidx/Mrgify-BDIX-IPTV",
+    "builder": "abusaeeidx",
+    "description": "Mrgify-Tv provides a regularly updated BDIX IPTV playlist featuring Bangladeshi and international live TV channels. It is designed for seamless streaming through BDIX networks, offering sports, news, movies, and entertainment channels.",
+    "url": "https://github.com/abusaeeidx/Mrgify-BDIX-IPTV",
+    "stars": 20,
+    "categories": [
+      "ai"
+    ],
+    "score": 76,
+    "language": null
+  },
+  {
+    "fullName": "Brandawg93/homebridge-fordpass",
+    "builder": "Brandawg93",
+    "description": "Control your Ford vehicle in HomeKit using Homebridge.",
+    "url": "https://github.com/Brandawg93/homebridge-fordpass",
+    "stars": 63,
+    "categories": [
+      "crypto"
+    ],
+    "score": 75,
+    "language": "TypeScript"
+  },
+  {
+    "fullName": "tunjid/Mutator",
+    "builder": "tunjid",
+    "description": "Flow powered mutual exclusion for UI state mutation over time.",
+    "url": "https://github.com/tunjid/Mutator",
+    "stars": 64,
+    "categories": [
+      "privacy"
+    ],
+    "score": 75,
+    "language": "Kotlin"
+  },
+  {
+    "fullName": "aimeos/prisma",
+    "builder": "aimeos",
+    "description": "Light-weight PHP package for integrating multi-media related Large Language Models (LLMs) using a unified interface",
+    "url": "https://github.com/aimeos/prisma",
+    "stars": 35,
+    "categories": [
+      "ai",
+      "api"
+    ],
+    "score": 75,
+    "language": "PHP"
+  },
+  {
+    "fullName": "tzachbon/smart-ralph",
+    "builder": "tzachbon",
+    "description": "Spec-driven development with smart compaction. Claude Code plugin combining Ralph Wiggum loop with structured specification workflow.",
+    "url": "https://github.com/tzachbon/smart-ralph",
+    "stars": 97,
+    "categories": [
+      "tools"
+    ],
+    "score": 75,
+    "language": "Shell"
+  },
+  {
+    "fullName": "sanand0/eslint-plugin-template",
+    "builder": "sanand0",
+    "description": "Parses out template declarations found in js and html files.",
+    "url": "https://github.com/sanand0/eslint-plugin-template",
+    "stars": 5,
+    "categories": [
+      "ai",
+      "tools"
+    ],
+    "score": 74,
+    "language": "JavaScript"
+  },
+  {
+    "fullName": "aimeos/ai-controller-frontend",
+    "builder": "aimeos",
+    "description": "Aimeos frontend controler",
+    "url": "https://github.com/aimeos/ai-controller-frontend",
+    "stars": 902,
+    "categories": [
+      "ai"
+    ],
+    "score": 72,
+    "language": "PHP"
+  },
+  {
+    "fullName": "aimeos/ai-controller-jobs",
+    "builder": "aimeos",
+    "description": "Aimeos e-commerce job controllers",
+    "url": "https://github.com/aimeos/ai-controller-jobs",
+    "stars": 906,
+    "categories": [
+      "ai"
+    ],
+    "score": 72,
+    "language": "PHP"
+  },
+  {
+    "fullName": "UnknownX7/ReAction",
+    "builder": "UnknownX7",
+    "description": "A XIVLauncher plugin.",
+    "url": "https://github.com/UnknownX7/ReAction",
+    "stars": 88,
+    "categories": [
+      "tools"
+    ],
+    "score": 72,
+    "language": "C#"
+  },
+  {
+    "fullName": "UnknownX7/Cammy",
+    "builder": "UnknownX7",
+    "description": "A XIVLauncher plugin.",
+    "url": "https://github.com/UnknownX7/Cammy",
+    "stars": 62,
+    "categories": [
+      "tools"
+    ],
+    "score": 71,
+    "language": "C#"
+  },
+  {
+    "fullName": "ai-in-pm/Kali-AI",
+    "builder": "ai-in-pm",
+    "description": "KaliAI is an advanced AI assistant designed to help security professionals and ethical hackers leverage Kali Linux tools effectively and safely. It provides guidance, explanations, and security insights while emphasizing ethical considerations and best practices.",
+    "url": "https://github.com/ai-in-pm/Kali-AI",
+    "stars": 16,
+    "categories": [
+      "ai",
+      "privacy",
+      "tools"
+    ],
+    "score": 71,
+    "language": "Python"
+  },
+  {
+    "fullName": "hujingguang/ChinaIPTV",
+    "builder": "hujingguang",
+    "description": "中国电视直播源 cnTV m3u（实时更新,长期有效）",
+    "url": "https://github.com/hujingguang/ChinaIPTV",
+    "stars": 1657,
+    "categories": [
+      "ai"
+    ],
+    "score": 70,
+    "language": null
+  }
+]

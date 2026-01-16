@@ -1,23 +1,41 @@
-# dependencies
-node_modules
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
 
-# next.js
-.next
-out
+# Testing
+/coverage
 
-# env files
-.env
-.env.local
-.env.production
+# Next.js
+/.next/
+/out/
 
-# logs
+# Production
+/build
+
+# Misc
+.DS_Store
+*.pem
+
+# Debug
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# system
-.DS_Store
-Thumbs.db
+# Local env files
+.env*.local
+.env
 
-# vercel
+# Vercel
 .vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Scanner internal data (don't commit)
+scanner/data.json
+scanner/state.json
+
+# BUT DO commit the exported data for Vercel
+!public/data/*.json

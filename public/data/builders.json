@@ -1,0 +1,2505 @@
+[
+  {
+    "username": "aimeos",
+    "name": "Aimeos",
+    "avatar": "https://avatars.githubusercontent.com/u/8647429?v=4",
+    "bio": "Ultra-fast, Cloud-native, API-first PHP e-commerce framework for building custom online shops, scalable marketplaces and complex B2B apps #gigacommerce #OSS",
+    "location": "worldwide",
+    "website": "https://aimeos.org/",
+    "twitter": "aimeos",
+    "followers": 1634,
+    "focusAreas": [
+      "ai",
+      "api",
+      "crypto",
+      "games",
+      "infra",
+      "agi",
+      "tools"
+    ],
+    "reputationScore": 95,
+    "consistencyScore": 76,
+    "lastActive": "2025-12-02T11:52:55Z",
+    "topRepos": [
+      {
+        "name": "pagible",
+        "fullName": "aimeos/pagible",
+        "description": "Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with JSON:API, GraphQL APIs, templates, and themes",
+        "url": "https://github.com/aimeos/pagible",
+        "stars": 389,
+        "forks": 12,
+        "language": "Vue",
+        "topics": [
+          "ai",
+          "api",
+          "cms",
+          "content-management",
+          "content-management-system",
+          "contentful",
+          "graphql",
+          "headless-cms",
+          "jsonapi",
+          "laravel",
+          "laravel-cms",
+          "multi-tenancy",
+          "multi-tenant",
+          "multitenancy",
+          "multitenant",
+          "php",
+          "vuejs",
+          "vuejs3",
+          "wordpress"
+        ],
+        "categories": [
+          "ai",
+          "infra",
+          "api",
+          "agi"
+        ],
+        "score": 92,
+        "coinWorthy": true
+      },
+      {
+        "name": "aimeos-headless",
+        "fullName": "aimeos/aimeos-headless",
+        "description": "Aimeos cloud-native, API-first ecommerce headless distribution based on Laravel 11 for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce",
+        "url": "https://github.com/aimeos/aimeos-headless",
+        "stars": 2388,
+        "forks": 25,
+        "language": "JavaScript",
+        "topics": [
+          "api",
+          "cloud",
+          "ecommerce",
+          "ecommerce-api",
+          "ecommerce-framework",
+          "ecommerce-platform",
+          "headless",
+          "laravel",
+          "microservice",
+          "php",
+          "shop",
+          "vue"
+        ],
+        "categories": [
+          "ai",
+          "infra",
+          "api"
+        ],
+        "score": 91,
+        "coinWorthy": true
+      },
+      {
+        "name": "aimeos-core",
+        "fullName": "aimeos/aimeos-core",
+        "description": "Aimeos PHP e-commerce framework for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce",
+        "url": "https://github.com/aimeos/aimeos-core",
+        "stars": 4374,
+        "forks": 122,
+        "language": "PHP",
+        "topics": [
+          "aimeos",
+          "b2b",
+          "cart",
+          "e-commerce",
+          "ecommerce",
+          "ecommerce-platform",
+          "marketplace",
+          "performance",
+          "php",
+          "php-library",
+          "shop",
+          "shopping-cart"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 90,
+        "coinWorthy": true
+      },
+      {
+        "name": "aimeos-symfony",
+        "fullName": "aimeos/aimeos-symfony",
+        "description": "Symfony e-commerce bundle for professional, ultra fast online shops, complex B2B applications and #gigacommerce",
+        "url": "https://github.com/aimeos/aimeos-symfony",
+        "stars": 1363,
+        "forks": 52,
+        "language": "CSS",
+        "topics": [
+          "aimeos",
+          "b2b",
+          "e-commerce",
+          "ecommerce",
+          "json-api",
+          "marketplace",
+          "performance",
+          "php",
+          "shop",
+          "symfony",
+          "symfony-ecommerce-bundle"
+        ],
+        "categories": [
+          "ai",
+          "api"
+        ],
+        "score": 88,
+        "coinWorthy": true
+      },
+      {
+        "name": "aimeos-typo3",
+        "fullName": "aimeos/aimeos-typo3",
+        "description": "TYPO3 e-commerce extension for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce",
+        "url": "https://github.com/aimeos/aimeos-typo3",
+        "stars": 1378,
+        "forks": 733,
+        "language": "PHP",
+        "topics": [
+          "aimeos",
+          "b2b",
+          "e-commerce",
+          "ecommerce",
+          "ecommerce-platform",
+          "json-api",
+          "marketplace",
+          "performance",
+          "php",
+          "seo",
+          "shop",
+          "typo3",
+          "typo3-extension",
+          "vue",
+          "vuejs"
+        ],
+        "categories": [
+          "ai",
+          "api",
+          "tools"
+        ],
+        "score": 88,
+        "coinWorthy": true
+      }
+    ]
+  },
+  {
+    "username": "sanand0",
+    "name": "S Anand",
+    "avatar": "https://avatars.githubusercontent.com/u/63734?v=4",
+    "bio": "LLM Psychologist",
+    "location": "Singapore",
+    "website": "http://s-anand.net/",
+    "twitter": null,
+    "followers": 1177,
+    "focusAreas": [
+      "ai",
+      "tools",
+      "privacy"
+    ],
+    "reputationScore": 90,
+    "consistencyScore": 64,
+    "lastActive": "2026-01-11T04:46:10Z",
+    "topRepos": [
+      {
+        "name": "generative-ai-group",
+        "fullName": "sanand0/generative-ai-group",
+        "description": "Podcast generator for chats from a Generative AI Group on WhatsApp",
+        "url": "https://github.com/sanand0/generative-ai-group",
+        "stars": 4,
+        "forks": 1,
+        "language": "Python",
+        "topics": [
+          "llm",
+          "tool"
+        ],
+        "categories": [
+          "ai",
+          "privacy",
+          "tools"
+        ],
+        "score": 80,
+        "coinWorthy": false
+      },
+      {
+        "name": "eslint-plugin-template",
+        "fullName": "sanand0/eslint-plugin-template",
+        "description": "Parses out template declarations found in js and html files.",
+        "url": "https://github.com/sanand0/eslint-plugin-template",
+        "stars": 5,
+        "forks": 3,
+        "language": "JavaScript",
+        "topics": [
+          "library",
+          "tool"
+        ],
+        "categories": [
+          "ai",
+          "tools"
+        ],
+        "score": 74,
+        "coinWorthy": true
+      },
+      {
+        "name": "tools",
+        "fullName": "sanand0/tools",
+        "description": "Lots of little web apps, mostly written by LLMs",
+        "url": "https://github.com/sanand0/tools",
+        "stars": 5,
+        "forks": 1,
+        "language": "JavaScript",
+        "topics": [
+          "tool"
+        ],
+        "categories": [
+          "ai",
+          "tools"
+        ],
+        "score": 68,
+        "coinWorthy": false
+      },
+      {
+        "name": "chatgpt-to-markdown",
+        "fullName": "sanand0/chatgpt-to-markdown",
+        "description": "Convert ChatGPT exported conversations.json to Markdown",
+        "url": "https://github.com/sanand0/chatgpt-to-markdown",
+        "stars": 7,
+        "forks": 2,
+        "language": "JavaScript",
+        "topics": [
+          "tool"
+        ],
+        "categories": [
+          "ai",
+          "tools"
+        ],
+        "score": 67,
+        "coinWorthy": false
+      },
+      {
+        "name": "asyncllm",
+        "fullName": "sanand0/asyncllm",
+        "description": "Fetch streaming LLM responses as an async iterable",
+        "url": "https://github.com/sanand0/asyncllm",
+        "stars": 4,
+        "forks": 0,
+        "language": "JavaScript",
+        "topics": [
+          "library",
+          "tool"
+        ],
+        "categories": [
+          "ai",
+          "tools"
+        ],
+        "score": 54,
+        "coinWorthy": false
+      }
+    ]
+  },
+  {
+    "username": "crypmancer",
+    "name": "CryptoMancer",
+    "avatar": "https://avatars.githubusercontent.com/u/4560330?v=4",
+    "bio": "Always enjoy new challenges.\r\n\r\nweb3, defi/dex, ai agent...",
+    "location": "Everywhere",
+    "website": "zintraxa.com",
+    "twitter": null,
+    "followers": 859,
+    "focusAreas": [
+      "crypto",
+      "privacy",
+      "ai",
+      "infra",
+      "games",
+      "api",
+      "tools"
+    ],
+    "reputationScore": 86,
+    "consistencyScore": 70,
+    "lastActive": "2026-01-14T22:13:38Z",
+    "topRepos": [
+      {
+        "name": "polymarket-arbitrage-copy-bot",
+        "fullName": "crypmancer/polymarket-arbitrage-copy-bot",
+        "description": "A sophisticated trading bot written in Rust that combines arbitrage detection and copy trading strategies on Polymarket. This bot monitors successful wallets (like arbitrage-focused bots) and selectively copies their trades when arbitrage opportunities are detected.",
+        "url": "https://github.com/crypmancer/polymarket-arbitrage-copy-bot",
+        "stars": 55,
+        "forks": 57,
+        "language": "TypeScript",
+        "topics": [
+          "polymarket",
+          "polymarket-arbitrage",
+          "polymarket-copytrading-bot",
+          "polymarket-trading-bot"
+        ],
+        "categories": [
+          "crypto",
+          "privacy"
+        ],
+        "score": 91,
+        "coinWorthy": true
+      },
+      {
+        "name": "bnb-copy-trading-bot-go",
+        "fullName": "crypmancer/bnb-copy-trading-bot-go",
+        "description": "A Binance Smart Chain (BSC) copy trading bot built in Go that monitors swap transactions from a master wallet on PancakeSwap and automatically replicates them on your follower wallet. BNB Copy Trading Bot BNB Copy Trading Bot BNB Copy Trading Bot BNB Copy Trading Bot BNB Copy Trading Bot",
+        "url": "https://github.com/crypmancer/bnb-copy-trading-bot-go",
+        "stars": 156,
+        "forks": 52,
+        "language": "Go",
+        "topics": [
+          "bnb-chain",
+          "copytrading",
+          "copytradingbot",
+          "golang",
+          "pancake"
+        ],
+        "categories": [
+          "crypto",
+          "ai",
+          "privacy"
+        ],
+        "score": 88,
+        "coinWorthy": true
+      },
+      {
+        "name": "dexscreener-monitor",
+        "fullName": "crypmancer/dexscreener-monitor",
+        "description": "A professional, production-ready monitoring system for Dexscreener that tracks token boosts (paid promotions) and community takeovers (community-claimed listings) with real-time Telegram alerts.",
+        "url": "https://github.com/crypmancer/dexscreener-monitor",
+        "stars": 0,
+        "forks": 0,
+        "language": "TypeScript",
+        "topics": [
+          "alerts",
+          "blockchain",
+          "community-takeovers",
+          "crypto",
+          "cryptocurrency",
+          "defi",
+          "dexscreener",
+          "monitoring",
+          "telegram",
+          "token-boosts"
+        ],
+        "categories": [
+          "crypto",
+          "ai",
+          "infra",
+          "privacy",
+          "games"
+        ],
+        "score": 81,
+        "coinWorthy": false
+      },
+      {
+        "name": "pokemon-nft-game-contract",
+        "fullName": "crypmancer/pokemon-nft-game-contract",
+        "description": "A comprehensive Pokemon NFT game built on Solana using Anchor framework. This project includes NFT minting, battle mechanics, leveling system, and a complete TypeScript client SDK.",
+        "url": "https://github.com/crypmancer/pokemon-nft-game-contract",
+        "stars": 1,
+        "forks": 0,
+        "language": "TypeScript",
+        "topics": [
+          "nft-game",
+          "pokemon",
+          "solana"
+        ],
+        "categories": [
+          "crypto",
+          "games",
+          "api",
+          "tools"
+        ],
+        "score": 78,
+        "coinWorthy": false
+      },
+      {
+        "name": "x402-AgentPay",
+        "fullName": "crypmancer/x402-AgentPay",
+        "description": "Pay‑per‑use AI image generator with x402 (HTTP 402) micropayments using USDC on Base. Frontend (Next.js) + API (Express, TypeScript), Replicate-powered.",
+        "url": "https://github.com/crypmancer/x402-AgentPay",
+        "stars": 1,
+        "forks": 0,
+        "language": "TypeScript",
+        "topics": [
+          "ai-agent",
+          "http-402",
+          "micropayments",
+          "pay-per-request",
+          "pay-per-use",
+          "payment-required",
+          "web3-payments",
+          "x402"
+        ],
+        "categories": [
+          "crypto",
+          "ai",
+          "privacy",
+          "api"
+        ],
+        "score": 77,
+        "coinWorthy": false
+      }
+    ]
+  },
+  {
+    "username": "CryptoGnome",
+    "name": "Crypto Gnome",
+    "avatar": "https://avatars.githubusercontent.com/u/33667144?v=4",
+    "bio": "Developing unique solutions using Python, Javascript, & C# with interests in automation and Web3.",
+    "location": null,
+    "website": "",
+    "twitter": "Crypt0Gnome",
+    "followers": 1143,
+    "focusAreas": [
+      "crypto",
+      "api",
+      "tools"
+    ],
+    "reputationScore": 84,
+    "consistencyScore": 66,
+    "lastActive": "2022-02-17T13:07:44Z",
+    "topRepos": [
+      {
+        "name": "Bybit-Lick-Hunter-v4",
+        "fullName": "CryptoGnome/Bybit-Lick-Hunter-v4",
+        "description": "Lick Hunter is a free trading bot for Bybit built in Node.",
+        "url": "https://github.com/CryptoGnome/Bybit-Lick-Hunter-v4",
+        "stars": 141,
+        "forks": 60,
+        "language": "JavaScript",
+        "topics": [
+          "altcoins",
+          "bitcoin",
+          "bybit",
+          "bybit-api-client",
+          "bybit-apis",
+          "bybit-bot",
+          "crypocurrency",
+          "crypto",
+          "crypto-trading-bot",
+          "ethereum",
+          "trading-bots",
+          "tradingbot"
+        ],
+        "categories": [
+          "crypto",
+          "api",
+          "tools"
+        ],
+        "score": 85,
+        "coinWorthy": true
+      },
+      {
+        "name": "aster_lick_hunter_node",
+        "fullName": "CryptoGnome/aster_lick_hunter_node",
+        "description": "Automated Crypto Trading Bot on Aster DEX",
+        "url": "https://github.com/CryptoGnome/aster_lick_hunter_node",
+        "stars": 26,
+        "forks": 19,
+        "language": "TypeScript",
+        "topics": [],
+        "categories": [
+          "crypto"
+        ],
+        "score": 68,
+        "coinWorthy": false
+      },
+      {
+        "name": "aster_lick_hunter",
+        "fullName": "CryptoGnome/aster_lick_hunter",
+        "description": "Early Beta for a new version of a perpetual DEX by Binance: https://www.asterdex.com/en/referral/3TixB2",
+        "url": "https://github.com/CryptoGnome/aster_lick_hunter",
+        "stars": 27,
+        "forks": 11,
+        "language": "Python",
+        "topics": [
+          "trading",
+          "trading-bot"
+        ],
+        "categories": [
+          "crypto"
+        ],
+        "score": 68,
+        "coinWorthy": false
+      },
+      {
+        "name": "WheelForge",
+        "fullName": "CryptoGnome/WheelForge",
+        "description": "Runnable algo template for trading the Options Wheel strategy",
+        "url": "https://github.com/CryptoGnome/WheelForge",
+        "stars": 2,
+        "forks": 1,
+        "language": "Python",
+        "topics": [
+          "alpaca-bot",
+          "alpaca-trading-api",
+          "automated-trade-script",
+          "automated-trading-strategies",
+          "covered-calls",
+          "options",
+          "put-option",
+          "trading-bot",
+          "wheel-strategy"
+        ],
+        "categories": [
+          "api"
+        ],
+        "score": 57,
+        "coinWorthy": false
+      },
+      {
+        "name": "orb_miner",
+        "fullName": "CryptoGnome/orb_miner",
+        "description": "A fully automated bot with advanced mathematical optimization for $ORB ",
+        "url": "https://github.com/CryptoGnome/orb_miner",
+        "stars": 4,
+        "forks": 4,
+        "language": "TypeScript",
+        "topics": [
+          "miner",
+          "mining",
+          "orb",
+          "ore",
+          "solana"
+        ],
+        "categories": [
+          "crypto"
+        ],
+        "score": 54,
+        "coinWorthy": false
+      }
+    ]
+  },
+  {
+    "username": "ai-in-pm",
+    "name": "AI in PM",
+    "avatar": "https://avatars.githubusercontent.com/u/36999549?v=4",
+    "bio": "Influencing AI in Project Management.",
+    "location": null,
+    "website": "",
+    "twitter": null,
+    "followers": 747,
+    "focusAreas": [
+      "ai",
+      "agi",
+      "privacy",
+      "tools",
+      "api"
+    ],
+    "reputationScore": 79,
+    "consistencyScore": 59,
+    "lastActive": "2025-01-16T01:59:27Z",
+    "topRepos": [
+      {
+        "name": "Kali-AI",
+        "fullName": "ai-in-pm/Kali-AI",
+        "description": "KaliAI is an advanced AI assistant designed to help security professionals and ethical hackers leverage Kali Linux tools effectively and safely. It provides guidance, explanations, and security insights while emphasizing ethical considerations and best practices.",
+        "url": "https://github.com/ai-in-pm/Kali-AI",
+        "stars": 16,
+        "forks": 10,
+        "language": "Python",
+        "topics": [],
+        "categories": [
+          "ai",
+          "privacy",
+          "tools"
+        ],
+        "score": 71,
+        "coinWorthy": true
+      },
+      {
+        "name": "AI-Co-Scientist",
+        "fullName": "ai-in-pm/AI-Co-Scientist",
+        "description": "AI Co-Scientist is a comprehensive multi-agent AI system designed for scientific research and hypothesis generation. ",
+        "url": "https://github.com/ai-in-pm/AI-Co-Scientist",
+        "stars": 17,
+        "forks": 5,
+        "language": "Python",
+        "topics": [],
+        "categories": [
+          "ai",
+          "agi"
+        ],
+        "score": 63,
+        "coinWorthy": false
+      },
+      {
+        "name": "A.D.A.M.---SLM",
+        "fullName": "ai-in-pm/A.D.A.M.---SLM",
+        "description": "Applied Decision Architecture Matrix - Small Language Model",
+        "url": "https://github.com/ai-in-pm/A.D.A.M.---SLM",
+        "stars": 1,
+        "forks": 0,
+        "language": "Python",
+        "topics": [
+          "ai",
+          "local-slm",
+          "no-api-key",
+          "no-frontier-llm",
+          "private-slm",
+          "self-contained",
+          "slm",
+          "small-language-model"
+        ],
+        "categories": [
+          "ai",
+          "api"
+        ],
+        "score": 59,
+        "coinWorthy": false
+      },
+      {
+        "name": "Evolving-Deeper-LLM-Thinking",
+        "fullName": "ai-in-pm/Evolving-Deeper-LLM-Thinking",
+        "description": "A multi-agent system demonstrating the principles of Mind Evolution through collaborative problem-solving using different LLM providers.",
+        "url": "https://github.com/ai-in-pm/Evolving-Deeper-LLM-Thinking",
+        "stars": 12,
+        "forks": 2,
+        "language": "Python",
+        "topics": [],
+        "categories": [
+          "ai",
+          "agi"
+        ],
+        "score": 57,
+        "coinWorthy": false
+      },
+      {
+        "name": "DAPO",
+        "fullName": "ai-in-pm/DAPO",
+        "description": "This repository contains an implementation of the Decoupled Clip and Dynamic Sampling Policy Optimization (DAPO) algorithm for reinforcement learning with language models.",
+        "url": "https://github.com/ai-in-pm/DAPO",
+        "stars": 5,
+        "forks": 1,
+        "language": "Python",
+        "topics": [],
+        "categories": [
+          "ai",
+          "privacy",
+          "tools"
+        ],
+        "score": 54,
+        "coinWorthy": false
+      }
+    ]
+  },
+  {
+    "username": "lrstanley",
+    "name": "Liam Stanley",
+    "avatar": "https://avatars.githubusercontent.com/u/1847365?v=4",
+    "bio": "I do a bit of everything.",
+    "location": "Colorado Springs, CO",
+    "website": "https://liam.sh",
+    "twitter": null,
+    "followers": 246,
+    "focusAreas": [
+      "tools",
+      "infra",
+      "api",
+      "ai",
+      "privacy"
+    ],
+    "reputationScore": 78,
+    "consistencyScore": 73,
+    "lastActive": "2026-01-16T13:17:08Z",
+    "topRepos": [
+      {
+        "name": "entrest",
+        "fullName": "lrstanley/entrest",
+        "description": "Extension that generates a compliant OpenAPI spec and server implementation",
+        "url": "https://github.com/lrstanley/entrest",
+        "stars": 38,
+        "forks": 8,
+        "language": "Go",
+        "topics": [
+          "ent",
+          "entity-framework",
+          "go",
+          "golang",
+          "openapi",
+          "openapi3",
+          "orm"
+        ],
+        "categories": [
+          "api",
+          "tools"
+        ],
+        "score": 93,
+        "coinWorthy": true
+      },
+      {
+        "name": "vault-unseal",
+        "fullName": "lrstanley/vault-unseal",
+        "description": "auto-unseal utility for Hashicorp Vault",
+        "url": "https://github.com/lrstanley/vault-unseal",
+        "stars": 297,
+        "forks": 44,
+        "language": "Go",
+        "topics": [
+          "auto-unseal",
+          "cli",
+          "go",
+          "golang",
+          "hashicorp",
+          "unseal",
+          "unseals-vault-servers",
+          "vault",
+          "vault-api",
+          "vault-unseal"
+        ],
+        "categories": [
+          "api",
+          "tools"
+        ],
+        "score": 89,
+        "coinWorthy": true
+      },
+      {
+        "name": "go-ytdlp",
+        "fullName": "lrstanley/go-ytdlp",
+        "description": "yt-dlp cli bindings for Go",
+        "url": "https://github.com/lrstanley/go-ytdlp",
+        "stars": 274,
+        "forks": 18,
+        "language": "Go",
+        "topics": [
+          "youtube-dl",
+          "yt-dlp",
+          "yt-dlp-wrapper"
+        ],
+        "categories": [
+          "api",
+          "tools"
+        ],
+        "score": 89,
+        "coinWorthy": true
+      },
+      {
+        "name": "girc",
+        "fullName": "lrstanley/girc",
+        "description": ":bomb: girc is a flexible IRC library for Go :ok_hand:",
+        "url": "https://github.com/lrstanley/girc",
+        "stars": 156,
+        "forks": 17,
+        "language": "Go",
+        "topics": [
+          "ctcp",
+          "go",
+          "golang",
+          "irc",
+          "irc-client",
+          "ircv3",
+          "library",
+          "sasl"
+        ],
+        "categories": [
+          "api",
+          "tools"
+        ],
+        "score": 87,
+        "coinWorthy": true
+      },
+      {
+        "name": "geoip",
+        "fullName": "lrstanley/geoip",
+        "description": ":globe_with_meridians: Geolocation API service -- Run it yourself! | alternative to freegeoip.net",
+        "url": "https://github.com/lrstanley/geoip",
+        "stars": 125,
+        "forks": 8,
+        "language": "TypeScript",
+        "topics": [
+          "api",
+          "cli",
+          "docker",
+          "geoip",
+          "go",
+          "golang",
+          "maxmind-geoip"
+        ],
+        "categories": [
+          "infra",
+          "api",
+          "tools"
+        ],
+        "score": 87,
+        "coinWorthy": true
+      }
+    ]
+  },
+  {
+    "username": "anitaa1990",
+    "name": "Anitaa Murthy",
+    "avatar": "https://avatars.githubusercontent.com/u/22608780?v=4",
+    "bio": "Android Developer/iOS Developer",
+    "location": "Chennai",
+    "website": "",
+    "twitter": null,
+    "followers": 1997,
+    "focusAreas": [
+      "privacy",
+      "ai",
+      "games",
+      "api"
+    ],
+    "reputationScore": 75,
+    "consistencyScore": 58,
+    "lastActive": "2025-04-10T17:07:00Z",
+    "topRepos": [
+      {
+        "name": "Github-Trending-Repos",
+        "fullName": "anitaa1990/Github-Trending-Repos",
+        "description": "An Android App that lists the most trending repositories from Github.",
+        "url": "https://github.com/anitaa1990/Github-Trending-Repos",
+        "stars": 66,
+        "forks": 25,
+        "language": "Kotlin",
+        "topics": [
+          "android",
+          "android-app",
+          "android-application",
+          "android-studio",
+          "dagger2-android",
+          "dagger2-mvvm",
+          "databinding",
+          "java8",
+          "kotlin-android",
+          "mvvm-architecture",
+          "offline-first",
+          "repository-pattern",
+          "rxjava2-dagger2-retrofit2"
+        ],
+        "categories": [
+          "privacy"
+        ],
+        "score": 67,
+        "coinWorthy": false
+      },
+      {
+        "name": "RideSim",
+        "fullName": "anitaa1990/RideSim",
+        "description": "RideSim is a ride-hailing simulation app where the user can select a pickup and drop location, see the route on a map, estimate the fare, and simulate a driver arriving and completing a ride. It’s focused on showcasing Jetpack Compose + Maps + trip flow logic.",
+        "url": "https://github.com/anitaa1990/RideSim",
+        "stars": 1,
+        "forks": 0,
+        "language": "Kotlin",
+        "topics": [
+          "android",
+          "android-app",
+          "android-application",
+          "android-development",
+          "android-sdk",
+          "android-studio",
+          "android-ui",
+          "androidstudio",
+          "jetpack",
+          "jetpack-android",
+          "jetpack-compose",
+          "jetpack-navigation",
+          "jetpackcompose",
+          "kotlin",
+          "kotlin-android",
+          "kotlin-coroutines",
+          "kotlin-language"
+        ],
+        "categories": [
+          "ai",
+          "games",
+          "api"
+        ],
+        "score": 57,
+        "coinWorthy": false
+      },
+      {
+        "name": "Trailers-Compose",
+        "fullName": "anitaa1990/Trailers-Compose",
+        "description": "A simple demo project for The Movie DB based on MVVM clean architecture and Jetpack Compose.",
+        "url": "https://github.com/anitaa1990/Trailers-Compose",
+        "stars": 2,
+        "forks": 3,
+        "language": "Kotlin",
+        "topics": [
+          "android",
+          "android-app",
+          "android-architecture",
+          "android-development",
+          "android-ui",
+          "jetpack-compose",
+          "jetpack-navigation",
+          "kotlin-android",
+          "kotlin-coroutines",
+          "kotlin-flow",
+          "kotlin-language"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 50,
+        "coinWorthy": false
+      }
+    ]
+  },
+  {
+    "username": "AISoltani",
+    "name": "AIsoltani",
+    "avatar": "https://avatars.githubusercontent.com/u/56760080?v=4",
+    "bio": "⚡⚡AI, Deep, Vision, ML, PR⚡⚡",
+    "location": "What do you thing?!",
+    "website": "",
+    "twitter": "AISoltani",
+    "followers": 1849,
+    "focusAreas": [
+      "ai",
+      "tools",
+      "privacy"
+    ],
+    "reputationScore": 73,
+    "consistencyScore": 54,
+    "lastActive": "2024-11-30T11:45:26Z",
+    "topRepos": [
+      {
+        "name": "Vison_advanced",
+        "fullName": "AISoltani/Vison_advanced",
+        "description": "In this repo advanced vision tools are used . Algorithms for edge detection of various filters and scaling.",
+        "url": "https://github.com/AISoltani/Vison_advanced",
+        "stars": 11,
+        "forks": 1,
+        "language": "Jupyter Notebook",
+        "topics": [
+          "augmentation",
+          "channels",
+          "color",
+          "corner-detection",
+          "edge-detection",
+          "filter",
+          "filtering",
+          "harris-corner-detector",
+          "image",
+          "imagemanipulation",
+          "manipulation",
+          "segmentation",
+          "vision"
+        ],
+        "categories": [
+          "privacy",
+          "tools"
+        ],
+        "score": 57,
+        "coinWorthy": false
+      },
+      {
+        "name": "Yolov11-Android-Tool-Kotlin",
+        "fullName": "AISoltani/Yolov11-Android-Tool-Kotlin",
+        "description": "YOLO Object Detection and Segmentation using TensorFlow Lite in Kotlin",
+        "url": "https://github.com/AISoltani/Yolov11-Android-Tool-Kotlin",
+        "stars": 10,
+        "forks": 1,
+        "language": "Kotlin",
+        "topics": [],
+        "categories": [
+          "ai",
+          "tools"
+        ],
+        "score": 53,
+        "coinWorthy": false
+      },
+      {
+        "name": "AISoltani",
+        "fullName": "AISoltani/AISoltani",
+        "description": "",
+        "url": "https://github.com/AISoltani/AISoltani",
+        "stars": 15,
+        "forks": 2,
+        "language": null,
+        "topics": [],
+        "categories": [
+          "ai"
+        ],
+        "score": 51,
+        "coinWorthy": false
+      }
+    ]
+  },
+  {
+    "username": "fdciabdul",
+    "name": "taqin",
+    "avatar": "https://avatars.githubusercontent.com/u/31664438?v=4",
+    "bio": null,
+    "location": "Indonesia",
+    "website": "https://imtaqin.id",
+    "twitter": null,
+    "followers": 564,
+    "focusAreas": [
+      "api",
+      "privacy",
+      "infra",
+      "tools"
+    ],
+    "reputationScore": 72,
+    "consistencyScore": 78,
+    "lastActive": "2026-01-16T13:17:24Z",
+    "topRepos": [
+      {
+        "name": "Google-Trends-Keywords-Scraper",
+        "fullName": "fdciabdul/Google-Trends-Keywords-Scraper",
+        "description": "Scraping Trends Keywords from Google ( All Country)",
+        "url": "https://github.com/fdciabdul/Google-Trends-Keywords-Scraper",
+        "stars": 132,
+        "forks": 44,
+        "language": "JavaScript",
+        "topics": [],
+        "categories": [
+          "api"
+        ],
+        "score": 85,
+        "coinWorthy": true
+      },
+      {
+        "name": "Vpngate-Scraper-API",
+        "fullName": "fdciabdul/Vpngate-Scraper-API",
+        "description": "fresh oVPN config from vpngate.net ",
+        "url": "https://github.com/fdciabdul/Vpngate-Scraper-API",
+        "stars": 69,
+        "forks": 29,
+        "language": "JavaScript",
+        "topics": [],
+        "categories": [
+          "privacy",
+          "api"
+        ],
+        "score": 85,
+        "coinWorthy": true
+      },
+      {
+        "name": "wa-rs",
+        "fullName": "fdciabdul/wa-rs",
+        "description": "A multi-session REST API gateway for WhatsApp Web client built with Rust.",
+        "url": "https://github.com/fdciabdul/wa-rs",
+        "stars": 9,
+        "forks": 1,
+        "language": "Rust",
+        "topics": [
+          "wa-rust",
+          "whatsapp-gateway",
+          "whatsapp-rust"
+        ],
+        "categories": [
+          "api",
+          "tools"
+        ],
+        "score": 79,
+        "coinWorthy": true
+      },
+      {
+        "name": "whatsapp-cloud-api",
+        "fullName": "fdciabdul/whatsapp-cloud-api",
+        "description": "Rust SDK for WhatsApp Cloud API (Meta Business Platform)",
+        "url": "https://github.com/fdciabdul/whatsapp-cloud-api",
+        "stars": 0,
+        "forks": 0,
+        "language": "Rust",
+        "topics": [],
+        "categories": [
+          "infra",
+          "api"
+        ],
+        "score": 72,
+        "coinWorthy": false
+      },
+      {
+        "name": "Frida-Multiple-Bypass",
+        "fullName": "fdciabdul/Frida-Multiple-Bypass",
+        "description": "Frida Multiple Bypass (SSL Pinning + Root Detection + Emulator Detection + Frida Detection + Flutter tls)",
+        "url": "https://github.com/fdciabdul/Frida-Multiple-Bypass",
+        "stars": 160,
+        "forks": 46,
+        "language": "JavaScript",
+        "topics": [],
+        "categories": [
+          "privacy"
+        ],
+        "score": 69,
+        "coinWorthy": false
+      }
+    ]
+  },
+  {
+    "username": "nmeum",
+    "name": "Sören Tempel",
+    "avatar": "https://avatars.githubusercontent.com/u/2326560?v=4",
+    "bio": null,
+    "location": "Germany",
+    "website": "https://notes.8pit.net/",
+    "twitter": null,
+    "followers": 113,
+    "focusAreas": [
+      "tools",
+      "ai",
+      "privacy",
+      "api"
+    ],
+    "reputationScore": 66,
+    "consistencyScore": 62,
+    "lastActive": "2026-01-16T13:35:50Z",
+    "topRepos": [
+      {
+        "name": "android-tools",
+        "fullName": "nmeum/android-tools",
+        "description": "Unoffical CMake-based build system for android command line utilities",
+        "url": "https://github.com/nmeum/android-tools",
+        "stars": 272,
+        "forks": 85,
+        "language": "CMake",
+        "topics": [],
+        "categories": [
+          "tools"
+        ],
+        "score": 87,
+        "coinWorthy": true
+      },
+      {
+        "name": "creek",
+        "fullName": "nmeum/creek",
+        "description": "A malleable and minimalist status bar for the River compositor",
+        "url": "https://github.com/nmeum/creek",
+        "stars": 63,
+        "forks": 5,
+        "language": "Zig",
+        "topics": [
+          "river",
+          "riverwm",
+          "statusbar",
+          "wayland",
+          "zig"
+        ],
+        "categories": [
+          "privacy"
+        ],
+        "score": 67,
+        "coinWorthy": false
+      },
+      {
+        "name": "hii",
+        "fullName": "nmeum/hii",
+        "description": "A file-based IRC client inspired by ii",
+        "url": "https://github.com/nmeum/hii",
+        "stars": 40,
+        "forks": 2,
+        "language": "Go",
+        "topics": [
+          "ii",
+          "irc",
+          "irc-client",
+          "suckless"
+        ],
+        "categories": [
+          "api",
+          "tools"
+        ],
+        "score": 64,
+        "coinWorthy": false
+      },
+      {
+        "name": "insomnia",
+        "fullName": "nmeum/insomnia",
+        "description": "A frontend for the hii IRC client",
+        "url": "https://github.com/nmeum/insomnia",
+        "stars": 14,
+        "forks": 1,
+        "language": "C",
+        "topics": [
+          "ii",
+          "irc",
+          "irc-client",
+          "suckless",
+          "tmux",
+          "unix-philosophy"
+        ],
+        "categories": [
+          "api",
+          "tools"
+        ],
+        "score": 64,
+        "coinWorthy": false
+      },
+      {
+        "name": "edward",
+        "fullName": "nmeum/edward",
+        "description": "An extensible POSIX-compatible implementation of the ed(1) text editor",
+        "url": "https://github.com/nmeum/edward",
+        "stars": 35,
+        "forks": 0,
+        "language": "Scheme",
+        "topics": [
+          "ed",
+          "posix",
+          "r7rs",
+          "r7rs-scheme",
+          "text-editor",
+          "unix"
+        ],
+        "categories": [
+          "privacy"
+        ],
+        "score": 54,
+        "coinWorthy": false
+      }
+    ]
+  },
+  {
+    "username": "tunjid",
+    "name": "Adetunji Dahunsi",
+    "avatar": "https://avatars.githubusercontent.com/u/8147224?v=4",
+    "bio": null,
+    "location": null,
+    "website": "https://www.tunjid.com/",
+    "twitter": null,
+    "followers": 653,
+    "focusAreas": [
+      "privacy",
+      "api",
+      "agi",
+      "tools"
+    ],
+    "reputationScore": 63,
+    "consistencyScore": 80,
+    "lastActive": "2026-01-16T13:07:44Z",
+    "topRepos": [
+      {
+        "name": "heron",
+        "fullName": "tunjid/heron",
+        "description": "A graceful multiplatform bluesky client",
+        "url": "https://github.com/tunjid/heron",
+        "stars": 437,
+        "forks": 26,
+        "language": "Kotlin",
+        "topics": [
+          "architecture",
+          "architecture-components",
+          "bluesky-client",
+          "compose",
+          "compose-desktop",
+          "compose-ios",
+          "coroutines",
+          "jetpack-datastore",
+          "jetpack-lifecycle",
+          "jetpack-room",
+          "kotlin",
+          "kotlin-multiplatform-sample",
+          "kotlinx-coroutines",
+          "kotlinx-datetime",
+          "kotlinx-serialization",
+          "pagination"
+        ],
+        "categories": [
+          "privacy",
+          "api",
+          "agi",
+          "tools"
+        ],
+        "score": 89,
+        "coinWorthy": true
+      },
+      {
+        "name": "Tiler",
+        "fullName": "tunjid/Tiler",
+        "description": "Experimental declaratively transparent kotlin multiplatform paging library",
+        "url": "https://github.com/tunjid/Tiler",
+        "stars": 113,
+        "forks": 6,
+        "language": "Kotlin",
+        "topics": [
+          "android",
+          "compose",
+          "ios",
+          "jetpack-compose",
+          "kotlin",
+          "kotlin-multiplatform",
+          "kotlin-multiplatform-library",
+          "kotlin-multiplatform-sample",
+          "multiplatform",
+          "pagination",
+          "paging"
+        ],
+        "categories": [
+          "agi"
+        ],
+        "score": 88,
+        "coinWorthy": true
+      },
+      {
+        "name": "Mutator",
+        "fullName": "tunjid/Mutator",
+        "description": "Flow powered mutual exclusion for UI state mutation over time.",
+        "url": "https://github.com/tunjid/Mutator",
+        "stars": 64,
+        "forks": 9,
+        "language": "Kotlin",
+        "topics": [
+          "android",
+          "architecture",
+          "compose",
+          "coroutines",
+          "flow",
+          "jetpack-compose",
+          "kotlin",
+          "kotlin-library",
+          "multiplatform",
+          "mvi",
+          "mvi-android",
+          "mvi-coroutines-flow",
+          "mvvm",
+          "mvvm-android",
+          "reactive-programming",
+          "reactive-streams",
+          "redux",
+          "state-management",
+          "udf",
+          "unidirectional-data-flow"
+        ],
+        "categories": [
+          "privacy"
+        ],
+        "score": 75,
+        "coinWorthy": true
+      },
+      {
+        "name": "me",
+        "fullName": "tunjid/me",
+        "description": "A Jetpack Compose Kotlin Multiplatform WYSIWYG blog editor",
+        "url": "https://github.com/tunjid/me",
+        "stars": 210,
+        "forks": 14,
+        "language": "Kotlin",
+        "topics": [
+          "android",
+          "compose",
+          "jetpack-compose",
+          "kotlin",
+          "kotlin-multiplatform-sample",
+          "multiplatform"
+        ],
+        "categories": [
+          "privacy"
+        ],
+        "score": 69,
+        "coinWorthy": false
+      }
+    ]
+  },
+  {
+    "username": "UnknownX7",
+    "name": null,
+    "avatar": "https://avatars.githubusercontent.com/u/12263784?v=4",
+    "bio": null,
+    "location": null,
+    "website": "",
+    "twitter": null,
+    "followers": 60,
+    "focusAreas": [
+      "tools"
+    ],
+    "reputationScore": 61,
+    "consistencyScore": 69,
+    "lastActive": "2026-01-16T12:26:29Z",
+    "topRepos": [
+      {
+        "name": "NoClippy",
+        "fullName": "UnknownX7/NoClippy",
+        "description": "A XIVLauncher plugin.",
+        "url": "https://github.com/UnknownX7/NoClippy",
+        "stars": 152,
+        "forks": 46,
+        "language": "C#",
+        "topics": [],
+        "categories": [
+          "tools"
+        ],
+        "score": 77,
+        "coinWorthy": true
+      },
+      {
+        "name": "ReAction",
+        "fullName": "UnknownX7/ReAction",
+        "description": "A XIVLauncher plugin.",
+        "url": "https://github.com/UnknownX7/ReAction",
+        "stars": 88,
+        "forks": 33,
+        "language": "C#",
+        "topics": [],
+        "categories": [
+          "tools"
+        ],
+        "score": 72,
+        "coinWorthy": true
+      },
+      {
+        "name": "Cammy",
+        "fullName": "UnknownX7/Cammy",
+        "description": "A XIVLauncher plugin.",
+        "url": "https://github.com/UnknownX7/Cammy",
+        "stars": 62,
+        "forks": 27,
+        "language": "C#",
+        "topics": [],
+        "categories": [
+          "tools"
+        ],
+        "score": 71,
+        "coinWorthy": true
+      },
+      {
+        "name": "DalamudPluginRepo",
+        "fullName": "UnknownX7/DalamudPluginRepo",
+        "description": "",
+        "url": "https://github.com/UnknownX7/DalamudPluginRepo",
+        "stars": 112,
+        "forks": 15,
+        "language": "Python",
+        "topics": [],
+        "categories": [
+          "tools"
+        ],
+        "score": 69,
+        "coinWorthy": false
+      },
+      {
+        "name": "ARealmRecorded",
+        "fullName": "UnknownX7/ARealmRecorded",
+        "description": "A XIVLauncher plugin.",
+        "url": "https://github.com/UnknownX7/ARealmRecorded",
+        "stars": 32,
+        "forks": 31,
+        "language": "C#",
+        "topics": [],
+        "categories": [
+          "tools"
+        ],
+        "score": 62,
+        "coinWorthy": false
+      }
+    ]
+  },
+  {
+    "username": "davidkimai",
+    "name": null,
+    "avatar": "https://avatars.githubusercontent.com/u/208424706?v=4",
+    "bio": "Stay hungry. Stay foolish. - Steve Jobs. 24. Interpreting AI Psychology. Hacking Context and Mapping Minds @open-cognition ",
+    "location": null,
+    "website": "x.com/interpreter_ai",
+    "twitter": null,
+    "followers": 488,
+    "focusAreas": [
+      "ai",
+      "privacy",
+      "tools",
+      "agi",
+      "api"
+    ],
+    "reputationScore": 61,
+    "consistencyScore": 72,
+    "lastActive": "2025-11-15T14:13:13Z",
+    "topRepos": [
+      {
+        "name": "gemini-cli-secure",
+        "fullName": "davidkimai/gemini-cli-secure",
+        "description": "An open source security authorization framework built on top of Gemini CLI that adds resampling, capability-based access control, TOCTOU prevention, and intent alignment to AI agent tool execution.",
+        "url": "https://github.com/davidkimai/gemini-cli-secure",
+        "stars": 2,
+        "forks": 0,
+        "language": "TypeScript",
+        "topics": [],
+        "categories": [
+          "ai",
+          "privacy",
+          "tools"
+        ],
+        "score": 83,
+        "coinWorthy": false
+      },
+      {
+        "name": "sabotage",
+        "fullName": "davidkimai/sabotage",
+        "description": "Heron AI 90min Work Test | Project - Michael Chen METR Sabotage Threat Modeling. A small eval harness designed to measure Monitor Negligence. The script simulates a \"Monitor\" (the insider) reviewing dangerous code (e.g., model poisoning, data exfiltration) and an \"Auditor\" (gpt-5.2) that grades the monitor's reasoning and decisions.",
+        "url": "https://github.com/davidkimai/sabotage",
+        "stars": 1,
+        "forks": 0,
+        "language": "Python",
+        "topics": [],
+        "categories": [
+          "ai",
+          "privacy",
+          "agi"
+        ],
+        "score": 75,
+        "coinWorthy": false
+      },
+      {
+        "name": "deus",
+        "fullName": "davidkimai/deus",
+        "description": "time travel simulator built using react/js for use with gemini 3 and nano banana pro apis.",
+        "url": "https://github.com/davidkimai/deus",
+        "stars": 1,
+        "forks": 0,
+        "language": "HTML",
+        "topics": [],
+        "categories": [
+          "privacy",
+          "api"
+        ],
+        "score": 58,
+        "coinWorthy": false
+      }
+    ]
+  },
+  {
+    "username": "jiangnanboy",
+    "name": "AI",
+    "avatar": "https://avatars.githubusercontent.com/u/8616600?v=4",
+    "bio": "persistence, perseverance, imagination, execution",
+    "location": "China",
+    "website": "https://jiangnanboy.github.io",
+    "twitter": null,
+    "followers": 222,
+    "focusAreas": [
+      "ai",
+      "privacy",
+      "tools"
+    ],
+    "reputationScore": 58,
+    "consistencyScore": 66,
+    "lastActive": "2026-01-07T11:48:01Z",
+    "topRepos": [
+      {
+        "name": "jcorrector",
+        "fullName": "jiangnanboy/jcorrector",
+        "description": "jcorrector 中文文本纠错工具， Text Error Correction Tool，Spelling Check",
+        "url": "https://github.com/jiangnanboy/jcorrector",
+        "stars": 81,
+        "forks": 19,
+        "language": "Java",
+        "topics": [
+          "java",
+          "language-model",
+          "macbert",
+          "spelling-check",
+          "text-error-correction"
+        ],
+        "categories": [
+          "ai",
+          "privacy",
+          "tools"
+        ],
+        "score": 81,
+        "coinWorthy": true
+      },
+      {
+        "name": "Agent_System_Design_and_Practical_Applications_Based_on_LangChain_and_LangGraph",
+        "fullName": "jiangnanboy/Agent_System_Design_and_Practical_Applications_Based_on_LangChain_and_LangGraph",
+        "description": "智能体系统设计与实战：基于langchain与langgraph，Agent System Design and Practical Applications: Based on LangChain and LangGraph",
+        "url": "https://github.com/jiangnanboy/Agent_System_Design_and_Practical_Applications_Based_on_LangChain_and_LangGraph",
+        "stars": 7,
+        "forks": 3,
+        "language": "Python",
+        "topics": [
+          "agent",
+          "agent-system",
+          "agent-system-design",
+          "agent-system-practical",
+          "deepseek",
+          "langchain",
+          "langgraph",
+          "llm"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 64,
+        "coinWorthy": false
+      },
+      {
+        "name": "text_security_audit",
+        "fullName": "jiangnanboy/text_security_audit",
+        "description": "text security audit 安全审核-语义模型过滤 敏感内容检测系统",
+        "url": "https://github.com/jiangnanboy/text_security_audit",
+        "stars": 35,
+        "forks": 9,
+        "language": "Java",
+        "topics": [
+          "java",
+          "onnxruntime",
+          "roberta-model",
+          "text-security-audit"
+        ],
+        "categories": [
+          "ai",
+          "privacy"
+        ],
+        "score": 52,
+        "coinWorthy": false
+      }
+    ]
+  },
+  {
+    "username": "j178",
+    "name": "Jo",
+    "avatar": "https://avatars.githubusercontent.com/u/10510431?v=4",
+    "bio": "that ship has sailed",
+    "location": null,
+    "website": "",
+    "twitter": "j178x",
+    "followers": 473,
+    "focusAreas": [
+      "ai",
+      "tools"
+    ],
+    "reputationScore": 56,
+    "consistencyScore": 75,
+    "lastActive": "2026-01-16T13:07:50Z",
+    "topRepos": [
+      {
+        "name": "leetgo",
+        "fullName": "j178/leetgo",
+        "description": "Best LeetCode friend for geek. :snowboarder:",
+        "url": "https://github.com/j178/leetgo",
+        "stars": 643,
+        "forks": 40,
+        "language": "Go",
+        "topics": [
+          "chatgpt",
+          "cli",
+          "go",
+          "golang",
+          "leetcode",
+          "leetcode-cli",
+          "leetcode-contest",
+          "leetcode-helper"
+        ],
+        "categories": [
+          "ai",
+          "tools"
+        ],
+        "score": 90,
+        "coinWorthy": true
+      },
+      {
+        "name": "chatgpt",
+        "fullName": "j178/chatgpt",
+        "description": "An elegant interactive CLI for ChatGPT",
+        "url": "https://github.com/j178/chatgpt",
+        "stars": 780,
+        "forks": 52,
+        "language": "Go",
+        "topics": [
+          "chatgpt",
+          "cli",
+          "go",
+          "golang",
+          "gpt-3",
+          "gpt-4"
+        ],
+        "categories": [
+          "ai",
+          "tools"
+        ],
+        "score": 85,
+        "coinWorthy": true
+      },
+      {
+        "name": "scoop-bucket",
+        "fullName": "j178/scoop-bucket",
+        "description": "Scoop bucket for my little tools",
+        "url": "https://github.com/j178/scoop-bucket",
+        "stars": 1,
+        "forks": 0,
+        "language": "PowerShell",
+        "topics": [],
+        "categories": [
+          "tools"
+        ],
+        "score": 51,
+        "coinWorthy": false
+      }
+    ]
+  },
+  {
+    "username": "goruck",
+    "name": "Lindo St. Angel",
+    "avatar": "https://avatars.githubusercontent.com/u/12125472?v=4",
+    "bio": "High technology professional creating amazing products and services customers love.",
+    "location": "Northern California",
+    "website": "https://medium.com/@lindo.st.angel",
+    "twitter": null,
+    "followers": 109,
+    "focusAreas": [
+      "ai",
+      "api",
+      "infra",
+      "privacy"
+    ],
+    "reputationScore": 56,
+    "consistencyScore": 75,
+    "lastActive": "2026-01-16T13:17:09Z",
+    "topRepos": [
+      {
+        "name": "home-generative-agent",
+        "fullName": "goruck/home-generative-agent",
+        "description": "A home assistant generative agent integration based on langchain and langgraph.",
+        "url": "https://github.com/goruck/home-generative-agent",
+        "stars": 182,
+        "forks": 37,
+        "language": "Python",
+        "topics": [
+          "generative-ai",
+          "home-assistant",
+          "langchain",
+          "langgraph",
+          "llms"
+        ],
+        "categories": [
+          "ai",
+          "api"
+        ],
+        "score": 88,
+        "coinWorthy": true
+      },
+      {
+        "name": "nilm",
+        "fullName": "goruck/nilm",
+        "description": "Energy Management Using Real-Time Non-Intrusive Load Monitoring",
+        "url": "https://github.com/goruck/nilm",
+        "stars": 88,
+        "forks": 17,
+        "language": "Python",
+        "topics": [
+          "deep-learning",
+          "edge-computing",
+          "energy-disaggregation",
+          "energy-management",
+          "nilm",
+          "tensorflow-lite",
+          "tensorflow2"
+        ],
+        "categories": [
+          "ai",
+          "infra",
+          "privacy"
+        ],
+        "score": 83,
+        "coinWorthy": true
+      },
+      {
+        "name": "face-service",
+        "fullName": "goruck/face-service",
+        "description": "A FastAPI service for face detection and embedding extraction using InsightFace",
+        "url": "https://github.com/goruck/face-service",
+        "stars": 1,
+        "forks": 0,
+        "language": "Python",
+        "topics": [],
+        "categories": [
+          "api"
+        ],
+        "score": 53,
+        "coinWorthy": false
+      }
+    ]
+  },
+  {
+    "username": "Brandawg93",
+    "name": "Brandon McFarlin",
+    "avatar": "https://avatars.githubusercontent.com/u/6525520?v=4",
+    "bio": "Coding for work and coding for fun!",
+    "location": "Boston, MA",
+    "website": "https://dev.to/Brandawg93",
+    "twitter": null,
+    "followers": 48,
+    "focusAreas": [
+      "tools",
+      "infra",
+      "privacy",
+      "crypto"
+    ],
+    "reputationScore": 56,
+    "consistencyScore": 76,
+    "lastActive": "2026-01-16T13:35:19Z",
+    "topRepos": [
+      {
+        "name": "PeaNUT",
+        "fullName": "Brandawg93/PeaNUT",
+        "description": "A tiny dashboard for Network UPS Tools",
+        "url": "https://github.com/Brandawg93/PeaNUT",
+        "stars": 1207,
+        "forks": 35,
+        "language": "TypeScript",
+        "topics": [
+          "nextjs",
+          "nut",
+          "ups"
+        ],
+        "categories": [
+          "tools"
+        ],
+        "score": 91,
+        "coinWorthy": true
+      },
+      {
+        "name": "homebridge-fordpass",
+        "fullName": "Brandawg93/homebridge-fordpass",
+        "description": "Control your Ford vehicle in HomeKit using Homebridge.",
+        "url": "https://github.com/Brandawg93/homebridge-fordpass",
+        "stars": 63,
+        "forks": 14,
+        "language": "TypeScript",
+        "topics": [],
+        "categories": [
+          "crypto"
+        ],
+        "score": 75,
+        "coinWorthy": true
+      },
+      {
+        "name": "Pi-Hole-Monitoring",
+        "fullName": "Brandawg93/Pi-Hole-Monitoring",
+        "description": "Monitoring Pi-Hole statistics with Grafana",
+        "url": "https://github.com/Brandawg93/Pi-Hole-Monitoring",
+        "stars": 278,
+        "forks": 31,
+        "language": "Python",
+        "topics": [
+          "docker",
+          "docker-compose",
+          "grafana",
+          "influxdb",
+          "pi-hole",
+          "telegraf"
+        ],
+        "categories": [
+          "infra",
+          "privacy"
+        ],
+        "score": 61,
+        "coinWorthy": false
+      }
+    ]
+  },
+  {
+    "username": "ColdWindScholar",
+    "name": "ColdWindScholar",
+    "avatar": "https://avatars.githubusercontent.com/u/140364844?v=4",
+    "bio": "An ordinary person",
+    "location": "Internet",
+    "website": "",
+    "twitter": null,
+    "followers": 228,
+    "focusAreas": [
+      "tools"
+    ],
+    "reputationScore": 53,
+    "consistencyScore": 64,
+    "lastActive": "2026-01-16T12:26:44Z",
+    "topRepos": [
+      {
+        "name": "MIO-KITCHEN-SOURCE",
+        "fullName": "ColdWindScholar/MIO-KITCHEN-SOURCE",
+        "description": "An Android Rom Tool in python",
+        "url": "https://github.com/ColdWindScholar/MIO-KITCHEN-SOURCE",
+        "stars": 353,
+        "forks": 72,
+        "language": "Python",
+        "topics": [
+          "android-rom",
+          "erofs",
+          "ext4-images",
+          "python",
+          "sv-ttk",
+          "tkinter-python"
+        ],
+        "categories": [
+          "tools"
+        ],
+        "score": 80,
+        "coinWorthy": true
+      },
+      {
+        "name": "TIK",
+        "fullName": "ColdWindScholar/TIK",
+        "description": "开源的安卓全版本ROM处理工具",
+        "url": "https://github.com/ColdWindScholar/TIK",
+        "stars": 316,
+        "forks": 56,
+        "language": "Python",
+        "topics": [
+          "android-rom",
+          "android-rom-tool",
+          "python"
+        ],
+        "categories": [
+          "tools"
+        ],
+        "score": 59,
+        "coinWorthy": false
+      },
+      {
+        "name": "MPK_Plugins",
+        "fullName": "ColdWindScholar/MPK_Plugins",
+        "description": "",
+        "url": "https://github.com/ColdWindScholar/MPK_Plugins",
+        "stars": 9,
+        "forks": 6,
+        "language": "Python",
+        "topics": [],
+        "categories": [
+          "tools"
+        ],
+        "score": 54,
+        "coinWorthy": false
+      }
+    ]
+  },
+  {
+    "username": "abusaeeidx",
+    "name": "ABU SAEEID X NOOB",
+    "avatar": "https://avatars.githubusercontent.com/u/165541154?v=4",
+    "bio": "ABU SAEEiD × Rifaz — Python • PHP • Automation",
+    "location": null,
+    "website": "",
+    "twitter": null,
+    "followers": 163,
+    "focusAreas": [
+      "ai",
+      "privacy"
+    ],
+    "reputationScore": 52,
+    "consistencyScore": 73,
+    "lastActive": "2026-01-16T12:27:30Z",
+    "topRepos": [
+      {
+        "name": "IPTV-Scraper-Zilla",
+        "fullName": "abusaeeidx/IPTV-Scraper-Zilla",
+        "description": "IPTV Scraper Zilla — High-quality, auto-updating IPTV playlist generator with thousands of live channels including sports, movies, anime, and more. Fast, lightweight, and perfect for seamless streaming across all devices.",
+        "url": "https://github.com/abusaeeidx/IPTV-Scraper-Zilla",
+        "stars": 122,
+        "forks": 37,
+        "language": "Python",
+        "topics": [],
+        "categories": [
+          "ai",
+          "privacy"
+        ],
+        "score": 85,
+        "coinWorthy": true
+      },
+      {
+        "name": "Mrgify-BDIX-IPTV",
+        "fullName": "abusaeeidx/Mrgify-BDIX-IPTV",
+        "description": "Mrgify-Tv provides a regularly updated BDIX IPTV playlist featuring Bangladeshi and international live TV channels. It is designed for seamless streaming through BDIX networks, offering sports, news, movies, and entertainment channels.",
+        "url": "https://github.com/abusaeeidx/Mrgify-BDIX-IPTV",
+        "stars": 20,
+        "forks": 12,
+        "language": null,
+        "topics": [
+          "bangladeshi-iptv",
+          "bangladeshi-tv",
+          "bd-iptv",
+          "bdix",
+          "bdix-iptv",
+          "bdix-iptv-playlist",
+          "bdix-live-tv",
+          "bdix-m3u",
+          "free-iptv",
+          "iptv",
+          "iptv-m3u",
+          "iptv-playlist",
+          "m3u",
+          "m3u-playlist",
+          "m3u8-playlist",
+          "mrgify-tv",
+          "playlist",
+          "tv",
+          "tv-channels"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 76,
+        "coinWorthy": true
+      },
+      {
+        "name": "TazaProxy-Troxy",
+        "fullName": "abusaeeidx/TazaProxy-Troxy",
+        "description": "TazaProxy-Troxy provides verified working proxies in TXT and JSON formats, which are automatically updated every 12 hours. Intended for learning and educational purposes only, this repository helps students and developers practice proxy handling, and various exercises.",
+        "url": "https://github.com/abusaeeidx/TazaProxy-Troxy",
+        "stars": 2,
+        "forks": 1,
+        "language": null,
+        "topics": [
+          "2026",
+          "proxy",
+          "proxy-checker",
+          "proxy-list",
+          "proxy-scraper",
+          "proxy-server",
+          "tazaproxy",
+          "tazaproxy-troxy"
+        ],
+        "categories": [
+          "privacy"
+        ],
+        "score": 59,
+        "coinWorthy": false
+      }
+    ]
+  },
+  {
+    "username": "relf",
+    "name": "Rémi Lafage",
+    "avatar": "https://avatars.githubusercontent.com/u/1198802?v=4",
+    "bio": "Research engineer at ONERA, working on tools related to multi-disciplinary optimization for overall vehicle design.",
+    "location": "Toulouse, France",
+    "website": "",
+    "twitter": null,
+    "followers": 65,
+    "focusAreas": [
+      "ai",
+      "tools"
+    ],
+    "reputationScore": 51,
+    "consistencyScore": 68,
+    "lastActive": "2026-01-16T13:17:23Z",
+    "topRepos": [
+      {
+        "name": "EGObox",
+        "fullName": "relf/EGObox",
+        "description": "Efficient global optimization toolbox in Rust: bayesian optimization, mixture of gaussian processes, sampling methods ",
+        "url": "https://github.com/relf/EGObox",
+        "stars": 157,
+        "forks": 10,
+        "language": "Rust",
+        "topics": [
+          "gaussian-processes",
+          "global-optimization",
+          "latin-hypercube-sampling",
+          "mixture-of-experts",
+          "surrogate-models"
+        ],
+        "categories": [
+          "ai",
+          "tools"
+        ],
+        "score": 92,
+        "coinWorthy": true
+      },
+      {
+        "name": "cobyla",
+        "fullName": "relf/cobyla",
+        "description": "COBYLA optimizer for Rust",
+        "url": "https://github.com/relf/cobyla",
+        "stars": 27,
+        "forks": 3,
+        "language": "Rust",
+        "topics": [
+          "constrained-optimization",
+          "derivative-free-optimization"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 58,
+        "coinWorthy": false
+      },
+      {
+        "name": "slsqp",
+        "fullName": "relf/slsqp",
+        "description": "SLSQP optimizer for Rust",
+        "url": "https://github.com/relf/slsqp",
+        "stars": 13,
+        "forks": 0,
+        "language": "Rust",
+        "topics": [
+          "constrained-optimization",
+          "gradient-based-optimisation"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 55,
+        "coinWorthy": false
+      }
+    ]
+  },
+  {
+    "username": "jobovy",
+    "name": "Jo Bovy",
+    "avatar": "https://avatars.githubusercontent.com/u/1044876?v=4",
+    "bio": "Professor of Astronomy & Astrophysics at the University of Toronto. Interested in galaxy structure and dynamics and in open and reproducible science.",
+    "location": "Toronto, ON",
+    "website": "http://astro.utoronto.ca/~bovy",
+    "twitter": "jobovy",
+    "followers": 394,
+    "focusAreas": [
+      "ai",
+      "privacy"
+    ],
+    "reputationScore": 50,
+    "consistencyScore": 68,
+    "lastActive": "2026-01-16T13:07:56Z",
+    "topRepos": [
+      {
+        "name": "extreme-deconvolution",
+        "fullName": "jobovy/extreme-deconvolution",
+        "description": "Density estimation using Gaussian mixtures in the presence of noisy, heterogeneous and incomplete data",
+        "url": "https://github.com/jobovy/extreme-deconvolution",
+        "stars": 81,
+        "forks": 23,
+        "language": "Python",
+        "topics": [
+          "c",
+          "density-estimation",
+          "gaussian-mixture-models",
+          "machine-learning",
+          "python",
+          "uncertainty"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 78,
+        "coinWorthy": true
+      },
+      {
+        "name": "wendy",
+        "fullName": "jobovy/wendy",
+        "description": "A one-dimensional gravitational N-body code",
+        "url": "https://github.com/jobovy/wendy",
+        "stars": 21,
+        "forks": 5,
+        "language": "C",
+        "topics": [
+          "astrophysics",
+          "binder",
+          "c",
+          "n-body",
+          "n-body-simulator",
+          "physics",
+          "python"
+        ],
+        "categories": [
+          "privacy"
+        ],
+        "score": 57,
+        "coinWorthy": false
+      }
+    ]
+  },
+  {
+    "username": "Anonym0usWork1221",
+    "name": "Abdul Moez",
+    "avatar": "https://avatars.githubusercontent.com/u/72302783?v=4",
+    "bio": "To write in code is to craft the language of the mind; where thoughts take shape and logic doth bind.",
+    "location": "Pakistan",
+    "website": "thedarkbytes.com",
+    "twitter": null,
+    "followers": 80,
+    "focusAreas": [
+      "privacy",
+      "api",
+      "tools"
+    ],
+    "reputationScore": 46,
+    "consistencyScore": 84,
+    "lastActive": "2026-01-16T12:26:33Z",
+    "topRepos": [
+      {
+        "name": "GMapsScraper",
+        "fullName": "Anonym0usWork1221/GMapsScraper",
+        "description": "A command-line tool which is designed to scrape data from Google Maps search results using multiple threads and efficient search algorithms. ",
+        "url": "https://github.com/Anonym0usWork1221/GMapsScraper",
+        "stars": 55,
+        "forks": 12,
+        "language": "Python",
+        "topics": [
+          "advance-python",
+          "advanced-programming",
+          "command-line",
+          "command-line-interface",
+          "command-line-parser",
+          "command-line-tool",
+          "csv",
+          "csv-parser",
+          "google",
+          "google-maps",
+          "google-maps-scraper",
+          "google-maps-scraping",
+          "psuti",
+          "python-3",
+          "python-script",
+          "python-selenium-automation",
+          "python3",
+          "selenium",
+          "selenium-python",
+          "selenium-webdriver"
+        ],
+        "categories": [
+          "api",
+          "tools"
+        ],
+        "score": 85,
+        "coinWorthy": true
+      },
+      {
+        "name": "Free-Proxies",
+        "fullName": "Anonym0usWork1221/Free-Proxies",
+        "description": "Update free every 2 hours",
+        "url": "https://github.com/Anonym0usWork1221/Free-Proxies",
+        "stars": 188,
+        "forks": 18,
+        "language": "Python",
+        "topics": [
+          "anonymity",
+          "bot",
+          "elite",
+          "free",
+          "free-proxy",
+          "hacking",
+          "http",
+          "https-proxy",
+          "proxies",
+          "proxy",
+          "proxy-list",
+          "socker",
+          "socks",
+          "socks-proxy",
+          "socks4-proxy",
+          "socks5-proxy",
+          "speedx",
+          "vpn"
+        ],
+        "categories": [
+          "privacy"
+        ],
+        "score": 82,
+        "coinWorthy": true
+      }
+    ]
+  },
+  {
+    "username": "LISA-KOREA",
+    "name": "Lisa ",
+    "avatar": "https://avatars.githubusercontent.com/u/106958298?v=4",
+    "bio": "𝐸𝑣𝑒𝑟𝑦𝑜𝑛𝑒 𝑤𝑖𝑙𝑙 𝑏𝑒 𝑠𝑢𝑐𝑐𝑒𝑠𝑓𝑢𝑙 🌟 𝑜𝑟 𝑙𝑢𝑐𝑘𝑦 🍀 𝑎𝑡 𝑠𝑜𝑚𝑒 𝑡𝑖𝑚𝑒 ⏳ 𝑖𝑛 𝑡ℎ𝑒𝑖𝑟 𝑙𝑖𝑓𝑒 😇",
+    "location": "Osaka 🇯🇵",
+    "website": "",
+    "twitter": "LISA_FAN_LK",
+    "followers": 269,
+    "focusAreas": [
+      "ai",
+      "api"
+    ],
+    "reputationScore": 43,
+    "consistencyScore": 54,
+    "lastActive": "2026-01-16T13:17:30Z",
+    "topRepos": [
+      {
+        "name": "URL-UPLOADER-BOT",
+        "fullName": "LISA-KOREA/URL-UPLOADER-BOT",
+        "description": "dead 💀 ",
+        "url": "https://github.com/LISA-KOREA/URL-UPLOADER-BOT",
+        "stars": 31,
+        "forks": 77,
+        "language": "Python",
+        "topics": [
+          "4gb-uploader-bot",
+          "bot",
+          "heroku",
+          "hotstar-download-bot",
+          "pyrofork",
+          "python",
+          "telegram",
+          "telegram-bot",
+          "uploader",
+          "url",
+          "url-uploader",
+          "zee5-api"
+        ],
+        "categories": [
+          "api"
+        ],
+        "score": 57,
+        "coinWorthy": false
+      },
+      {
+        "name": "Birthday-Wishes",
+        "fullName": "LISA-KOREA/Birthday-Wishes",
+        "description": "🎉 A premium birthday surprise website built with HTML, CSS, and JavaScript. Features countdown (IST), music, slideshow, confetti, and animations. Easy to customize photos, music, and date. Deploy instantly on Vercel.",
+        "url": "https://github.com/LISA-KOREA/Birthday-Wishes",
+        "stars": 0,
+        "forks": 0,
+        "language": "JavaScript",
+        "topics": [],
+        "categories": [
+          "ai"
+        ],
+        "score": 50,
+        "coinWorthy": false
+      }
+    ]
+  },
+  {
+    "username": "liutaocode",
+    "name": "Tao Liu",
+    "avatar": "https://avatars.githubusercontent.com/u/91858374?v=4",
+    "bio": "Speaker Diarization / Talking Face Generation",
+    "location": null,
+    "website": "",
+    "twitter": null,
+    "followers": 142,
+    "focusAreas": [
+      "ai"
+    ],
+    "reputationScore": 42,
+    "consistencyScore": 66,
+    "lastActive": "2026-01-16T12:26:33Z",
+    "topRepos": [
+      {
+        "name": "TTS-arxiv-daily",
+        "fullName": "liutaocode/TTS-arxiv-daily",
+        "description": "Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours)",
+        "url": "https://github.com/liutaocode/TTS-arxiv-daily",
+        "stars": 589,
+        "forks": 38,
+        "language": "Python",
+        "topics": [],
+        "categories": [
+          "ai"
+        ],
+        "score": 81,
+        "coinWorthy": true
+      },
+      {
+        "name": "Video-Generation-arxiv-daily",
+        "fullName": "liutaocode/Video-Generation-arxiv-daily",
+        "description": "Automatically Update Video Generation Papers Daily using Github Actions (Update Every 12th hours)",
+        "url": "https://github.com/liutaocode/Video-Generation-arxiv-daily",
+        "stars": 7,
+        "forks": 0,
+        "language": "Python",
+        "topics": [],
+        "categories": [
+          "ai"
+        ],
+        "score": 51,
+        "coinWorthy": false
+      }
+    ]
+  },
+  {
+    "username": "dknowles2",
+    "name": "David Knowles",
+    "avatar": "https://avatars.githubusercontent.com/u/150213?v=4",
+    "bio": null,
+    "location": "Springfield, NJ",
+    "website": "",
+    "twitter": null,
+    "followers": 40,
+    "focusAreas": [
+      "api"
+    ],
+    "reputationScore": 30,
+    "consistencyScore": 80,
+    "lastActive": "2026-01-16T13:18:19Z",
+    "topRepos": [
+      {
+        "name": "ha-pitboss",
+        "fullName": "dknowles2/ha-pitboss",
+        "description": "Home Assistant Custom Integration for PitBoss smokers and grills",
+        "url": "https://github.com/dknowles2/ha-pitboss",
+        "stars": 52,
+        "forks": 12,
+        "language": "Python",
+        "topics": [
+          "grill",
+          "hacs",
+          "home-assistant",
+          "homeassistant",
+          "pitboss",
+          "smoker"
+        ],
+        "categories": [
+          "api"
+        ],
+        "score": 82,
+        "coinWorthy": true
+      },
+      {
+        "name": "pydrawise",
+        "fullName": "dknowles2/pydrawise",
+        "description": "Asynchronous Python 3 library for interacting with Hydrawise sprinkler controllers through the GraphQL API",
+        "url": "https://github.com/dknowles2/pydrawise",
+        "stars": 8,
+        "forks": 6,
+        "language": "Python",
+        "topics": [
+          "aot",
+          "hydrawise",
+          "hydrawise-api",
+          "python",
+          "smarthome",
+          "sprinkler-controller"
+        ],
+        "categories": [
+          "api"
+        ],
+        "score": 78,
+        "coinWorthy": true
+      }
+    ]
+  },
+  {
+    "username": "SoliSpirit",
+    "name": "So",
+    "avatar": "https://avatars.githubusercontent.com/u/51359078?v=4",
+    "bio": null,
+    "location": null,
+    "website": "",
+    "twitter": null,
+    "followers": 90,
+    "focusAreas": [
+      "privacy"
+    ],
+    "reputationScore": 23,
+    "consistencyScore": 63,
+    "lastActive": "2026-01-16T13:18:59Z",
+    "topRepos": [
+      {
+        "name": "proxy-list",
+        "fullName": "SoliSpirit/proxy-list",
+        "description": "An automated proxy list that updates every 3 hours with HTTP, HTTPS, SOCKS4, and SOCKS5 proxies from multiple countries.",
+        "url": "https://github.com/SoliSpirit/proxy-list",
+        "stars": 39,
+        "forks": 7,
+        "language": null,
+        "topics": [],
+        "categories": [
+          "privacy"
+        ],
+        "score": 66,
+        "coinWorthy": false
+      },
+      {
+        "name": "mtproto",
+        "fullName": "SoliSpirit/mtproto",
+        "description": "Fresh and reliable Telegram MTProto proxies updated automatically every 12 hours. Free, fast, and verified proxy list to bypass censorship and ensure secure Telegram access worldwide.",
+        "url": "https://github.com/SoliSpirit/mtproto",
+        "stars": 45,
+        "forks": 1,
+        "language": null,
+        "topics": [],
+        "categories": [
+          "privacy"
+        ],
+        "score": 60,
+        "coinWorthy": false
+      }
+    ]
+  }
+]

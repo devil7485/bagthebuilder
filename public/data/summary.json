@@ -1,0 +1,16 @@
+{
+  "totalBuilders": 26,
+  "totalRepos": 147,
+  "coinWorthyRepos": 64,
+  "categories": {
+    "crypto": 4,
+    "ai": 17,
+    "infra": 6,
+    "privacy": 17,
+    "games": 3,
+    "api": 14,
+    "agi": 4,
+    "tools": 18
+  },
+  "lastUpdated": "2026-01-16T13:42:19.089Z"
+}
