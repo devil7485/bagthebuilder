@@ -4423,6 +4423,418 @@
     ]
   },
   {
+    "username": "TianmuTNT",
+    "name": "=w=",
+    "avatar": "https://avatars.githubusercontent.com/u/110798004?v=4",
+    "bio": "I'm silly every day 😭",
+    "location": "Location().get()",
+    "website": "",
+    "twitter": null,
+    "followers": 25,
+    "focusAreas": [
+      "games",
+      "infra",
+      "ai"
+    ],
+    "reputationScore": 100,
+    "consistencyScore": 66,
+    "lastActive": "2026-01-16T20:44:04Z",
+    "topRepos": [
+      {
+        "name": "anuneko2api",
+        "fullName": "TianmuTNT/anuneko2api",
+        "description": "A lightweight proxy that converts Anuneko services into a standard OpenAI API format. 将 Anuneko 服务转换为标准 OpenAI API 格式的代理服务。",
+        "url": "https://github.com/TianmuTNT/anuneko2api",
+        "stars": 14,
+        "forks": 4,
+        "language": "Python",
+        "topics": [
+          "ai",
+          "anuneko",
+          "api",
+          "chatgpt",
+          "lightweight",
+          "openai",
+          "proxy",
+          "python",
+          "service"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 105,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 46,
+        "repoAgeInDays": 46,
+        "starVelocity": 0.31,
+        "isUnderrated": false,
+        "isEarlyStage": true,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "chapto",
+        "fullName": "TianmuTNT/chapto",
+        "description": "Chapto is a modern end-to-end encrypted web chat app.",
+        "url": "https://github.com/TianmuTNT/chapto",
+        "stars": 1,
+        "forks": 0,
+        "language": "TypeScript",
+        "topics": [
+          "app",
+          "chat",
+          "crypto",
+          "cryptography",
+          "end-to-end",
+          "end-to-end-encryption",
+          "modern",
+          "react",
+          "reactjs",
+          "typescript",
+          "vite",
+          "vitejs",
+          "web",
+          "website",
+          "x25519"
+        ],
+        "categories": [],
+        "score": 70,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 5,
+        "starVelocity": 0.22,
+        "isUnderrated": false,
+        "isEarlyStage": true,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "zzyCaptcha",
+        "fullName": "TianmuTNT/zzyCaptcha",
+        "description": "A simple, self-hostable, \"persistence of vision\" CAPTCHA service. 一个简单的、可自行部署的、基于“视觉暂留”效果的验证码服务。",
+        "url": "https://github.com/TianmuTNT/zzyCaptcha",
+        "stars": 20,
+        "forks": 0,
+        "language": "Python",
+        "topics": [
+          "anti-bot",
+          "antibot",
+          "application",
+          "captcha",
+          "captcha-with-letters",
+          "cloudflare",
+          "firewall",
+          "flask",
+          "persistence-of-vision",
+          "pillow",
+          "python",
+          "security",
+          "security-code",
+          "self-hostable",
+          "self-hosted",
+          "self-hosting",
+          "server",
+          "service",
+          "waf",
+          "website"
+        ],
+        "categories": [
+          "infra"
+        ],
+        "score": 70,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 100,
+        "repoAgeInDays": 101,
+        "starVelocity": 0.2,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "iptv",
+        "fullName": "TianmuTNT/iptv",
+        "description": "🎉 自用IPTV源",
+        "url": "https://github.com/TianmuTNT/iptv",
+        "stars": 298,
+        "forks": 24,
+        "language": "Python",
+        "topics": [
+          "auto-update",
+          "cctv",
+          "iptv",
+          "iptv-m3u",
+          "iptv-txt",
+          "python"
+        ],
+        "categories": [],
+        "score": 60,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 503,
+        "starVelocity": 0.59,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "biliguard",
+        "fullName": "TianmuTNT/biliguard",
+        "description": "AI加持的批量举报机器人，还所有人一个干净的B站！",
+        "url": "https://github.com/TianmuTNT/biliguard",
+        "stars": 1,
+        "forks": 0,
+        "language": "Python",
+        "topics": [
+          "automation",
+          "bili",
+          "bilibili",
+          "bilibili-api",
+          "biliguard",
+          "bot",
+          "media",
+          "platform",
+          "python",
+          "report",
+          "video"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 60,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 90,
+        "repoAgeInDays": 91,
+        "starVelocity": 0.01,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
+    "username": "int128",
+    "name": "Hidetake Iwata",
+    "avatar": "https://avatars.githubusercontent.com/u/321266?v=4",
+    "bio": "Software Engineer. Father of my family. Loving 🐰 rabbits and 🍺 craft beer.",
+    "location": "Tokyo, Japan",
+    "website": "",
+    "twitter": null,
+    "followers": 274,
+    "focusAreas": [
+      "infra",
+      "crypto",
+      "ai"
+    ],
+    "reputationScore": 100,
+    "consistencyScore": 63,
+    "lastActive": "2026-01-16T20:46:27Z",
+    "topRepos": [
+      {
+        "name": "ghcp",
+        "fullName": "int128/ghcp",
+        "description": "Tool to fork a repository, commit files, create a pull request and upload assets using GitHub API",
+        "url": "https://github.com/int128/ghcp",
+        "stars": 43,
+        "forks": 3,
+        "language": "Go",
+        "topics": [
+          "github-api",
+          "golang"
+        ],
+        "categories": [],
+        "score": 90,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 2514,
+        "starVelocity": 0.02,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "docker-manifest-create-action",
+        "fullName": "int128/docker-manifest-create-action",
+        "description": "Create a multi-architectures container image in GitHub Actions",
+        "url": "https://github.com/int128/docker-manifest-create-action",
+        "stars": 14,
+        "forks": 6,
+        "language": "TypeScript",
+        "topics": [
+          "buildkit",
+          "docker",
+          "github-actions"
+        ],
+        "categories": [
+          "ai",
+          "infra"
+        ],
+        "score": 90,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 1154,
+        "starVelocity": 0.01,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": true,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "github-api-rate-limit-metrics-action",
+        "fullName": "int128/github-api-rate-limit-metrics-action",
+        "description": "Action to send metrics of GitHub API rate limit to Datadog",
+        "url": "https://github.com/int128/github-api-rate-limit-metrics-action",
+        "stars": 5,
+        "forks": 2,
+        "language": "TypeScript",
+        "topics": [
+          "datadog",
+          "github-actions"
+        ],
+        "categories": [],
+        "score": 90,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 1562,
+        "starVelocity": 0,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": true,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "comment-action",
+        "fullName": "int128/comment-action",
+        "description": "Action to run a command and post a comment to pull request",
+        "url": "https://github.com/int128/comment-action",
+        "stars": 14,
+        "forks": 3,
+        "language": "TypeScript",
+        "topics": [
+          "github-actions"
+        ],
+        "categories": [],
+        "score": 70,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 1528,
+        "starVelocity": 0.01,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": true,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "create-ecr-repository-action",
+        "fullName": "int128/create-ecr-repository-action",
+        "description": "Action to create Amazon ECR or ECR Public repository and put lifecycle policy",
+        "url": "https://github.com/int128/create-ecr-repository-action",
+        "stars": 17,
+        "forks": 15,
+        "language": "TypeScript",
+        "topics": [
+          "amazon-ecr",
+          "aws",
+          "github-actions",
+          "typescript"
+        ],
+        "categories": [],
+        "score": 70,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 1740,
+        "starVelocity": 0.01,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": true,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
     "username": "dora4",
     "name": "跟着哆啦学安卓",
     "avatar": "https://avatars.githubusercontent.com/u/71242257?v=4",
@@ -4956,6 +5368,204 @@
           "hasTests": false,
           "hasCI": false,
           "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
+    "username": "dkarter",
+    "name": "Dorian Karter",
+    "avatar": "https://avatars.githubusercontent.com/u/551858?v=4",
+    "bio": "Staff Software Engineer at @pdq\r\n\r\nPrimary stack: Elixir, TypeScript, React, React Native, Postgres & Kubernetes",
+    "location": "Greater Chicago Area",
+    "website": "https://doriankarter.com",
+    "twitter": null,
+    "followers": 213,
+    "focusAreas": [
+      "infra",
+      "games",
+      "crypto",
+      "ai"
+    ],
+    "reputationScore": 90,
+    "consistencyScore": 69,
+    "lastActive": "2026-01-16T20:44:53Z",
+    "topRepos": [
+      {
+        "name": "king_of_tokyo",
+        "fullName": "dkarter/king_of_tokyo",
+        "description": "👑 King of Tokyo Multiplayer Board Game using Phoenix LiveView",
+        "url": "https://github.com/dkarter/king_of_tokyo",
+        "stars": 49,
+        "forks": 7,
+        "language": "Elixir",
+        "topics": [
+          "ansible",
+          "board-game",
+          "elixir",
+          "game",
+          "liveview",
+          "multiplayer",
+          "phoenix",
+          "phoenix-channels",
+          "phoenix-framework",
+          "phoenix-liveview",
+          "pulumi"
+        ],
+        "categories": [
+          "games"
+        ],
+        "score": 95,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 3,
+        "repoAgeInDays": 2129,
+        "starVelocity": 0.02,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "k3s-cluster-apps",
+        "fullName": "dkarter/k3s-cluster-apps",
+        "description": "🦑 ArgoCD (GitOps) Apps for one of my home K8s clusters",
+        "url": "https://github.com/dkarter/k3s-cluster-apps",
+        "stars": 3,
+        "forks": 0,
+        "language": "Elixir",
+        "topics": [
+          "argocd",
+          "continuous-delivery",
+          "helm",
+          "helm-charts",
+          "k8s-at-home",
+          "kubernetes",
+          "kubesearch"
+        ],
+        "categories": [
+          "infra"
+        ],
+        "score": 75,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 739,
+        "starVelocity": 0,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "k3s-cluster-bootstrap",
+        "fullName": "dkarter/k3s-cluster-bootstrap",
+        "description": "🥾 Automatic bootstrapping scripts for a home lab K3s cluster",
+        "url": "https://github.com/dkarter/k3s-cluster-bootstrap",
+        "stars": 0,
+        "forks": 0,
+        "language": null,
+        "topics": [
+          "ansible",
+          "k3s",
+          "kubernetes"
+        ],
+        "categories": [
+          "infra",
+          "crypto"
+        ],
+        "score": 70,
+        "coinWorthy": false,
+        "blockchain": [
+          "polygon"
+        ],
+        "frameworks": [],
+        "daysSinceLastCommit": 18,
+        "repoAgeInDays": 894,
+        "starVelocity": 0,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "dotfiles",
+        "fullName": "dkarter/dotfiles",
+        "description": "✨ My dev setup",
+        "url": "https://github.com/dkarter/dotfiles",
+        "stars": 118,
+        "forks": 14,
+        "language": "Lua",
+        "topics": [],
+        "categories": [],
+        "score": 65,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 3822,
+        "starVelocity": 0.03,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "mapex",
+        "fullName": "dkarter/mapex",
+        "description": "🔄 CLI tool for converting JSON to Elixir Maps (written in Rust)",
+        "url": "https://github.com/dkarter/mapex",
+        "stars": 1,
+        "forks": 0,
+        "language": "Rust",
+        "topics": [
+          "elixir",
+          "json",
+          "rust"
+        ],
+        "categories": [],
+        "score": 60,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 7,
+        "repoAgeInDays": 552,
+        "starVelocity": 0,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
         }
       }
     ]
@@ -7864,6 +8474,192 @@
     ]
   },
   {
+    "username": "kantord",
+    "name": "Dániel Kántor",
+    "avatar": "https://avatars.githubusercontent.com/u/3704904?v=4",
+    "bio": null,
+    "location": "Barcelona",
+    "website": "https://daniel-kantor.com/cv/",
+    "twitter": null,
+    "followers": 393,
+    "focusAreas": [
+      "ai",
+      "crypto"
+    ],
+    "reputationScore": 60,
+    "consistencyScore": 99,
+    "lastActive": "2026-01-16T20:45:01Z",
+    "topRepos": [
+      {
+        "name": "SeaGOAT",
+        "fullName": "kantord/SeaGOAT",
+        "description": "local-first semantic code search engine",
+        "url": "https://github.com/kantord/SeaGOAT",
+        "stars": 1245,
+        "forks": 85,
+        "language": "Python",
+        "topics": [
+          "ai",
+          "ai-project",
+          "code-search",
+          "code-search-engine",
+          "embeddings",
+          "grep",
+          "grep-like",
+          "hacktoberfest",
+          "hacktoberfest2023",
+          "llm",
+          "regular-expression",
+          "ripgrep",
+          "vector-database",
+          "vector-embeddings"
+        ],
+        "categories": [
+          "ai",
+          "crypto"
+        ],
+        "score": 130,
+        "coinWorthy": true,
+        "blockchain": [
+          "base"
+        ],
+        "frameworks": [],
+        "daysSinceLastCommit": 4,
+        "repoAgeInDays": 941,
+        "starVelocity": 1.32,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "headson",
+        "fullName": "kantord/headson",
+        "description": "head/tail for structured data - summarize/preview JSON/YAML and source code",
+        "url": "https://github.com/kantord/headson",
+        "stars": 231,
+        "forks": 4,
+        "language": "Rust",
+        "topics": [
+          "ai-agents",
+          "bash",
+          "cli",
+          "data-analysis",
+          "data-presentation",
+          "json",
+          "json-parser",
+          "performance",
+          "python",
+          "python-extension",
+          "rust",
+          "rust-cli",
+          "shell-oneliner",
+          "stream-processing",
+          "summarization",
+          "text-processing",
+          "tree-structure",
+          "yaml"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 120,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 92,
+        "starVelocity": 2.51,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "zeitgrep",
+        "fullName": "kantord/zeitgrep",
+        "description": "sorted grep",
+        "url": "https://github.com/kantord/zeitgrep",
+        "stars": 60,
+        "forks": 1,
+        "language": "Rust",
+        "topics": [
+          "cli",
+          "code-search",
+          "frecency",
+          "git",
+          "grep",
+          "grep-like",
+          "neovim",
+          "regex",
+          "rust-lang",
+          "search",
+          "search-engine",
+          "telescope-extension",
+          "unix"
+        ],
+        "categories": [],
+        "score": 85,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 7,
+        "repoAgeInDays": 264,
+        "starVelocity": 0.23,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "pricedb",
+        "fullName": "kantord/pricedb",
+        "description": "Zero-config auto-updated pricedb for ledger",
+        "url": "https://github.com/kantord/pricedb",
+        "stars": 16,
+        "forks": 3,
+        "language": "Shell",
+        "topics": [],
+        "categories": [],
+        "score": 60,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 2795,
+        "starVelocity": 0.01,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
     "username": "stschiff",
     "name": "Stephan Schiffels",
     "avatar": "https://avatars.githubusercontent.com/u/446618?v=4",
@@ -9498,6 +10294,141 @@
     ]
   },
   {
+    "username": "grishy",
+    "name": "Sergei G.",
+    "avatar": "https://avatars.githubusercontent.com/u/13949080?v=4",
+    "bio": "How much I don’t know, I’ll have to find out...",
+    "location": "EU, Earth, Milky Way",
+    "website": "https://grishy.dev/",
+    "twitter": null,
+    "followers": 35,
+    "focusAreas": [
+      "ai",
+      "infra"
+    ],
+    "reputationScore": 45,
+    "consistencyScore": 72,
+    "lastActive": "2026-01-16T20:44:40Z",
+    "topRepos": [
+      {
+        "name": "go-avahi-cname",
+        "fullName": "grishy/go-avahi-cname",
+        "description": "Lightweight mDNS publisher of subdomains for your machine 🪶 ",
+        "url": "https://github.com/grishy/go-avahi-cname",
+        "stars": 111,
+        "forks": 5,
+        "language": "Go",
+        "topics": [
+          "aliases",
+          "avahi",
+          "cname",
+          "golang",
+          "mdns",
+          "multicast",
+          "self-hosted",
+          "subdomain"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 80,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 906,
+        "starVelocity": 0.12,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "any-sync-bundle",
+        "fullName": "grishy/any-sync-bundle",
+        "description": "Anytype Bundle: Prepackaged All-in-One Self-Hosting",
+        "url": "https://github.com/grishy/any-sync-bundle",
+        "stars": 248,
+        "forks": 13,
+        "language": "Go",
+        "topics": [
+          "all-in-one",
+          "anytype",
+          "docker",
+          "freebsd",
+          "golang",
+          "knowledge",
+          "linux",
+          "macos",
+          "self-hosted"
+        ],
+        "categories": [
+          "infra"
+        ],
+        "score": 75,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 23,
+        "repoAgeInDays": 504,
+        "starVelocity": 0.49,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "gopkgview",
+        "fullName": "grishy/gopkgview",
+        "description": "Interactive visualization of a Go package's dependency graph",
+        "url": "https://github.com/grishy/gopkgview",
+        "stars": 124,
+        "forks": 5,
+        "language": "Go",
+        "topics": [
+          "analysis",
+          "elk",
+          "flowchart",
+          "go",
+          "golang",
+          "graph",
+          "react",
+          "visualization"
+        ],
+        "categories": [],
+        "score": 60,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 44,
+        "repoAgeInDays": 429,
+        "starVelocity": 0.29,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
     "username": "cryptoquick",
     "name": "Hunter Beast",
     "avatar": "https://avatars.githubusercontent.com/u/285690?v=4",
@@ -10883,6 +11814,234 @@
         "daysSinceLastCommit": 0,
         "repoAgeInDays": 712,
         "starVelocity": 0.43,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
+    "username": "adminouyang",
+    "name": "231006",
+    "avatar": "https://avatars.githubusercontent.com/u/109812774?v=4",
+    "bio": null,
+    "location": null,
+    "website": "",
+    "twitter": null,
+    "followers": 20,
+    "focusAreas": [],
+    "reputationScore": 30,
+    "consistencyScore": 55,
+    "lastActive": "2026-01-16T20:44:59Z",
+    "topRepos": [
+      {
+        "name": "231006",
+        "fullName": "adminouyang/231006",
+        "description": "主要搜集tvbox配置文件",
+        "url": "https://github.com/adminouyang/231006",
+        "stars": 194,
+        "forks": 58,
+        "language": "JavaScript",
+        "topics": [],
+        "categories": [],
+        "score": 60,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 833,
+        "starVelocity": 0.23,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "dszby",
+        "fullName": "adminouyang/dszby",
+        "description": "",
+        "url": "https://github.com/adminouyang/dszby",
+        "stars": 19,
+        "forks": 8,
+        "language": "Python",
+        "topics": [],
+        "categories": [],
+        "score": 50,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 577,
+        "starVelocity": 0.03,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      }
+    ]
+  },
+  {
+    "username": "michael",
+    "name": "Michael Aufreiter",
+    "avatar": "https://avatars.githubusercontent.com/u/2931?v=4",
+    "bio": null,
+    "location": "Linz, Austria",
+    "website": "letsken.com",
+    "twitter": "_mql",
+    "followers": 813,
+    "focusAreas": [],
+    "reputationScore": 30,
+    "consistencyScore": 75,
+    "lastActive": "2026-01-16T20:44:25Z",
+    "topRepos": [
+      {
+        "name": "editable-website",
+        "fullName": "michael/editable-website",
+        "description": "A SvelteKit template for building CMS-free editable websites ",
+        "url": "https://github.com/michael/editable-website",
+        "stars": 1685,
+        "forks": 146,
+        "language": "JavaScript",
+        "topics": [
+          "javascript",
+          "richtexteditor",
+          "sqlite",
+          "svelte",
+          "webdev"
+        ],
+        "categories": [],
+        "score": 75,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 1018,
+        "starVelocity": 1.66,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "svedit",
+        "fullName": "michael/svedit",
+        "description": "A tiny library for building editable websites in Svelte",
+        "url": "https://github.com/michael/svedit",
+        "stars": 527,
+        "forks": 11,
+        "language": "JavaScript",
+        "topics": [],
+        "categories": [],
+        "score": 75,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 8,
+        "repoAgeInDays": 521,
+        "starVelocity": 1.01,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
+    "username": "zone117x",
+    "name": "Matthew Little",
+    "avatar": "https://avatars.githubusercontent.com/u/1447546?v=4",
+    "bio": null,
+    "location": "Amsterdam, Netherlands",
+    "website": "",
+    "twitter": null,
+    "followers": 616,
+    "focusAreas": [
+      "crypto"
+    ],
+    "reputationScore": 30,
+    "consistencyScore": 100,
+    "lastActive": "2026-01-16T20:44:44Z",
+    "topRepos": [
+      {
+        "name": "MimeMapping",
+        "fullName": "zone117x/MimeMapping",
+        "description": "Constants for (almost) all MIME types and file extensions, and method to determine MIME type of a file name.",
+        "url": "https://github.com/zone117x/MimeMapping",
+        "stars": 81,
+        "forks": 24,
+        "language": "C#",
+        "topics": [],
+        "categories": [
+          "crypto"
+        ],
+        "score": 110,
+        "coinWorthy": true,
+        "blockchain": [
+          "ethereum"
+        ],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 3358,
+        "starVelocity": 0.02,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "Secp256k1.Net",
+        "fullName": "zone117x/Secp256k1.Net",
+        "description": "Cross platform C# wrapper for the native secp256k1 lib (netstandard2.0)",
+        "url": "https://github.com/zone117x/Secp256k1.Net",
+        "stars": 45,
+        "forks": 13,
+        "language": "C#",
+        "topics": [],
+        "categories": [],
+        "score": 90,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 2,
+        "repoAgeInDays": 2768,
+        "starVelocity": 0.02,
         "isUnderrated": false,
         "isEarlyStage": false,
         "isActive": true,

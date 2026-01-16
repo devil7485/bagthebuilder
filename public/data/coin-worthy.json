@@ -84,6 +84,24 @@
     "isUnderrated": false
   },
   {
+    "fullName": "kantord/SeaGOAT",
+    "builder": "kantord",
+    "description": "local-first semantic code search engine",
+    "url": "https://github.com/kantord/SeaGOAT",
+    "stars": 1245,
+    "categories": [
+      "ai",
+      "crypto"
+    ],
+    "score": 130,
+    "language": "Python",
+    "blockchain": [
+      "base"
+    ],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
     "fullName": "MrLesk/Backlog.md",
     "builder": "MrLesk",
     "description": "Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem",
@@ -215,6 +233,21 @@
     "isUnderrated": false
   },
   {
+    "fullName": "kantord/headson",
+    "builder": "kantord",
+    "description": "head/tail for structured data - summarize/preview JSON/YAML and source code",
+    "url": "https://github.com/kantord/headson",
+    "stars": 231,
+    "categories": [
+      "ai"
+    ],
+    "score": 120,
+    "language": "Rust",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
     "fullName": "crypmancer/bnb-copy-trading-bot-go",
     "builder": "crypmancer",
     "description": "A Binance Smart Chain (BSC) copy trading bot built in Go that monitors swap transactions from a master wallet on PancakeSwap and automatically replicates them on your follower wallet. BNB Copy Trading Bot BNB Copy Trading Bot BNB Copy Trading Bot BNB Copy Trading Bot BNB Copy Trading Bot",
@@ -281,6 +314,23 @@
     "score": 115,
     "language": "TypeScript",
     "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "zone117x/MimeMapping",
+    "builder": "zone117x",
+    "description": "Constants for (almost) all MIME types and file extensions, and method to determine MIME type of a file name.",
+    "url": "https://github.com/zone117x/MimeMapping",
+    "stars": 81,
+    "categories": [
+      "crypto"
+    ],
+    "score": 110,
+    "language": "C#",
+    "blockchain": [
+      "ethereum"
+    ],
     "isHot": true,
     "isUnderrated": false
   },
@@ -561,6 +611,21 @@
     "isUnderrated": false
   },
   {
+    "fullName": "TianmuTNT/anuneko2api",
+    "builder": "TianmuTNT",
+    "description": "A lightweight proxy that converts Anuneko services into a standard OpenAI API format. 将 Anuneko 服务转换为标准 OpenAI API 格式的代理服务。",
+    "url": "https://github.com/TianmuTNT/anuneko2api",
+    "stars": 14,
+    "categories": [
+      "ai"
+    ],
+    "score": 105,
+    "language": "Python",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
     "fullName": "aimeos/aimeos-symfony",
     "builder": "aimeos",
     "description": "Symfony e-commerce bundle for professional, ultra fast online shops, complex B2B applications and #gigacommerce",
@@ -685,6 +750,21 @@
     "language": "PHP",
     "blockchain": [],
     "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "dkarter/king_of_tokyo",
+    "builder": "dkarter",
+    "description": "👑 King of Tokyo Multiplayer Board Game using Phoenix LiveView",
+    "url": "https://github.com/dkarter/king_of_tokyo",
+    "stars": 49,
+    "categories": [
+      "games"
+    ],
+    "score": 95,
+    "language": "Elixir",
+    "blockchain": [],
+    "isHot": true,
     "isUnderrated": false
   },
   {
@@ -904,6 +984,22 @@
     "language": "Java",
     "blockchain": [],
     "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "int128/docker-manifest-create-action",
+    "builder": "int128",
+    "description": "Create a multi-architectures container image in GitHub Actions",
+    "url": "https://github.com/int128/docker-manifest-create-action",
+    "stars": 14,
+    "categories": [
+      "ai",
+      "infra"
+    ],
+    "score": 90,
+    "language": "TypeScript",
+    "blockchain": [],
+    "isHot": true,
     "isUnderrated": false
   },
   {
@@ -1290,6 +1386,21 @@
     "isUnderrated": false
   },
   {
+    "fullName": "Zaeem20/FREE_PROXIES_LIST",
+    "builder": "Zaeem20",
+    "description": "FREE PROXY LIST (Gets Updated Every 10 Minutes). included HTTP(S) Proxy.",
+    "url": "https://github.com/Zaeem20/FREE_PROXIES_LIST",
+    "stars": 369,
+    "categories": [
+      "ai"
+    ],
+    "score": 80,
+    "language": null,
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
     "fullName": "aiiddqd/ton-gateway",
     "builder": "aiiddqd",
     "description": "Blockchain and crypto currency payments for WordPress & WooCommerce via TON (Toncoin, The Open Network)",
@@ -1330,6 +1441,21 @@
     ],
     "score": 80,
     "language": "Python",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "grishy/go-avahi-cname",
+    "builder": "grishy",
+    "description": "Lightweight mDNS publisher of subdomains for your machine 🪶 ",
+    "url": "https://github.com/grishy/go-avahi-cname",
+    "stars": 111,
+    "categories": [
+      "ai"
+    ],
+    "score": 80,
+    "language": "Go",
     "blockchain": [],
     "isHot": true,
     "isUnderrated": false
@@ -1739,6 +1865,21 @@
     "isUnderrated": false
   },
   {
+    "fullName": "grishy/any-sync-bundle",
+    "builder": "grishy",
+    "description": "Anytype Bundle: Prepackaged All-in-One Self-Hosting",
+    "url": "https://github.com/grishy/any-sync-bundle",
+    "stars": 248,
+    "categories": [
+      "infra"
+    ],
+    "score": 75,
+    "language": "Go",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
     "fullName": "aimeos/ai-cache",
     "builder": "aimeos",
     "description": "Cache extension for Aimeos web shops and e-commerce solutions",
@@ -1772,6 +1913,21 @@
     "isUnderrated": false
   },
   {
+    "fullName": "int128/ktunnels",
+    "builder": "int128",
+    "description": "Kubernetes controller for port-forwarding from your machine to remote hosts via Envoy TCP proxy",
+    "url": "https://github.com/int128/ktunnels",
+    "stars": 30,
+    "categories": [
+      "infra"
+    ],
+    "score": 70,
+    "language": "Go",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
     "fullName": "cryptosguru/Singularity_marketplace",
     "builder": "cryptosguru",
     "description": "NFT marketplace based on Ethereum and Polygon network.",
@@ -1789,6 +1945,22 @@
       "polygon"
     ],
     "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "int128/wait-for-docker-image-action",
+    "builder": "int128",
+    "description": "Action to wait until Docker image is available at current Git revision",
+    "url": "https://github.com/int128/wait-for-docker-image-action",
+    "stars": 6,
+    "categories": [
+      "ai",
+      "infra"
+    ],
+    "score": 70,
+    "language": "TypeScript",
+    "blockchain": [],
+    "isHot": true,
     "isUnderrated": false
   },
   {
@@ -1882,6 +2054,21 @@
     ],
     "score": 70,
     "language": "TypeScript",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "TianmuTNT/zzyCaptcha",
+    "builder": "TianmuTNT",
+    "description": "A simple, self-hostable, \"persistence of vision\" CAPTCHA service. 一个简单的、可自行部署的、基于“视觉暂留”效果的验证码服务。",
+    "url": "https://github.com/TianmuTNT/zzyCaptcha",
+    "stars": 20,
+    "categories": [
+      "infra"
+    ],
+    "score": 70,
+    "language": "Python",
     "blockchain": [],
     "isHot": false,
     "isUnderrated": false
