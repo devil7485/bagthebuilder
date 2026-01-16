@@ -4237,6 +4237,192 @@
     ]
   },
   {
+    "username": "ghiscoding",
+    "name": "Ghislain B.",
+    "avatar": "https://avatars.githubusercontent.com/u/643976?v=4",
+    "bio": null,
+    "location": "Montreal, Canada",
+    "website": "",
+    "twitter": null,
+    "followers": 147,
+    "focusAreas": [
+      "infra"
+    ],
+    "reputationScore": 100,
+    "consistencyScore": 73,
+    "lastActive": "2026-01-16T19:27:11Z",
+    "topRepos": [
+      {
+        "name": "slickgrid-universal",
+        "fullName": "ghiscoding/slickgrid-universal",
+        "description": "Slickgrid-Universal is a monorepo which includes all Editors, Filters, Extensions, Services related to SlickGrid usage and is also Framework Agnostic",
+        "url": "https://github.com/ghiscoding/slickgrid-universal",
+        "stars": 151,
+        "forks": 40,
+        "language": "TypeScript",
+        "topics": [
+          "angular",
+          "aurelia",
+          "csv-export",
+          "datagrid",
+          "datatable",
+          "excel-export",
+          "graphql",
+          "grid",
+          "javascript",
+          "monorepo",
+          "odata",
+          "react",
+          "rxjs",
+          "slickgrid",
+          "typescript",
+          "virtualscroll",
+          "vue",
+          "vue3"
+        ],
+        "categories": [],
+        "score": 100,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 2136,
+        "starVelocity": 0.07,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "aurelia-slickgrid-demos",
+        "fullName": "ghiscoding/aurelia-slickgrid-demos",
+        "description": "All client demos used to test Aurelia-Slickgrid",
+        "url": "https://github.com/ghiscoding/aurelia-slickgrid-demos",
+        "stars": 8,
+        "forks": 5,
+        "language": "TypeScript",
+        "topics": [
+          "aurelia-slickgrid",
+          "datagrid",
+          "demo",
+          "slickgrid",
+          "typescript",
+          "webpack"
+        ],
+        "categories": [],
+        "score": 95,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 13,
+        "repoAgeInDays": 2482,
+        "starVelocity": 0,
+        "isUnderrated": true,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": true,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "cli-nano",
+        "fullName": "ghiscoding/cli-nano",
+        "description": "small tool to create command-line tool (CLI) similar to Yargs or NodeJS parseArgs()",
+        "url": "https://github.com/ghiscoding/cli-nano",
+        "stars": 1,
+        "forks": 1,
+        "language": "TypeScript",
+        "topics": [],
+        "categories": [
+          "infra"
+        ],
+        "score": 85,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 10,
+        "repoAgeInDays": 206,
+        "starVelocity": 0,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "native-copyfiles",
+        "fullName": "ghiscoding/native-copyfiles",
+        "description": "a small JS and CLI cross-platform util to copy files",
+        "url": "https://github.com/ghiscoding/native-copyfiles",
+        "stars": 7,
+        "forks": 1,
+        "language": "TypeScript",
+        "topics": [],
+        "categories": [],
+        "score": 75,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 8,
+        "repoAgeInDays": 349,
+        "starVelocity": 0.02,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "remove-glob",
+        "fullName": "ghiscoding/remove-glob",
+        "description": "a small JS and CLI cross-platform util to remove files, directories",
+        "url": "https://github.com/ghiscoding/remove-glob",
+        "stars": 1,
+        "forks": 1,
+        "language": "TypeScript",
+        "topics": [],
+        "categories": [],
+        "score": 75,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 10,
+        "repoAgeInDays": 199,
+        "starVelocity": 0.01,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
     "username": "dora4",
     "name": "跟着哆啦学安卓",
     "avatar": "https://avatars.githubusercontent.com/u/71242257?v=4",
@@ -4394,6 +4580,373 @@
         "daysSinceLastCommit": 84,
         "repoAgeInDays": 1672,
         "starVelocity": 0.01,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
+    "username": "abusaeeidx",
+    "name": "ABU SAEEID X NOOB",
+    "avatar": "https://avatars.githubusercontent.com/u/165541154?v=4",
+    "bio": "ABU SAEEiD × Rifaz — Python • PHP • Automation",
+    "location": null,
+    "website": "",
+    "twitter": null,
+    "followers": 163,
+    "focusAreas": [
+      "ai",
+      "crypto"
+    ],
+    "reputationScore": 90,
+    "consistencyScore": 73,
+    "lastActive": "2026-01-16T19:28:24Z",
+    "topRepos": [
+      {
+        "name": "Mrgify-BDIX-IPTV",
+        "fullName": "abusaeeidx/Mrgify-BDIX-IPTV",
+        "description": "Mrgify-Tv provides a regularly updated BDIX IPTV playlist featuring Bangladeshi and international live TV channels. It is designed for seamless streaming through BDIX networks, offering sports, news, movies, and entertainment channels.",
+        "url": "https://github.com/abusaeeidx/Mrgify-BDIX-IPTV",
+        "stars": 20,
+        "forks": 12,
+        "language": null,
+        "topics": [
+          "bangladeshi-iptv",
+          "bangladeshi-tv",
+          "bd-iptv",
+          "bdix",
+          "bdix-iptv",
+          "bdix-iptv-playlist",
+          "bdix-live-tv",
+          "bdix-m3u",
+          "free-iptv",
+          "iptv",
+          "iptv-m3u",
+          "iptv-playlist",
+          "m3u",
+          "m3u-playlist",
+          "m3u8-playlist",
+          "mrgify-tv",
+          "playlist",
+          "tv",
+          "tv-channels"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 95,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 186,
+        "starVelocity": 0.11,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "CricHD-Scraper-V2",
+        "fullName": "abusaeeidx/CricHD-Scraper-V2",
+        "description": "A simple Scraper Tools for CricHD stream links. Automatically fetches and updates every 30 minutes. For educational and research purposes only — not intended for commercial use.",
+        "url": "https://github.com/abusaeeidx/CricHD-Scraper-V2",
+        "stars": 4,
+        "forks": 1,
+        "language": null,
+        "topics": [],
+        "categories": [
+          "crypto"
+        ],
+        "score": 85,
+        "coinWorthy": false,
+        "blockchain": [
+          "polygon"
+        ],
+        "frameworks": [
+          "ink"
+        ],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 167,
+        "starVelocity": 0.02,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "IPTV-Scraper-Zilla",
+        "fullName": "abusaeeidx/IPTV-Scraper-Zilla",
+        "description": "IPTV Scraper Zilla — High-quality, auto-updating IPTV playlist generator with thousands of live channels including sports, movies, anime, and more. Fast, lightweight, and perfect for seamless streaming across all devices.",
+        "url": "https://github.com/abusaeeidx/IPTV-Scraper-Zilla",
+        "stars": 122,
+        "forks": 37,
+        "language": "Python",
+        "topics": [],
+        "categories": [
+          "ai"
+        ],
+        "score": 80,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 169,
+        "starVelocity": 0.72,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "T-Sports-Playlist-Auto-Update",
+        "fullName": "abusaeeidx/T-Sports-Playlist-Auto-Update",
+        "description": "T Sports is the first sports TV channel in Bangladesh. It shows live cricket, football, and other sports. You can watch it on TV, online. This repository provides an auto-updating system that fetches working stream links, headers, and formats them into .m3u playlists and .json output. ",
+        "url": "https://github.com/abusaeeidx/T-Sports-Playlist-Auto-Update",
+        "stars": 8,
+        "forks": 2,
+        "language": null,
+        "topics": [],
+        "categories": [],
+        "score": 75,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [
+          "ink"
+        ],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 183,
+        "starVelocity": 0.04,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "CricHd-playlists-Auto-Update-permanent",
+        "fullName": "abusaeeidx/CricHd-playlists-Auto-Update-permanent",
+        "description": "🌐 CricHD Playlist – Free Live Sports Streaming 🏏 with auto-updated m3u8 playlists every 15 minutes | 🚫 Ad-free | ⚡ Buffer-free | 📱 Works on all devices",
+        "url": "https://github.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent",
+        "stars": 28,
+        "forks": 20,
+        "language": null,
+        "topics": [
+          "bdix",
+          "crichd",
+          "iptv-channels",
+          "sports-channel-live"
+        ],
+        "categories": [],
+        "score": 55,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 266,
+        "starVelocity": 0.11,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      }
+    ]
+  },
+  {
+    "username": "ugurkocde",
+    "name": "Ugur Koc | Microsoft MVP",
+    "avatar": "https://avatars.githubusercontent.com/u/43906965?v=4",
+    "bio": "Senior Product Manager @ glueckkanja",
+    "location": "Germany",
+    "website": "www.ugurkoc.de",
+    "twitter": "ugurkocde",
+    "followers": 430,
+    "focusAreas": [
+      "crypto",
+      "ai",
+      "games"
+    ],
+    "reputationScore": 90,
+    "consistencyScore": 73,
+    "lastActive": "2026-01-16T19:28:47Z",
+    "topRepos": [
+      {
+        "name": "IntuneBrew",
+        "fullName": "ugurkocde/IntuneBrew",
+        "description": "IntuneBrew is a PowerShell-based tool that simplifies the process of uploading and managing macOS applications in Microsoft Intune. It automates the entire workflow from downloading apps to uploading them to Intune, complete with proper metadata and logos.",
+        "url": "https://github.com/ugurkocde/IntuneBrew",
+        "stars": 216,
+        "forks": 42,
+        "language": "Shell",
+        "topics": [],
+        "categories": [
+          "crypto"
+        ],
+        "score": 110,
+        "coinWorthy": true,
+        "blockchain": [
+          "base"
+        ],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 451,
+        "starVelocity": 0.48,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "AwesomeIntune",
+        "fullName": "ugurkocde/AwesomeIntune",
+        "description": "",
+        "url": "https://github.com/ugurkocde/AwesomeIntune",
+        "stars": 43,
+        "forks": 2,
+        "language": "TypeScript",
+        "topics": [],
+        "categories": [],
+        "score": 80,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 12,
+        "starVelocity": 3.57,
+        "isUnderrated": false,
+        "isEarlyStage": true,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "IntuneAssignmentChecker",
+        "fullName": "ugurkocde/IntuneAssignmentChecker",
+        "description": "This script enables IT administrators to analyze and audit Intune assignments. It checks assignments for specific users, groups, or devices, displays all policies and their assignments, identifies unassigned policies and detects empty groups in assignments.",
+        "url": "https://github.com/ugurkocde/IntuneAssignmentChecker",
+        "stars": 386,
+        "forks": 62,
+        "language": "PowerShell",
+        "topics": [],
+        "categories": [
+          "crypto"
+        ],
+        "score": 70,
+        "coinWorthy": true,
+        "blockchain": [
+          "solana"
+        ],
+        "frameworks": [],
+        "daysSinceLastCommit": 42,
+        "repoAgeInDays": 691,
+        "starVelocity": 0.56,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "IntuneAutomation",
+        "fullName": "ugurkocde/IntuneAutomation",
+        "description": "",
+        "url": "https://github.com/ugurkocde/IntuneAutomation",
+        "stars": 80,
+        "forks": 11,
+        "language": "PowerShell",
+        "topics": [],
+        "categories": [],
+        "score": 65,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 1,
+        "repoAgeInDays": 238,
+        "starVelocity": 0.34,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "AgentsForAdmins",
+        "fullName": "ugurkocde/AgentsForAdmins",
+        "description": "Community-driven catalog of ready-to-use agents for the Security Copilot portal.",
+        "url": "https://github.com/ugurkocde/AgentsForAdmins",
+        "stars": 15,
+        "forks": 1,
+        "language": null,
+        "topics": [],
+        "categories": [
+          "ai",
+          "games"
+        ],
+        "score": 60,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 95,
+        "repoAgeInDays": 105,
+        "starVelocity": 0.14,
         "isUnderrated": false,
         "isEarlyStage": false,
         "isActive": false,
@@ -5924,6 +6477,170 @@
     ]
   },
   {
+    "username": "tom-doerr",
+    "name": "Tom Dörr",
+    "avatar": "https://avatars.githubusercontent.com/u/23431444?v=4",
+    "bio": null,
+    "location": null,
+    "website": "https://meta.stackoverflow.com/users/6105651/tom-d%c3%b6rr?tab=profile",
+    "twitter": "tom_doerr",
+    "followers": 1161,
+    "focusAreas": [
+      "ai"
+    ],
+    "reputationScore": 75,
+    "consistencyScore": 67,
+    "lastActive": "2026-01-16T19:45:11Z",
+    "topRepos": [
+      {
+        "name": "dspy-tweet-optimizer",
+        "fullName": "tom-doerr/dspy-tweet-optimizer",
+        "description": "AI-powered tweet optimization tool using DSPy with hill-climbing algorithm",
+        "url": "https://github.com/tom-doerr/dspy-tweet-optimizer",
+        "stars": 27,
+        "forks": 1,
+        "language": "Python",
+        "topics": [],
+        "categories": [
+          "ai"
+        ],
+        "score": 80,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 93,
+        "repoAgeInDays": 93,
+        "starVelocity": 0.29,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "dotfiles",
+        "fullName": "tom-doerr/dotfiles",
+        "description": "Contains my configuration files",
+        "url": "https://github.com/tom-doerr/dotfiles",
+        "stars": 277,
+        "forks": 20,
+        "language": "Shell",
+        "topics": [],
+        "categories": [
+          "ai"
+        ],
+        "score": 75,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 2921,
+        "starVelocity": 0.09,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "repo_posts",
+        "fullName": "tom-doerr/repo_posts",
+        "description": "",
+        "url": "https://github.com/tom-doerr/repo_posts",
+        "stars": 206,
+        "forks": 23,
+        "language": "Python",
+        "topics": [],
+        "categories": [],
+        "score": 65,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 334,
+        "starVelocity": 0.62,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "agent",
+        "fullName": "tom-doerr/agent",
+        "description": "",
+        "url": "https://github.com/tom-doerr/agent",
+        "stars": 50,
+        "forks": 8,
+        "language": "Python",
+        "topics": [],
+        "categories": [
+          "ai"
+        ],
+        "score": 60,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 38,
+        "repoAgeInDays": 234,
+        "starVelocity": 0.21,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "dspy_system_admin",
+        "fullName": "tom-doerr/dspy_system_admin",
+        "description": "",
+        "url": "https://github.com/tom-doerr/dspy_system_admin",
+        "stars": 0,
+        "forks": 0,
+        "language": "Python",
+        "topics": [],
+        "categories": [],
+        "score": 55,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 5,
+        "repoAgeInDays": 24,
+        "starVelocity": 0,
+        "isUnderrated": false,
+        "isEarlyStage": true,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
     "username": "ahmedopolis",
     "name": "AI",
     "avatar": "https://avatars.githubusercontent.com/u/63940972?v=4",
@@ -7000,6 +7717,148 @@
           "hasTests": false,
           "hasCI": false,
           "hasLicense": false
+        }
+      }
+    ]
+  },
+  {
+    "username": "ennnbeee",
+    "name": "Nick Benton",
+    "avatar": "https://avatars.githubusercontent.com/u/47244836?v=4",
+    "bio": "Principal Cloud Endpoint Consultant and Blogger",
+    "location": "UK",
+    "website": "https://www.oddsandendpoints.co.uk/",
+    "twitter": null,
+    "followers": 32,
+    "focusAreas": [
+      "ai",
+      "crypto",
+      "wallet"
+    ],
+    "reputationScore": 60,
+    "consistencyScore": 80,
+    "lastActive": "2026-01-16T19:27:17Z",
+    "topRepos": [
+      {
+        "name": "oddsandendpoints-scripts",
+        "fullName": "ennnbeee/oddsandendpoints-scripts",
+        "description": "This repository is for all script content made available from my blog with all scripts provided as is with no warranties, they should be tested prior to any implementation, and I hold no liability for the outcome of the scripts provided.",
+        "url": "https://github.com/ennnbeee/oddsandendpoints-scripts",
+        "stars": 55,
+        "forks": 12,
+        "language": "PowerShell",
+        "topics": [],
+        "categories": [
+          "ai"
+        ],
+        "score": 100,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 694,
+        "starVelocity": 0.08,
+        "isUnderrated": true,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": true,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "IntuneFirewallMigration",
+        "fullName": "ennnbeee/IntuneFirewallMigration",
+        "description": "IntuneFirewallMigration is an updated version of the originally Microsoft provided tool to capture firewall rules from a target machine and upload them to Intune.",
+        "url": "https://github.com/ennnbeee/IntuneFirewallMigration",
+        "stars": 18,
+        "forks": 1,
+        "language": "PowerShell",
+        "topics": [],
+        "categories": [
+          "ai"
+        ],
+        "score": 90,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 71,
+        "repoAgeInDays": 277,
+        "starVelocity": 0.06,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "IntuneAppAssigner",
+        "fullName": "ennnbeee/IntuneAppAssigner",
+        "description": "The IntuneAppAssigner PowerShell script allows for the bulk update or replacement of assignments for Android, iOS, macOS, and Windows apps in Intune.",
+        "url": "https://github.com/ennnbeee/IntuneAppAssigner",
+        "stars": 11,
+        "forks": 0,
+        "language": "PowerShell",
+        "topics": [],
+        "categories": [
+          "wallet"
+        ],
+        "score": 70,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 94,
+        "repoAgeInDays": 305,
+        "starVelocity": 0.04,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "AutopilotGroupTagger",
+        "fullName": "ennnbeee/AutopilotGroupTagger",
+        "description": "AutoPilotGroupTagger is a PowerShell based utility that allows for bulk update and management of Windows Autopilot Device Group Tags, for those who are retrospectively updating Autopilot devices or otherwise.",
+        "url": "https://github.com/ennnbeee/AutopilotGroupTagger",
+        "stars": 29,
+        "forks": 3,
+        "language": "PowerShell",
+        "topics": [],
+        "categories": [
+          "crypto"
+        ],
+        "score": 60,
+        "coinWorthy": false,
+        "blockchain": [
+          "base"
+        ],
+        "frameworks": [],
+        "daysSinceLastCommit": 60,
+        "repoAgeInDays": 351,
+        "starVelocity": 0.08,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
         }
       }
     ]
@@ -8143,6 +9002,502 @@
     ]
   },
   {
+    "username": "mkiol",
+    "name": "mkiol",
+    "avatar": "https://avatars.githubusercontent.com/u/1420902?v=4",
+    "bio": null,
+    "location": null,
+    "website": "",
+    "twitter": null,
+    "followers": 68,
+    "focusAreas": [
+      "ai"
+    ],
+    "reputationScore": 45,
+    "consistencyScore": 78,
+    "lastActive": "2026-01-16T19:27:02Z",
+    "topRepos": [
+      {
+        "name": "dsnote",
+        "fullName": "mkiol/dsnote",
+        "description": "Speech Note Linux app. Note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation.",
+        "url": "https://github.com/mkiol/dsnote",
+        "stars": 1293,
+        "forks": 55,
+        "language": "C++",
+        "topics": [
+          "asr",
+          "flatpak-applications",
+          "linux-desktop",
+          "machine-translation",
+          "nmt",
+          "offline",
+          "sailfishos",
+          "speech-recognition",
+          "speech-synthesis",
+          "speech-to-text",
+          "stt",
+          "text-to-speech",
+          "translation",
+          "translator",
+          "tts"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 105,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 14,
+        "repoAgeInDays": 1562,
+        "starVelocity": 0.83,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "Jupii",
+        "fullName": "mkiol/Jupii",
+        "description": "Play audio, video and images on UPnP/DLNA devices",
+        "url": "https://github.com/mkiol/Jupii",
+        "stars": 63,
+        "forks": 6,
+        "language": "C++",
+        "topics": [
+          "dlna",
+          "sailfishos",
+          "upnp"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 80,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 2971,
+        "starVelocity": 0.02,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "kaktus",
+        "fullName": "mkiol/kaktus",
+        "description": "Mobile feed reader for Tiny Tiny RSS and Old Reader",
+        "url": "https://github.com/mkiol/kaktus",
+        "stars": 21,
+        "forks": 11,
+        "language": "C++",
+        "topics": [
+          "oldreader",
+          "rss-reader",
+          "sailfishos",
+          "tinytinyrss"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 50,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 104,
+        "repoAgeInDays": 4359,
+        "starVelocity": 0,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
+    "username": "null8626",
+    "name": "null",
+    "avatar": "https://avatars.githubusercontent.com/u/60427892?v=4",
+    "bio": "I am perpetually jealous of people",
+    "location": null,
+    "website": "",
+    "twitter": null,
+    "followers": 73,
+    "focusAreas": [],
+    "reputationScore": 45,
+    "consistencyScore": 77,
+    "lastActive": "2026-01-16T19:26:55Z",
+    "topRepos": [
+      {
+        "name": "python-weather",
+        "fullName": "null8626/python-weather",
+        "description": "A free and asynchronous weather API wrapper made in python, for python.",
+        "url": "https://github.com/null8626/python-weather",
+        "stars": 111,
+        "forks": 31,
+        "language": "Python",
+        "topics": [
+          "data-science",
+          "forecast",
+          "weather",
+          "weather-forecast"
+        ],
+        "categories": [],
+        "score": 100,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 3,
+        "repoAgeInDays": 1832,
+        "starVelocity": 0.06,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "decancer",
+        "fullName": "null8626/decancer",
+        "description": "A library that removes common unicode confusables/homoglyphs from strings.",
+        "url": "https://github.com/null8626/decancer",
+        "stars": 126,
+        "forks": 4,
+        "language": "Rust",
+        "topics": [
+          "confusables",
+          "homoglyphs",
+          "leetspeak",
+          "moderation",
+          "sanitizer",
+          "security",
+          "string",
+          "unicode",
+          "zalgo"
+        ],
+        "categories": [],
+        "score": 70,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 1665,
+        "starVelocity": 0.08,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "tio.js",
+        "fullName": "null8626/tio.js",
+        "description": "Evaluate code in a sandboxed environment everywhere with TryItOnline.",
+        "url": "https://github.com/null8626/tio.js",
+        "stars": 12,
+        "forks": 2,
+        "language": "TypeScript",
+        "topics": [
+          "eval",
+          "sandbox",
+          "tio",
+          "try-it-online"
+        ],
+        "categories": [],
+        "score": 60,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 3,
+        "repoAgeInDays": 1700,
+        "starVelocity": 0.01,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
+    "username": "hugoduncan",
+    "name": "Hugo Duncan",
+    "avatar": "https://avatars.githubusercontent.com/u/54043?v=4",
+    "bio": null,
+    "location": null,
+    "website": "http://hugoduncan.org/",
+    "twitter": null,
+    "followers": 198,
+    "focusAreas": [
+      "ai",
+      "crypto"
+    ],
+    "reputationScore": 45,
+    "consistencyScore": 82,
+    "lastActive": "2026-01-16T19:45:11Z",
+    "topRepos": [
+      {
+        "name": "mcp-tasks",
+        "fullName": "hugoduncan/mcp-tasks",
+        "description": "An MCP server that provides task-based workflow management for agents",
+        "url": "https://github.com/hugoduncan/mcp-tasks",
+        "stars": 8,
+        "forks": 0,
+        "language": "Clojure",
+        "topics": [],
+        "categories": [
+          "ai",
+          "crypto"
+        ],
+        "score": 90,
+        "coinWorthy": true,
+        "blockchain": [
+          "base"
+        ],
+        "frameworks": [],
+        "daysSinceLastCommit": 1,
+        "repoAgeInDays": 108,
+        "starVelocity": 0.07,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "mcp-clj",
+        "fullName": "hugoduncan/mcp-clj",
+        "description": "An MCP server written in clojure",
+        "url": "https://github.com/hugoduncan/mcp-clj",
+        "stars": 53,
+        "forks": 9,
+        "language": "Clojure",
+        "topics": [],
+        "categories": [],
+        "score": 90,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 70,
+        "repoAgeInDays": 357,
+        "starVelocity": 0.15,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "criterium",
+        "fullName": "hugoduncan/criterium",
+        "description": "Benchmarking library for clojure",
+        "url": "https://github.com/hugoduncan/criterium",
+        "stars": 1220,
+        "forks": 52,
+        "language": "Clojure",
+        "topics": [],
+        "categories": [],
+        "score": 65,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 5875,
+        "starVelocity": 0.21,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      }
+    ]
+  },
+  {
+    "username": "REIJI007",
+    "name": "REIJI007",
+    "avatar": "https://avatars.githubusercontent.com/u/176358580?v=4",
+    "bio": "This’s REIJI007.",
+    "location": "Taiwan",
+    "website": "",
+    "twitter": null,
+    "followers": 34,
+    "focusAreas": [
+      "privacy"
+    ],
+    "reputationScore": 45,
+    "consistencyScore": 73,
+    "lastActive": "2026-01-16T19:46:41Z",
+    "topRepos": [
+      {
+        "name": "Adblock-Rule-Collection",
+        "fullName": "REIJI007/Adblock-Rule-Collection",
+        "description": "一个收集众多广告过滤器规则，进行转化、合并、去重的广告过滤器，兼容常见的广告过滤应用程序（如Adblock Plus、uBlock Origin、AdGuard 等），每20分钟更新一次，确保即时同步上游减少误杀",
+        "url": "https://github.com/REIJI007/Adblock-Rule-Collection",
+        "stars": 85,
+        "forks": 8,
+        "language": "Python",
+        "topics": [
+          "abp",
+          "adblock",
+          "adblock-list",
+          "adblock-plus",
+          "adblock-rule-collection",
+          "adblocker",
+          "adguard",
+          "anti-ad",
+          "anti-ads",
+          "bravebrowser",
+          "dnsmasq",
+          "easylist",
+          "easylist-china",
+          "easylist-privacy",
+          "host",
+          "ublock-origin"
+        ],
+        "categories": [
+          "privacy"
+        ],
+        "score": 80,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 529,
+        "starVelocity": 0.16,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "AdBlock_Rule_For_Clash",
+        "fullName": "REIJI007/AdBlock_Rule_For_Clash",
+        "description": "适用于Clash（premium核心与mihomo核心）的广告域名拦截RULE-SET规则集，每20分钟更新一次",
+        "url": "https://github.com/REIJI007/AdBlock_Rule_For_Clash",
+        "stars": 283,
+        "forks": 15,
+        "language": "PowerShell",
+        "topics": [
+          "adblock",
+          "clash",
+          "clash-meta",
+          "clash-premium",
+          "mihomo",
+          "rule-provider",
+          "rule-set"
+        ],
+        "categories": [],
+        "score": 70,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 532,
+        "starVelocity": 0.53,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "AdBlock_Rule_For_Sing-box",
+        "fullName": "REIJI007/AdBlock_Rule_For_Sing-box",
+        "description": "适用于Sing-box的广告域名拦截RULE-SET规则集，每20分钟更新一次",
+        "url": "https://github.com/REIJI007/AdBlock_Rule_For_Sing-box",
+        "stars": 125,
+        "forks": 19,
+        "language": "PowerShell",
+        "topics": [
+          "adblock",
+          "route",
+          "rule-set",
+          "rules",
+          "sing-box"
+        ],
+        "categories": [],
+        "score": 70,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 514,
+        "starVelocity": 0.24,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
     "username": "cryptoquick",
     "name": "Hunter Beast",
     "avatar": "https://avatars.githubusercontent.com/u/285690?v=4",
@@ -9088,6 +10443,446 @@
         "daysSinceLastCommit": 1,
         "repoAgeInDays": 814,
         "starVelocity": 0.02,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
+    "username": "lukevella",
+    "name": "Luke Vella",
+    "avatar": "https://avatars.githubusercontent.com/u/676849?v=4",
+    "bio": "Pretty good at computers.",
+    "location": "London, UK",
+    "website": "https://lukevella.com",
+    "twitter": "imlukevella",
+    "followers": 195,
+    "focusAreas": [
+      "infra",
+      "ai"
+    ],
+    "reputationScore": 30,
+    "consistencyScore": 98,
+    "lastActive": "2026-01-16T19:27:09Z",
+    "topRepos": [
+      {
+        "name": "rallly",
+        "fullName": "lukevella/rallly",
+        "description": "Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.",
+        "url": "https://github.com/lukevella/rallly",
+        "stars": 4904,
+        "forks": 490,
+        "language": "TypeScript",
+        "topics": [
+          "i18next",
+          "next-auth",
+          "nextjs",
+          "postgresql",
+          "prisma",
+          "react-email",
+          "t3-stack",
+          "tailwindcss",
+          "trpc",
+          "turborepo",
+          "typescript",
+          "zod"
+        ],
+        "categories": [
+          "infra",
+          "ai"
+        ],
+        "score": 130,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 4007,
+        "starVelocity": 1.22,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "rallly-selfhosted",
+        "fullName": "lukevella/rallly-selfhosted",
+        "description": "Example docker configuration for running your own instance of Rallly",
+        "url": "https://github.com/lukevella/rallly-selfhosted",
+        "stars": 138,
+        "forks": 21,
+        "language": null,
+        "topics": [],
+        "categories": [
+          "infra"
+        ],
+        "score": 65,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 46,
+        "repoAgeInDays": 1100,
+        "starVelocity": 0.13,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      }
+    ]
+  },
+  {
+    "username": "PE5PVB",
+    "name": "Sjef Verhoeven PE5PVB",
+    "avatar": "https://avatars.githubusercontent.com/u/76666293?v=4",
+    "bio": "Hamradio operator, electronics creator",
+    "location": "The Netherlands",
+    "website": "https://www.pe5pvb.nl/",
+    "twitter": null,
+    "followers": 90,
+    "focusAreas": [
+      "crypto"
+    ],
+    "reputationScore": 30,
+    "consistencyScore": 73,
+    "lastActive": "2026-01-16T19:27:07Z",
+    "topRepos": [
+      {
+        "name": "TEF6686_ESP32",
+        "fullName": "PE5PVB/TEF6686_ESP32",
+        "description": "Advanced arduino based firmware for TEF6686 with ESP32",
+        "url": "https://github.com/PE5PVB/TEF6686_ESP32",
+        "stars": 296,
+        "forks": 75,
+        "language": "C",
+        "topics": [],
+        "categories": [
+          "crypto"
+        ],
+        "score": 75,
+        "coinWorthy": true,
+        "blockchain": [
+          "base"
+        ],
+        "frameworks": [],
+        "daysSinceLastCommit": 11,
+        "repoAgeInDays": 960,
+        "starVelocity": 0.31,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "SI4684-DAB-Receiver",
+        "fullName": "PE5PVB/SI4684-DAB-Receiver",
+        "description": "SI4684 ESP32 DAB Receiver",
+        "url": "https://github.com/PE5PVB/SI4684-DAB-Receiver",
+        "stars": 88,
+        "forks": 17,
+        "language": "C",
+        "topics": [],
+        "categories": [],
+        "score": 70,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 694,
+        "starVelocity": 0.13,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
+    "username": "NoorBayan",
+    "name": null,
+    "avatar": "https://avatars.githubusercontent.com/u/157401879?v=4",
+    "bio": null,
+    "location": null,
+    "website": "",
+    "twitter": null,
+    "followers": 57,
+    "focusAreas": [
+      "ai"
+    ],
+    "reputationScore": 30,
+    "consistencyScore": 70,
+    "lastActive": "2026-01-16T19:46:21Z",
+    "topRepos": [
+      {
+        "name": "Amthal",
+        "fullName": "NoorBayan/Amthal",
+        "description": "Code and data for \"Datafying the Sacred,\" a network analysis of the Qur'an's conceptual metaphor system published in Big Data & Society",
+        "url": "https://github.com/NoorBayan/Amthal",
+        "stars": 77,
+        "forks": 0,
+        "language": "Jupyter Notebook",
+        "topics": [],
+        "categories": [],
+        "score": 75,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 69,
+        "repoAgeInDays": 126,
+        "starVelocity": 0.61,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "Mishkat",
+        "fullName": "NoorBayan/Mishkat",
+        "description": "Mishkat is an AI-driven multilingual Quran project that delivers audio translations and explanations of Quranic verses, enhancing accessibility and understanding for a global audience.",
+        "url": "https://github.com/NoorBayan/Mishkat",
+        "stars": 70,
+        "forks": 0,
+        "language": "Python",
+        "topics": [],
+        "categories": [
+          "ai"
+        ],
+        "score": 65,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 434,
+        "starVelocity": 0.16,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      }
+    ]
+  },
+  {
+    "username": "Denvi",
+    "name": null,
+    "avatar": "https://avatars.githubusercontent.com/u/5119037?v=4",
+    "bio": null,
+    "location": "-",
+    "website": "",
+    "twitter": null,
+    "followers": 133,
+    "focusAreas": [],
+    "reputationScore": 30,
+    "consistencyScore": 75,
+    "lastActive": "2026-01-16T19:45:12Z",
+    "topRepos": [
+      {
+        "name": "Candle",
+        "fullName": "Denvi/Candle",
+        "description": "GRBL controller application with G-Code visualizer written in Qt.",
+        "url": "https://github.com/Denvi/Candle",
+        "stars": 1566,
+        "forks": 588,
+        "language": "C++",
+        "topics": [
+          "candle",
+          "cnc-machine",
+          "gcode-visualizer",
+          "grbl",
+          "heightmap",
+          "linux",
+          "visualizer"
+        ],
+        "categories": [],
+        "score": 100,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 3838,
+        "starVelocity": 0.41,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "FlatCAM",
+        "fullName": "Denvi/FlatCAM",
+        "description": "https://bitbucket.org/jpcgt/flatcam",
+        "url": "https://github.com/Denvi/FlatCAM",
+        "stars": 107,
+        "forks": 37,
+        "language": "Python",
+        "topics": [],
+        "categories": [],
+        "score": 50,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 118,
+        "repoAgeInDays": 3693,
+        "starVelocity": 0.03,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
+    "username": "Epodonios",
+    "name": "ᛖᛈᛟᛞᛟᚾᛁᛟᛊ",
+    "avatar": "https://avatars.githubusercontent.com/u/158993328?v=4",
+    "bio": "Iᚠ yᛟᚢ ᛗᛟvᛖ ᛏᛟ ᛏᚺᛖ ᛚᛁᚷᚺᛏ, ᛏᚺᛖ ᛞᚨᚱᚲᚾᛖᛊᛊ ᚹᛁᛚᛚ ᛒᛖ ᛒᛖᚺᛁᚾᛞ yᛟᚢ 👾 🍁 🥼",
+    "location": null,
+    "website": "",
+    "twitter": null,
+    "followers": 298,
+    "focusAreas": [
+      "infra",
+      "crypto"
+    ],
+    "reputationScore": 30,
+    "consistencyScore": 100,
+    "lastActive": "2026-01-16T19:44:48Z",
+    "topRepos": [
+      {
+        "name": "v2ray-configs",
+        "fullName": "Epodonios/v2ray-configs",
+        "description": "Free vless-vmess-shadowsocks-trojan-xray-V2ray Configs Updating Every 5 minutes",
+        "url": "https://github.com/Epodonios/v2ray-configs",
+        "stars": 2290,
+        "forks": 321,
+        "language": "Python",
+        "topics": [
+          "bulk-connection",
+          "bulk-operation",
+          "gfw",
+          "gfw-china",
+          "reality",
+          "shadowsocks",
+          "trojan-gfw",
+          "v2ray",
+          "v2ray-ws-tls",
+          "v2rayng",
+          "vless",
+          "vless-grpc",
+          "vless-ws-tls",
+          "vmess",
+          "vmess-over-tls",
+          "vpn",
+          "vpn-server",
+          "vpnservice"
+        ],
+        "categories": [
+          "infra"
+        ],
+        "score": 120,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 707,
+        "starVelocity": 3.24,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "bulk-xray-v2ray-vless-vmess-...-configs",
+        "fullName": "Epodonios/bulk-xray-v2ray-vless-vmess-...-configs",
+        "description": "free vmess vless trojan shadowsocks live v2ray_xray configs splitted by country",
+        "url": "https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs",
+        "stars": 303,
+        "forks": 43,
+        "language": "Python",
+        "topics": [
+          "bot",
+          "collector",
+          "config",
+          "freedom",
+          "python",
+          "shadowsocks",
+          "trojan",
+          "v2ray",
+          "vless",
+          "vmess",
+          "vpn",
+          "xray"
+        ],
+        "categories": [
+          "crypto"
+        ],
+        "score": 80,
+        "coinWorthy": true,
+        "blockchain": [
+          "solana"
+        ],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 712,
+        "starVelocity": 0.43,
         "isUnderrated": false,
         "isEarlyStage": false,
         "isActive": true,

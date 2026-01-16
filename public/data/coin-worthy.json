@@ -31,6 +31,22 @@
     "isUnderrated": false
   },
   {
+    "fullName": "lukevella/rallly",
+    "builder": "lukevella",
+    "description": "Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.",
+    "url": "https://github.com/lukevella/rallly",
+    "stars": 4904,
+    "categories": [
+      "infra",
+      "ai"
+    ],
+    "score": 130,
+    "language": "TypeScript",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
     "fullName": "aimeos/aimeos-headless",
     "builder": "aimeos",
     "description": "Aimeos cloud-native, API-first ecommerce headless distribution based on Laravel 11 for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce",
@@ -144,6 +160,21 @@
     ],
     "score": 120,
     "language": "Vue",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "Epodonios/v2ray-configs",
+    "builder": "Epodonios",
+    "description": "Free vless-vmess-shadowsocks-trojan-xray-V2ray Configs Updating Every 5 minutes",
+    "url": "https://github.com/Epodonios/v2ray-configs",
+    "stars": 2290,
+    "categories": [
+      "infra"
+    ],
+    "score": 120,
+    "language": "Python",
     "blockchain": [],
     "isHot": true,
     "isUnderrated": false
@@ -363,6 +394,23 @@
     "isUnderrated": false
   },
   {
+    "fullName": "ugurkocde/IntuneBrew",
+    "builder": "ugurkocde",
+    "description": "IntuneBrew is a PowerShell-based tool that simplifies the process of uploading and managing macOS applications in Microsoft Intune. It automates the entire workflow from downloading apps to uploading them to Intune, complete with proper metadata and logos.",
+    "url": "https://github.com/ugurkocde/IntuneBrew",
+    "stars": 216,
+    "categories": [
+      "crypto"
+    ],
+    "score": 110,
+    "language": "Shell",
+    "blockchain": [
+      "base"
+    ],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
     "fullName": "SpaceTimee/Fusion-JetBrainsMapleMono",
     "builder": "SpaceTimee",
     "description": "JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono",
@@ -424,6 +472,21 @@
     "language": "PHP",
     "blockchain": [],
     "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "mkiol/dsnote",
+    "builder": "mkiol",
+    "description": "Speech Note Linux app. Note taking, reading and translating with offline Speech to Text, Text to Speech and Machine translation.",
+    "url": "https://github.com/mkiol/dsnote",
+    "stars": 1293,
+    "categories": [
+      "ai"
+    ],
+    "score": 105,
+    "language": "C++",
+    "blockchain": [],
+    "isHot": false,
     "isUnderrated": false
   },
   {
@@ -595,6 +658,21 @@
     "isUnderrated": false
   },
   {
+    "fullName": "ennnbeee/oddsandendpoints-scripts",
+    "builder": "ennnbeee",
+    "description": "This repository is for all script content made available from my blog with all scripts provided as is with no warranties, they should be tested prior to any implementation, and I hold no liability for the outcome of the scripts provided.",
+    "url": "https://github.com/ennnbeee/oddsandendpoints-scripts",
+    "stars": 55,
+    "categories": [
+      "ai"
+    ],
+    "score": 100,
+    "language": "PowerShell",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": true
+  },
+  {
     "fullName": "aimeos/prisma",
     "builder": "aimeos",
     "description": "Light-weight PHP package for integrating multi-media related Large Language Models (LLMs) using a unified interface",
@@ -646,6 +724,21 @@
     "isUnderrated": false
   },
   {
+    "fullName": "ZhiXuanWang/cf-speed-dns",
+    "builder": "ZhiXuanWang",
+    "description": "CF优选IP工具。动态获取Cloudflare优选IP，CloudflareSpeedTest测速。",
+    "url": "https://github.com/ZhiXuanWang/cf-speed-dns",
+    "stars": 1213,
+    "categories": [
+      "infra"
+    ],
+    "score": 95,
+    "language": "Python",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
     "fullName": "SpaceTimee/Console-HostChecker",
     "builder": "SpaceTimee",
     "description": "Check Check Need Cealing Host",
@@ -676,6 +769,21 @@
     "language": "Python",
     "blockchain": [],
     "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "abusaeeidx/Mrgify-BDIX-IPTV",
+    "builder": "abusaeeidx",
+    "description": "Mrgify-Tv provides a regularly updated BDIX IPTV playlist featuring Bangladeshi and international live TV channels. It is designed for seamless streaming through BDIX networks, offering sports, news, movies, and entertainment channels.",
+    "url": "https://github.com/abusaeeidx/Mrgify-BDIX-IPTV",
+    "stars": 20,
+    "categories": [
+      "ai"
+    ],
+    "score": 95,
+    "language": null,
+    "blockchain": [],
+    "isHot": true,
     "isUnderrated": false
   },
   {
@@ -866,6 +974,21 @@
     "isUnderrated": false
   },
   {
+    "fullName": "ennnbeee/IntuneFirewallMigration",
+    "builder": "ennnbeee",
+    "description": "IntuneFirewallMigration is an updated version of the originally Microsoft provided tool to capture firewall rules from a target machine and upload them to Intune.",
+    "url": "https://github.com/ennnbeee/IntuneFirewallMigration",
+    "stars": 18,
+    "categories": [
+      "ai"
+    ],
+    "score": 90,
+    "language": "PowerShell",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
     "fullName": "Microck/RPi4toNAS-Guide",
     "builder": "Microck",
     "description": "A comprehensive guide and set of scripts for creating a personal, low-cost Network Attached Storage (NAS) with a Raspberry Pi. This project automates backups from your PC and remote servers, and provides a persistent remote desktop environment.",
@@ -878,6 +1001,24 @@
     "language": "Batchfile",
     "blockchain": [],
     "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "hugoduncan/mcp-tasks",
+    "builder": "hugoduncan",
+    "description": "An MCP server that provides task-based workflow management for agents",
+    "url": "https://github.com/hugoduncan/mcp-tasks",
+    "stars": 8,
+    "categories": [
+      "ai",
+      "crypto"
+    ],
+    "score": 90,
+    "language": "Clojure",
+    "blockchain": [
+      "base"
+    ],
+    "isHot": true,
     "isUnderrated": false
   },
   {
@@ -1023,6 +1164,21 @@
     "isUnderrated": false
   },
   {
+    "fullName": "ClemensFischer/XAML-Map-Control",
+    "builder": "ClemensFischer",
+    "description": "XAML Map Control Library",
+    "url": "https://github.com/ClemensFischer/XAML-Map-Control",
+    "stars": 227,
+    "categories": [
+      "ai"
+    ],
+    "score": 80,
+    "language": "C#",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
     "fullName": "jhealy/awesome",
     "builder": "jhealy",
     "description": "My set of links I can't throw away.  Slow migration from dfwiki.  may be its own wiki again one day.",
@@ -1033,6 +1189,21 @@
     ],
     "score": 80,
     "language": "Shell",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "mkiol/Jupii",
+    "builder": "mkiol",
+    "description": "Play audio, video and images on UPnP/DLNA devices",
+    "url": "https://github.com/mkiol/Jupii",
+    "stars": 63,
+    "categories": [
+      "ai"
+    ],
+    "score": 80,
+    "language": "C++",
     "blockchain": [],
     "isHot": true,
     "isUnderrated": false
@@ -1196,6 +1367,23 @@
     "isUnderrated": false
   },
   {
+    "fullName": "Epodonios/bulk-xray-v2ray-vless-vmess-...-configs",
+    "builder": "Epodonios",
+    "description": "free vmess vless trojan shadowsocks live v2ray_xray configs splitted by country",
+    "url": "https://github.com/Epodonios/bulk-xray-v2ray-vless-vmess-...-configs",
+    "stars": 303,
+    "categories": [
+      "crypto"
+    ],
+    "score": 80,
+    "language": "Python",
+    "blockchain": [
+      "solana"
+    ],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
     "fullName": "web3batman/solana-crowdfund-dapp",
     "builder": "web3batman",
     "description": "Solana 🌍 Crowdfunding 🚀 Dapp 💰 smart contract utilizing Rust and Anchor framework. 😂🎉",
@@ -1210,6 +1398,21 @@
       "solana"
     ],
     "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "REIJI007/Adblock-Rule-Collection",
+    "builder": "REIJI007",
+    "description": "一个收集众多广告过滤器规则，进行转化、合并、去重的广告过滤器，兼容常见的广告过滤应用程序（如Adblock Plus、uBlock Origin、AdGuard 等），每20分钟更新一次，确保即时同步上游减少误杀",
+    "url": "https://github.com/REIJI007/Adblock-Rule-Collection",
+    "stars": 85,
+    "categories": [
+      "privacy"
+    ],
+    "score": 80,
+    "language": "Python",
+    "blockchain": [],
+    "isHot": true,
     "isUnderrated": false
   },
   {
@@ -1241,6 +1444,21 @@
     "language": null,
     "blockchain": [],
     "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "abusaeeidx/IPTV-Scraper-Zilla",
+    "builder": "abusaeeidx",
+    "description": "IPTV Scraper Zilla — High-quality, auto-updating IPTV playlist generator with thousands of live channels including sports, movies, anime, and more. Fast, lightweight, and perfect for seamless streaming across all devices.",
+    "url": "https://github.com/abusaeeidx/IPTV-Scraper-Zilla",
+    "stars": 122,
+    "categories": [
+      "ai"
+    ],
+    "score": 80,
+    "language": "Python",
+    "blockchain": [],
+    "isHot": true,
     "isUnderrated": false
   },
   {
@@ -1286,6 +1504,21 @@
     "language": "Python",
     "blockchain": [],
     "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "tom-doerr/dspy-tweet-optimizer",
+    "builder": "tom-doerr",
+    "description": "AI-powered tweet optimization tool using DSPy with hill-climbing algorithm",
+    "url": "https://github.com/tom-doerr/dspy-tweet-optimizer",
+    "stars": 27,
+    "categories": [
+      "ai"
+    ],
+    "score": 80,
+    "language": "Python",
+    "blockchain": [],
+    "isHot": false,
     "isUnderrated": false
   },
   {
@@ -1335,6 +1568,21 @@
       "ethereum"
     ],
     "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "tom-doerr/dotfiles",
+    "builder": "tom-doerr",
+    "description": "Contains my configuration files",
+    "url": "https://github.com/tom-doerr/dotfiles",
+    "stars": 277,
+    "categories": [
+      "ai"
+    ],
+    "score": 75,
+    "language": "Shell",
+    "blockchain": [],
+    "isHot": true,
     "isUnderrated": false
   },
   {
@@ -1400,6 +1648,23 @@
     "language": "Shell",
     "blockchain": [],
     "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "PE5PVB/TEF6686_ESP32",
+    "builder": "PE5PVB",
+    "description": "Advanced arduino based firmware for TEF6686 with ESP32",
+    "url": "https://github.com/PE5PVB/TEF6686_ESP32",
+    "stars": 296,
+    "categories": [
+      "crypto"
+    ],
+    "score": 75,
+    "language": "C",
+    "blockchain": [
+      "base"
+    ],
+    "isHot": false,
     "isUnderrated": false
   },
   {
@@ -1542,6 +1807,23 @@
     "isUnderrated": false
   },
   {
+    "fullName": "ugurkocde/IntuneAssignmentChecker",
+    "builder": "ugurkocde",
+    "description": "This script enables IT administrators to analyze and audit Intune assignments. It checks assignments for specific users, groups, or devices, displays all policies and their assignments, identifies unassigned policies and detects empty groups in assignments.",
+    "url": "https://github.com/ugurkocde/IntuneAssignmentChecker",
+    "stars": 386,
+    "categories": [
+      "crypto"
+    ],
+    "score": 70,
+    "language": "PowerShell",
+    "blockchain": [
+      "solana"
+    ],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
     "fullName": "vitoplantamura/MagicTrackpad2ForWindows",
     "builder": "vitoplantamura",
     "description": "Magic Trackpad 2 Precision Touchpad driver for Windows (USB-only), based on the imbushuo driver, with Control Panel to set haptic feedback and options to improve pointer precision. *** October 2024 Magic Trackpad 2 supported. ***",
@@ -1569,6 +1851,21 @@
     ],
     "score": 70,
     "language": "JavaScript",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "ennnbeee/IntuneAppAssigner",
+    "builder": "ennnbeee",
+    "description": "The IntuneAppAssigner PowerShell script allows for the bulk update or replacement of assignments for Android, iOS, macOS, and Windows apps in Intune.",
+    "url": "https://github.com/ennnbeee/IntuneAppAssigner",
+    "stars": 11,
+    "categories": [
+      "wallet"
+    ],
+    "score": 70,
+    "language": "PowerShell",
     "blockchain": [],
     "isHot": false,
     "isUnderrated": false
