@@ -3,6 +3,7 @@
 import { useState, useEffect } from "react";
 import RepoCard from "../components/RepoCard";
 import FilterBar from "../components/FilterBar";
+import AdvancedFilters, { FilterState } from "../components/AdvancedFilters";
 
 type Repo = {
   id: number;
@@ -17,12 +18,39 @@ type Repo = {
   categories: string[];
   score: number;
   coinWorthy: boolean;
+  // New fields
+  blockchain?: string[];
+  frameworks?: string[];
+  daysSinceLastCommit?: number;
+  repoAgeInDays?: number;
+  starVelocity?: number;
+  isUnderrated?: boolean;
+  isEarlyStage?: boolean;
+  isHot?: boolean;
+  isActive?: boolean;
+  quality?: {
+    hasTests: boolean;
+    hasCI: boolean;
+    hasLicense: boolean;
+    hasReadme: boolean;
+  };
 };
 
 export default function HomePage() {
   const [repos, setRepos] = useState<Repo[]>([]);
   const [filteredRepos, setFilteredRepos] = useState<Repo[]>([]);
-  const [filter, setFilter] = useState("All");
+  const [categoryFilter, setCategoryFilter] = useState("All");
+  const [advancedFilters, setAdvancedFilters] = useState<FilterState>({
+    activity: "all",
+    blockchains: [],
+    languages: [],
+    hasTests: false,
+    hasCI: false,
+    hasLicense: false,
+    showUnderrated: false,
+    showEarlyStage: false,
+    starRange: "all"
+  });
   const [loading, setLoading] = useState(true);
 
   // Load repos from builders data
@@ -51,7 +79,23 @@ export default function HomePage() {
               language: repo.language || null,
               categories: repo.categories || [],
               score: repo.score || 0,
-              coinWorthy: repo.coinWorthy || false
+              coinWorthy: repo.coinWorthy || false,
+              // New fields
+              blockchain: repo.blockchain || [],
+              frameworks: repo.frameworks || [],
+              daysSinceLastCommit: repo.daysSinceLastCommit,
+              repoAgeInDays: repo.repoAgeInDays,
+              starVelocity: repo.starVelocity,
+              isUnderrated: repo.isUnderrated || false,
+              isEarlyStage: repo.isEarlyStage || false,
+              isHot: repo.isHot || false,
+              isActive: repo.isActive || false,
+              quality: repo.quality || {
+                hasTests: false,
+                hasCI: false,
+                hasLicense: false,
+                hasReadme: true
+              }
             });
           });
         });
@@ -69,20 +113,77 @@ export default function HomePage() {
       });
   }, []);
 
-  // Filter repos
+  // Apply all filters
   useEffect(() => {
     let result = [...repos];
 
-    if (filter !== "All") {
-      if (filter === "good") {
+    // Category filter
+    if (categoryFilter !== "All") {
+      if (categoryFilter === "good") {
         result = result.filter((r) => r.coinWorthy);
       } else {
-        result = result.filter((r) => r.categories.includes(filter));
+        result = result.filter((r) => r.categories.includes(categoryFilter));
       }
     }
 
+    // Activity filter
+    if (advancedFilters.activity !== "all") {
+      if (advancedFilters.activity === "hot") {
+        result = result.filter((r) => r.isHot);
+      } else if (advancedFilters.activity === "active") {
+        result = result.filter((r) => r.isActive);
+      } else if (advancedFilters.activity === "quiet") {
+        result = result.filter((r) => !r.isActive);
+      }
+    }
+
+    // Blockchain filter
+    if (advancedFilters.blockchains.length > 0) {
+      result = result.filter((r) =>
+        r.blockchain?.some((b) => advancedFilters.blockchains.includes(b))
+      );
+    }
+
+    // Language filter
+    if (advancedFilters.languages.length > 0) {
+      result = result.filter((r) =>
+        r.language && advancedFilters.languages.includes(r.language)
+      );
+    }
+
+    // Star range filter
+    if (advancedFilters.starRange !== "all") {
+      const ranges = {
+        "0-50": [0, 50],
+        "50-200": [50, 200],
+        "200-1000": [200, 1000],
+        "1000+": [1000, Infinity]
+      };
+      const [min, max] = ranges[advancedFilters.starRange as keyof typeof ranges];
+      result = result.filter((r) => r.stars >= min && r.stars < max);
+    }
+
+    // Quality filters
+    if (advancedFilters.hasTests) {
+      result = result.filter((r) => r.quality?.hasTests);
+    }
+    if (advancedFilters.hasCI) {
+      result = result.filter((r) => r.quality?.hasCI);
+    }
+    if (advancedFilters.hasLicense) {
+      result = result.filter((r) => r.quality?.hasLicense);
+    }
+
+    // Special signals
+    if (advancedFilters.showUnderrated) {
+      result = result.filter((r) => r.isUnderrated);
+    }
+    if (advancedFilters.showEarlyStage) {
+      result = result.filter((r) => r.isEarlyStage);
+    }
+
     setFilteredRepos(result);
-  }, [repos, filter]);
+  }, [repos, categoryFilter, advancedFilters]);
 
   if (loading) {
     return (
@@ -173,13 +274,15 @@ export default function HomePage() {
         {/* Filter Section */}
         <section className="container mx-auto px-6 py-8">
           <div className="max-w-6xl mx-auto">
-            <FilterBar filter={filter} setFilter={setFilter} />
+            <FilterBar filter={categoryFilter} setFilter={setCategoryFilter} />
+            
+            <AdvancedFilters onFilterChange={setAdvancedFilters} />
 
             {/* Results Count */}
             <div className="flex items-center justify-between mb-6">
               <p className="text-white/60">
                 {filteredRepos.length} project{filteredRepos.length !== 1 ? "s" : ""} found
-                {filter !== "All" && ` in ${filter}`}
+                {categoryFilter !== "All" && ` in ${categoryFilter}`}
               </p>
             </div>
           </div>
@@ -193,7 +296,7 @@ export default function HomePage() {
                 <div className="text-6xl mb-4">🔍</div>
                 <h3 className="text-2xl font-bold mb-2">No projects found</h3>
                 <p className="text-white/60">
-                  Try selecting a different category
+                  Try adjusting your filters
                 </p>
               </div>
             ) : (

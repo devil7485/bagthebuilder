@@ -1,43 +1,105 @@
 [
   {
-    "fullName": "rameerez/allgood",
-    "builder": "rameerez",
-    "description": "✅ Quickly set up a health check page for your Rails app",
-    "url": "https://github.com/rameerez/allgood",
-    "stars": 264,
+    "fullName": "Microck/opencode-studio",
+    "builder": "Microck",
+    "description": "[WIP] web GUI for securely managing local Opencode configuration",
+    "url": "https://github.com/Microck/opencode-studio",
+    "stars": 104,
+    "categories": [
+      "ai"
+    ],
+    "score": 140,
+    "language": "TypeScript",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "aimeos/aimeos-headless",
+    "builder": "aimeos",
+    "description": "Aimeos cloud-native, API-first ecommerce headless distribution based on Laravel 11 for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce",
+    "url": "https://github.com/aimeos/aimeos-headless",
+    "stars": 2389,
     "categories": [
       "ai",
       "infra",
-      "privacy"
+      "crypto"
     ],
-    "score": 95,
-    "language": "Ruby"
+    "score": 130,
+    "language": "JavaScript",
+    "blockchain": [
+      "base"
+    ],
+    "isHot": false,
+    "isUnderrated": false
   },
   {
-    "fullName": "lrstanley/entrest",
-    "builder": "lrstanley",
-    "description": "Extension that generates a compliant OpenAPI spec and server implementation",
-    "url": "https://github.com/lrstanley/entrest",
-    "stars": 38,
-    "categories": [
-      "api",
-      "tools"
-    ],
-    "score": 93,
-    "language": "Go"
-  },
-  {
-    "fullName": "relf/EGObox",
-    "builder": "relf",
-    "description": "Efficient global optimization toolbox in Rust: bayesian optimization, mixture of gaussian processes, sampling methods ",
-    "url": "https://github.com/relf/EGObox",
-    "stars": 157,
+    "fullName": "aimeos/aimeos-base",
+    "builder": "aimeos",
+    "description": "Aimeos abstraction layer for host applications",
+    "url": "https://github.com/aimeos/aimeos-base",
+    "stars": 2026,
     "categories": [
       "ai",
-      "tools"
+      "crypto"
     ],
-    "score": 92,
-    "language": "Rust"
+    "score": 130,
+    "language": "PHP",
+    "blockchain": [
+      "base"
+    ],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "aimeos/aimeos-core",
+    "builder": "aimeos",
+    "description": "Aimeos PHP e-commerce framework for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce",
+    "url": "https://github.com/aimeos/aimeos-core",
+    "stars": 4375,
+    "categories": [
+      "ai"
+    ],
+    "score": 120,
+    "language": "PHP",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "aimeos/upscheme",
+    "builder": "aimeos",
+    "description": "Database migrations and schema updates made easy",
+    "url": "https://github.com/aimeos/upscheme",
+    "stars": 2553,
+    "categories": [
+      "crypto"
+    ],
+    "score": 120,
+    "language": "PHP",
+    "blockchain": [
+      "base"
+    ],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "h4ck3r0/Metasploit-termux",
+    "builder": "h4ck3r0",
+    "description": "Install Metasploit In Termux 2026, No Error, Maintained, Termux",
+    "url": "https://github.com/h4ck3r0/Metasploit-termux",
+    "stars": 231,
+    "categories": [
+      "ai",
+      "crypto"
+    ],
+    "score": 120,
+    "language": "Shell",
+    "blockchain": [
+      "solana"
+    ],
+    "isHot": true,
+    "isUnderrated": false
   },
   {
     "fullName": "aimeos/pagible",
@@ -47,234 +109,33 @@
     "stars": 389,
     "categories": [
       "ai",
-      "infra",
-      "api",
-      "agi"
+      "infra"
     ],
-    "score": 92,
-    "language": "Vue"
+    "score": 120,
+    "language": "Vue",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
   },
   {
-    "fullName": "fujiwara/lambroll",
-    "builder": "fujiwara",
-    "description": "lambroll is a minimal deployment tool for AWS Lambda.",
-    "url": "https://github.com/fujiwara/lambroll",
-    "stars": 432,
+    "fullName": "Hunterdii/GeeksforGeeks-POTD",
+    "builder": "Hunterdii",
+    "description": "🌟 Welcome to the vibrant world of GeeksforGeeks Daily Problem of the Day solutions! Dive into a treasure trove of daily challenges meticulously crafted to sharpen your problem-solving skills. With diverse topics, detailed explanations, and a supportive community, this repository is your gateway to mastering algorithms, data structures, and more!🚀",
+    "url": "https://github.com/Hunterdii/GeeksforGeeks-POTD",
+    "stars": 222,
     "categories": [
-      "infra",
-      "tools"
-    ],
-    "score": 91,
-    "language": "Go"
-  },
-  {
-    "fullName": "aimeos/aimeos-headless",
-    "builder": "aimeos",
-    "description": "Aimeos cloud-native, API-first ecommerce headless distribution based on Laravel 11 for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce",
-    "url": "https://github.com/aimeos/aimeos-headless",
-    "stars": 2388,
-    "categories": [
+      "defi",
       "ai",
-      "infra",
-      "api"
+      "games",
+      "crypto"
     ],
-    "score": 91,
-    "language": "JavaScript"
-  },
-  {
-    "fullName": "Brandawg93/PeaNUT",
-    "builder": "Brandawg93",
-    "description": "A tiny dashboard for Network UPS Tools",
-    "url": "https://github.com/Brandawg93/PeaNUT",
-    "stars": 1207,
-    "categories": [
-      "tools"
+    "score": 120,
+    "language": "C++",
+    "blockchain": [
+      "solana"
     ],
-    "score": 91,
-    "language": "TypeScript"
-  },
-  {
-    "fullName": "crypmancer/polymarket-arbitrage-copy-bot",
-    "builder": "crypmancer",
-    "description": "A sophisticated trading bot written in Rust that combines arbitrage detection and copy trading strategies on Polymarket. This bot monitors successful wallets (like arbitrage-focused bots) and selectively copies their trades when arbitrage opportunities are detected.",
-    "url": "https://github.com/crypmancer/polymarket-arbitrage-copy-bot",
-    "stars": 55,
-    "categories": [
-      "crypto",
-      "privacy"
-    ],
-    "score": 91,
-    "language": "TypeScript"
-  },
-  {
-    "fullName": "aimeos/aimeos-core",
-    "builder": "aimeos",
-    "description": "Aimeos PHP e-commerce framework for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce",
-    "url": "https://github.com/aimeos/aimeos-core",
-    "stars": 4374,
-    "categories": [
-      "ai"
-    ],
-    "score": 90,
-    "language": "PHP"
-  },
-  {
-    "fullName": "j178/leetgo",
-    "builder": "j178",
-    "description": "Best LeetCode friend for geek. :snowboarder:",
-    "url": "https://github.com/j178/leetgo",
-    "stars": 643,
-    "categories": [
-      "ai",
-      "tools"
-    ],
-    "score": 90,
-    "language": "Go"
-  },
-  {
-    "fullName": "jaredwray/cacheable",
-    "builder": "jaredwray",
-    "description": "a robust, scalable, and maintained set of caching packages",
-    "url": "https://github.com/jaredwray/cacheable",
-    "stars": 1941,
-    "categories": [
-      "ai",
-      "api"
-    ],
-    "score": 89,
-    "language": "TypeScript"
-  },
-  {
-    "fullName": "lrstanley/vault-unseal",
-    "builder": "lrstanley",
-    "description": "auto-unseal utility for Hashicorp Vault",
-    "url": "https://github.com/lrstanley/vault-unseal",
-    "stars": 297,
-    "categories": [
-      "api",
-      "tools"
-    ],
-    "score": 89,
-    "language": "Go"
-  },
-  {
-    "fullName": "fujiwara/ecrm",
-    "builder": "fujiwara",
-    "description": "A command line tool for managing ECR repositories.",
-    "url": "https://github.com/fujiwara/ecrm",
-    "stars": 81,
-    "categories": [
-      "privacy",
-      "agi",
-      "tools"
-    ],
-    "score": 89,
-    "language": "Go"
-  },
-  {
-    "fullName": "lrstanley/go-ytdlp",
-    "builder": "lrstanley",
-    "description": "yt-dlp cli bindings for Go",
-    "url": "https://github.com/lrstanley/go-ytdlp",
-    "stars": 274,
-    "categories": [
-      "api",
-      "tools"
-    ],
-    "score": 89,
-    "language": "Go"
-  },
-  {
-    "fullName": "mikeoliphant/NeuralAudio",
-    "builder": "mikeoliphant",
-    "description": "C++ library for neural amp modeler and other audio network models",
-    "url": "https://github.com/mikeoliphant/NeuralAudio",
-    "stars": 90,
-    "categories": [
-      "ai"
-    ],
-    "score": 89,
-    "language": "C++"
-  },
-  {
-    "fullName": "tunjid/heron",
-    "builder": "tunjid",
-    "description": "A graceful multiplatform bluesky client",
-    "url": "https://github.com/tunjid/heron",
-    "stars": 437,
-    "categories": [
-      "privacy",
-      "api",
-      "agi",
-      "tools"
-    ],
-    "score": 89,
-    "language": "Kotlin"
-  },
-  {
-    "fullName": "aimeos/aimeos-symfony",
-    "builder": "aimeos",
-    "description": "Symfony e-commerce bundle for professional, ultra fast online shops, complex B2B applications and #gigacommerce",
-    "url": "https://github.com/aimeos/aimeos-symfony",
-    "stars": 1363,
-    "categories": [
-      "ai",
-      "api"
-    ],
-    "score": 88,
-    "language": "CSS"
-  },
-  {
-    "fullName": "aimeos/aimeos-typo3",
-    "builder": "aimeos",
-    "description": "TYPO3 e-commerce extension for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce",
-    "url": "https://github.com/aimeos/aimeos-typo3",
-    "stars": 1378,
-    "categories": [
-      "ai",
-      "api",
-      "tools"
-    ],
-    "score": 88,
-    "language": "PHP"
-  },
-  {
-    "fullName": "fujiwara/stretcher",
-    "builder": "fujiwara",
-    "description": "Deployment tool with consul/serf event notification.",
-    "url": "https://github.com/fujiwara/stretcher",
-    "stars": 248,
-    "categories": [
-      "infra",
-      "tools"
-    ],
-    "score": 88,
-    "language": "Go"
-  },
-  {
-    "fullName": "tunjid/Tiler",
-    "builder": "tunjid",
-    "description": "Experimental declaratively transparent kotlin multiplatform paging library",
-    "url": "https://github.com/tunjid/Tiler",
-    "stars": 113,
-    "categories": [
-      "agi"
-    ],
-    "score": 88,
-    "language": "Kotlin"
-  },
-  {
-    "fullName": "goruck/home-generative-agent",
-    "builder": "goruck",
-    "description": "A home assistant generative agent integration based on langchain and langgraph.",
-    "url": "https://github.com/goruck/home-generative-agent",
-    "stars": 182,
-    "categories": [
-      "ai",
-      "api"
-    ],
-    "score": 88,
-    "language": "Python"
+    "isHot": true,
+    "isUnderrated": false
   },
   {
     "fullName": "crypmancer/bnb-copy-trading-bot-go",
@@ -283,39 +144,53 @@
     "url": "https://github.com/crypmancer/bnb-copy-trading-bot-go",
     "stars": 156,
     "categories": [
-      "crypto",
+      "defi",
+      "wallet",
       "ai",
-      "privacy"
+      "crypto"
     ],
-    "score": 88,
-    "language": "Go"
+    "score": 120,
+    "language": "Go",
+    "blockchain": [
+      "polygon"
+    ],
+    "isHot": false,
+    "isUnderrated": false
   },
   {
-    "fullName": "lrstanley/geoip",
-    "builder": "lrstanley",
-    "description": ":globe_with_meridians: Geolocation API service -- Run it yourself! | alternative to freegeoip.net",
-    "url": "https://github.com/lrstanley/geoip",
-    "stars": 125,
+    "fullName": "davidkimai/aisecforge",
+    "builder": "davidkimai",
+    "description": "Open-source resources for systematic adversarial testing, evaluation, and security hardening of large language models. This repository consolidates novel methodologies for identifying, classifying, and mitigating security vulnerabilities in frontier AI systems.",
+    "url": "https://github.com/davidkimai/aisecforge",
+    "stars": 6,
     "categories": [
-      "infra",
-      "api",
-      "tools"
+      "ai",
+      "crypto"
     ],
-    "score": 87,
-    "language": "TypeScript"
+    "score": 115,
+    "language": null,
+    "blockchain": [
+      "solana",
+      "ethereum",
+      "polygon"
+    ],
+    "isHot": false,
+    "isUnderrated": true
   },
   {
-    "fullName": "lrstanley/girc",
-    "builder": "lrstanley",
-    "description": ":bomb: girc is a flexible IRC library for Go :ok_hand:",
-    "url": "https://github.com/lrstanley/girc",
-    "stars": 156,
+    "fullName": "suyiiyii/AutoGLM-GUI",
+    "builder": "suyiiyii",
+    "description": "AutoGLM 的现代化 Web 图形界面 - 让 AI 自动化操作 Android 设备变得简单",
+    "url": "https://github.com/suyiiyii/AutoGLM-GUI",
+    "stars": 633,
     "categories": [
-      "api",
-      "tools"
+      "ai"
     ],
-    "score": 87,
-    "language": "Go"
+    "score": 115,
+    "language": "Python",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
   },
   {
     "fullName": "aimeos/ai-client-jsonapi",
@@ -324,590 +199,28 @@
     "url": "https://github.com/aimeos/ai-client-jsonapi",
     "stars": 903,
     "categories": [
-      "ai",
-      "api",
-      "tools"
+      "ai"
     ],
-    "score": 87,
-    "language": "PHP"
+    "score": 110,
+    "language": "PHP",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
   },
   {
-    "fullName": "jarek-foksa/xel",
-    "builder": "jarek-foksa",
-    "description": "Xel - Widget toolkit for building native-like Electron and Web apps",
-    "url": "https://github.com/jarek-foksa/xel",
-    "stars": 736,
-    "categories": [
-      "tools"
-    ],
-    "score": 87,
-    "language": "JavaScript"
-  },
-  {
-    "fullName": "nmeum/android-tools",
-    "builder": "nmeum",
-    "description": "Unoffical CMake-based build system for android command line utilities",
-    "url": "https://github.com/nmeum/android-tools",
-    "stars": 272,
-    "categories": [
-      "tools"
-    ],
-    "score": 87,
-    "language": "CMake"
-  },
-  {
-    "fullName": "ryandens/javaagent-gradle-plugin",
-    "builder": "ryandens",
-    "description": "A set of Gradle plugins to ease building Java applications that leverage instrumentation agents in development and/or in production ",
-    "url": "https://github.com/ryandens/javaagent-gradle-plugin",
-    "stars": 61,
-    "categories": [
-      "tools"
-    ],
-    "score": 87,
-    "language": "Kotlin"
-  },
-  {
-    "fullName": "rameerez/telegrama",
-    "builder": "rameerez",
-    "description": "💬 telegrama Ruby gem – a tiny wrapper to send admin Telegram messages",
-    "url": "https://github.com/rameerez/telegrama",
-    "stars": 20,
-    "categories": [
-      "ai",
-      "api"
-    ],
-    "score": 87,
-    "language": "Ruby"
-  },
-  {
-    "fullName": "rameerez/api_keys",
-    "builder": "rameerez",
-    "description": "🔑 Secure API keys for your Rails app",
-    "url": "https://github.com/rameerez/api_keys",
-    "stars": 37,
-    "categories": [
-      "crypto",
-      "ai",
-      "api",
-      "tools"
-    ],
-    "score": 87,
-    "language": "Ruby"
-  },
-  {
-    "fullName": "rameerez/pricing_plans",
-    "builder": "rameerez",
-    "description": "💵 Define and enforce pricing plan limits in your Rails SaaS (entitlements, quotas, feature gating)",
-    "url": "https://github.com/rameerez/pricing_plans",
-    "stars": 56,
-    "categories": [
-      "crypto",
-      "ai",
-      "api",
-      "tools"
-    ],
-    "score": 87,
-    "language": "Ruby"
-  },
-  {
-    "fullName": "lrstanley/bubblezone",
-    "builder": "lrstanley",
-    "description": "helper utility for BubbleTea, allowing easy mouse event tracking",
-    "url": "https://github.com/lrstanley/bubblezone",
-    "stars": 793,
-    "categories": [
-      "tools"
-    ],
-    "score": 86,
-    "language": "Go"
-  },
-  {
-    "fullName": "fujiwara/awslim",
-    "builder": "fujiwara",
-    "description": "A simplified alternative to the AWS CLI for limited use cases.",
-    "url": "https://github.com/fujiwara/awslim",
-    "stars": 137,
-    "categories": [
-      "tools"
-    ],
-    "score": 86,
-    "language": "Go"
-  },
-  {
-    "fullName": "aimeos/ai-client-html",
-    "builder": "aimeos",
-    "description": "Aimeos e-commerce HTML client components",
-    "url": "https://github.com/aimeos/ai-client-html",
-    "stars": 939,
-    "categories": [
-      "ai",
-      "api",
-      "tools"
-    ],
-    "score": 85,
-    "language": "PHP"
-  },
-  {
-    "fullName": "fdciabdul/Google-Trends-Keywords-Scraper",
-    "builder": "fdciabdul",
-    "description": "Scraping Trends Keywords from Google ( All Country)",
-    "url": "https://github.com/fdciabdul/Google-Trends-Keywords-Scraper",
-    "stars": 132,
-    "categories": [
-      "api"
-    ],
-    "score": 85,
-    "language": "JavaScript"
-  },
-  {
-    "fullName": "CryptoGnome/Bybit-Lick-Hunter-v4",
-    "builder": "CryptoGnome",
-    "description": "Lick Hunter is a free trading bot for Bybit built in Node.",
-    "url": "https://github.com/CryptoGnome/Bybit-Lick-Hunter-v4",
-    "stars": 141,
-    "categories": [
-      "crypto",
-      "api",
-      "tools"
-    ],
-    "score": 85,
-    "language": "JavaScript"
-  },
-  {
-    "fullName": "j178/chatgpt",
-    "builder": "j178",
-    "description": "An elegant interactive CLI for ChatGPT",
-    "url": "https://github.com/j178/chatgpt",
-    "stars": 780,
-    "categories": [
-      "ai",
-      "tools"
-    ],
-    "score": 85,
-    "language": "Go"
-  },
-  {
-    "fullName": "Anonym0usWork1221/GMapsScraper",
-    "builder": "Anonym0usWork1221",
-    "description": "A command-line tool which is designed to scrape data from Google Maps search results using multiple threads and efficient search algorithms. ",
-    "url": "https://github.com/Anonym0usWork1221/GMapsScraper",
-    "stars": 55,
-    "categories": [
-      "api",
-      "tools"
-    ],
-    "score": 85,
-    "language": "Python"
-  },
-  {
-    "fullName": "fdciabdul/Vpngate-Scraper-API",
-    "builder": "fdciabdul",
-    "description": "fresh oVPN config from vpngate.net ",
-    "url": "https://github.com/fdciabdul/Vpngate-Scraper-API",
-    "stars": 69,
-    "categories": [
-      "privacy",
-      "api"
-    ],
-    "score": 85,
-    "language": "JavaScript"
-  },
-  {
-    "fullName": "rameerez/profitable",
-    "builder": "rameerez",
-    "description": "💸 Calculate the MRR, ARR, churn, LTV, ARPU, total revenue & valuation of your pay-powered Rails SaaS app. MRR dashboard for your Rails app.",
-    "url": "https://github.com/rameerez/profitable",
-    "stars": 94,
+    "fullName": "h4ck3r0/Apktool-termux",
+    "builder": "h4ck3r0",
+    "description": "Apktool 2.12.1 For Termux , Version : 2.12.1 , Maintained",
+    "url": "https://github.com/h4ck3r0/Apktool-termux",
+    "stars": 324,
     "categories": [
       "ai"
     ],
-    "score": 85,
-    "language": "Ruby"
-  },
-  {
-    "fullName": "abusaeeidx/IPTV-Scraper-Zilla",
-    "builder": "abusaeeidx",
-    "description": "IPTV Scraper Zilla — High-quality, auto-updating IPTV playlist generator with thousands of live channels including sports, movies, anime, and more. Fast, lightweight, and perfect for seamless streaming across all devices.",
-    "url": "https://github.com/abusaeeidx/IPTV-Scraper-Zilla",
-    "stars": 122,
-    "categories": [
-      "ai",
-      "privacy"
-    ],
-    "score": 85,
-    "language": "Python"
-  },
-  {
-    "fullName": "jaredwray/airhorn",
-    "builder": "jaredwray",
-    "description": "Cloud Native Notifications Library",
-    "url": "https://github.com/jaredwray/airhorn",
-    "stars": 22,
-    "categories": [
-      "ai",
-      "infra",
-      "api"
-    ],
-    "score": 83,
-    "language": "TypeScript"
-  },
-  {
-    "fullName": "goruck/nilm",
-    "builder": "goruck",
-    "description": "Energy Management Using Real-Time Non-Intrusive Load Monitoring",
-    "url": "https://github.com/goruck/nilm",
-    "stars": 88,
-    "categories": [
-      "ai",
-      "infra",
-      "privacy"
-    ],
-    "score": 83,
-    "language": "Python"
-  },
-  {
-    "fullName": "hookzof/socks5_list",
-    "builder": "hookzof",
-    "description": "Auto-updated SOCKS5 proxy list + proxies for Telegram",
-    "url": "https://github.com/hookzof/socks5_list",
-    "stars": 875,
-    "categories": [
-      "privacy"
-    ],
-    "score": 82,
-    "language": null
-  },
-  {
-    "fullName": "Anonym0usWork1221/Free-Proxies",
-    "builder": "Anonym0usWork1221",
-    "description": "Update free every 2 hours",
-    "url": "https://github.com/Anonym0usWork1221/Free-Proxies",
-    "stars": 188,
-    "categories": [
-      "privacy"
-    ],
-    "score": 82,
-    "language": "Python"
-  },
-  {
-    "fullName": "dknowles2/ha-pitboss",
-    "builder": "dknowles2",
-    "description": "Home Assistant Custom Integration for PitBoss smokers and grills",
-    "url": "https://github.com/dknowles2/ha-pitboss",
-    "stars": 52,
-    "categories": [
-      "api"
-    ],
-    "score": 82,
-    "language": "Python"
-  },
-  {
-    "fullName": "JackJPowell/hass-unfoldedcircle",
-    "builder": "JackJPowell",
-    "description": "Home Assistant Integration for the Unfolded Circle line of remotes",
-    "url": "https://github.com/JackJPowell/hass-unfoldedcircle",
-    "stars": 102,
-    "categories": [
-      "api"
-    ],
-    "score": 82,
-    "language": "Python"
-  },
-  {
-    "fullName": "aimeos/ai-admin-jsonadm",
-    "builder": "aimeos",
-    "description": "Aimeos e-commerce JSON API for administrative tasks",
-    "url": "https://github.com/aimeos/ai-admin-jsonadm",
-    "stars": 22,
-    "categories": [
-      "ai",
-      "api"
-    ],
-    "score": 81,
-    "language": "PHP"
-  },
-  {
-    "fullName": "jaredwray/docula",
-    "builder": "jaredwray",
-    "description": "Beautiful Website for Your Projects",
-    "url": "https://github.com/jaredwray/docula",
-    "stars": 11,
-    "categories": [
-      "api",
-      "tools"
-    ],
-    "score": 81,
-    "language": "TypeScript"
-  },
-  {
-    "fullName": "jiangnanboy/jcorrector",
-    "builder": "jiangnanboy",
-    "description": "jcorrector 中文文本纠错工具， Text Error Correction Tool，Spelling Check",
-    "url": "https://github.com/jiangnanboy/jcorrector",
-    "stars": 81,
-    "categories": [
-      "ai",
-      "privacy",
-      "tools"
-    ],
-    "score": 81,
-    "language": "Java"
-  },
-  {
-    "fullName": "Yawn-Sean/Daily_CF_Problems",
-    "builder": "Yawn-Sean",
-    "description": "To practice your competitive programming skills, try solving daily Codeforces problems!",
-    "url": "https://github.com/Yawn-Sean/Daily_CF_Problems",
-    "stars": 586,
-    "categories": [
-      "ai"
-    ],
-    "score": 81,
-    "language": "C++"
-  },
-  {
-    "fullName": "liutaocode/TTS-arxiv-daily",
-    "builder": "liutaocode",
-    "description": "Automatically Update Text-to-speech (TTS) Papers Daily using Github Actions (Update Every 12th hours)",
-    "url": "https://github.com/liutaocode/TTS-arxiv-daily",
-    "stars": 589,
-    "categories": [
-      "ai"
-    ],
-    "score": 81,
-    "language": "Python"
-  },
-  {
-    "fullName": "jaredwray/keyv",
-    "builder": "jaredwray",
-    "description": "Simple key-value storage with support for multiple backends",
-    "url": "https://github.com/jaredwray/keyv",
-    "stars": 3077,
-    "categories": [
-      "privacy"
-    ],
-    "score": 80,
-    "language": "TypeScript"
-  },
-  {
-    "fullName": "mikeoliphant/neural-amp-modeler-lv2",
-    "builder": "mikeoliphant",
-    "description": "Neural Amp Modeler LV2 plugin",
-    "url": "https://github.com/mikeoliphant/neural-amp-modeler-lv2",
-    "stars": 390,
-    "categories": [
-      "ai",
-      "tools"
-    ],
-    "score": 80,
-    "language": "C++"
-  },
-  {
-    "fullName": "ColdWindScholar/MIO-KITCHEN-SOURCE",
-    "builder": "ColdWindScholar",
-    "description": "An Android Rom Tool in python",
-    "url": "https://github.com/ColdWindScholar/MIO-KITCHEN-SOURCE",
-    "stars": 353,
-    "categories": [
-      "tools"
-    ],
-    "score": 80,
-    "language": "Python"
-  },
-  {
-    "fullName": "Myyura/the_kai_project",
-    "builder": "Myyura",
-    "description": "The Kai Project, 一个开源的、便捷的、分享与讨论修考试题答案的地方，破除信息之壁。大学院入試（院試）過去問題の解答。",
-    "url": "https://github.com/Myyura/the_kai_project",
-    "stars": 191,
-    "categories": [
-      "ai"
-    ],
-    "score": 80,
-    "language": "CSS"
-  },
-  {
-    "fullName": "rameerez/usage_credits",
-    "builder": "rameerez",
-    "description": "💳✨ Add usage-based credits to your Rails app",
-    "url": "https://github.com/rameerez/usage_credits",
-    "stars": 161,
-    "categories": [
-      "ai"
-    ],
-    "score": 80,
-    "language": "Ruby"
-  },
-  {
-    "fullName": "DoubleGremlin181/DoubleGremlin181",
-    "builder": "DoubleGremlin181",
-    "description": "Come play TicTacToe on my profile's README",
-    "url": "https://github.com/DoubleGremlin181/DoubleGremlin181",
-    "stars": 148,
-    "categories": [
-      "ai"
-    ],
-    "score": 79,
-    "language": "Python"
-  },
-  {
-    "fullName": "aimeos/aimeos-base",
-    "builder": "aimeos",
-    "description": "Aimeos abstraction layer for host applications",
-    "url": "https://github.com/aimeos/aimeos-base",
-    "stars": 2025,
-    "categories": [
-      "ai"
-    ],
-    "score": 79,
-    "language": "PHP"
-  },
-  {
-    "fullName": "fdciabdul/wa-rs",
-    "builder": "fdciabdul",
-    "description": "A multi-session REST API gateway for WhatsApp Web client built with Rust.",
-    "url": "https://github.com/fdciabdul/wa-rs",
-    "stars": 9,
-    "categories": [
-      "api",
-      "tools"
-    ],
-    "score": 79,
-    "language": "Rust"
-  },
-  {
-    "fullName": "jobovy/extreme-deconvolution",
-    "builder": "jobovy",
-    "description": "Density estimation using Gaussian mixtures in the presence of noisy, heterogeneous and incomplete data",
-    "url": "https://github.com/jobovy/extreme-deconvolution",
-    "stars": 81,
-    "categories": [
-      "ai"
-    ],
-    "score": 78,
-    "language": "Python"
-  },
-  {
-    "fullName": "aimeos/ai-typo3",
-    "builder": "aimeos",
-    "description": "TYPO3 adapter for Aimeos web shops and e-commerce solutions",
-    "url": "https://github.com/aimeos/ai-typo3",
-    "stars": 889,
-    "categories": [
-      "ai"
-    ],
-    "score": 78,
-    "language": "PHP"
-  },
-  {
-    "fullName": "aimeos/ai-laravel",
-    "builder": "aimeos",
-    "description": "Laravel adapter for Aimeos web shops and e-commerce solutions",
-    "url": "https://github.com/aimeos/ai-laravel",
-    "stars": 907,
-    "categories": [
-      "ai"
-    ],
-    "score": 78,
-    "language": "PHP"
-  },
-  {
-    "fullName": "aimeos/ai-admin-jqadm",
-    "builder": "aimeos",
-    "description": "Aimeos e-commerce Vue.js+Bootstrap based admin interface",
-    "url": "https://github.com/aimeos/ai-admin-jqadm",
-    "stars": 949,
-    "categories": [
-      "ai"
-    ],
-    "score": 78,
-    "language": "PHP"
-  },
-  {
-    "fullName": "aimeos/ai-cms-grapesjs",
-    "builder": "aimeos",
-    "description": "GrapesJS CMS integration into Aimeos",
-    "url": "https://github.com/aimeos/ai-cms-grapesjs",
-    "stars": 903,
-    "categories": [
-      "ai",
-      "api"
-    ],
-    "score": 78,
-    "language": "PHP"
-  },
-  {
-    "fullName": "fujiwara/tracer",
-    "builder": "fujiwara",
-    "description": "ECS task event/log tracer CLI",
-    "url": "https://github.com/fujiwara/tracer",
-    "stars": 102,
-    "categories": [
-      "tools"
-    ],
-    "score": 78,
-    "language": "Go"
-  },
-  {
-    "fullName": "dknowles2/pydrawise",
-    "builder": "dknowles2",
-    "description": "Asynchronous Python 3 library for interacting with Hydrawise sprinkler controllers through the GraphQL API",
-    "url": "https://github.com/dknowles2/pydrawise",
-    "stars": 8,
-    "categories": [
-      "api"
-    ],
-    "score": 78,
-    "language": "Python"
-  },
-  {
-    "fullName": "UnknownX7/NoClippy",
-    "builder": "UnknownX7",
-    "description": "A XIVLauncher plugin.",
-    "url": "https://github.com/UnknownX7/NoClippy",
-    "stars": 152,
-    "categories": [
-      "tools"
-    ],
-    "score": 77,
-    "language": "C#"
-  },
-  {
-    "fullName": "ZhiXuanWang/cf-speed-dns",
-    "builder": "ZhiXuanWang",
-    "description": "CF优选IP工具。动态获取Cloudflare优选IP，CloudflareSpeedTest测速。",
-    "url": "https://github.com/ZhiXuanWang/cf-speed-dns",
-    "stars": 1213,
-    "categories": [
-      "infra"
-    ],
-    "score": 77,
-    "language": "Python"
-  },
-  {
-    "fullName": "fujiwara/tfstate-lookup",
-    "builder": "fujiwara",
-    "description": "Lookup resource attributes in tfstate.",
-    "url": "https://github.com/fujiwara/tfstate-lookup",
-    "stars": 155,
-    "categories": [
-      "infra"
-    ],
-    "score": 76,
-    "language": "Go"
-  },
-  {
-    "fullName": "mikeoliphant/AudioPlugSharp",
-    "builder": "mikeoliphant",
-    "description": "Easily create VST (VST3) audio plugins in C# .NET",
-    "url": "https://github.com/mikeoliphant/AudioPlugSharp",
-    "stars": 207,
-    "categories": [
-      "tools"
-    ],
-    "score": 76,
-    "language": "C#"
+    "score": 110,
+    "language": "Shell",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
   },
   {
     "fullName": "aimeos/ai-admin-graphql",
@@ -916,83 +229,260 @@
     "url": "https://github.com/aimeos/ai-admin-graphql",
     "stars": 880,
     "categories": [
+      "ai"
+    ],
+    "score": 110,
+    "language": "PHP",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "abougouffa/minemacs",
+    "builder": "abougouffa",
+    "description": "MinEmacs: an Emacs configuration framework for daily use",
+    "url": "https://github.com/abougouffa/minemacs",
+    "stars": 193,
+    "categories": [
+      "ai"
+    ],
+    "score": 110,
+    "language": "Emacs Lisp",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "MrMohebi/xray-proxy-grabber-telegram",
+    "builder": "MrMohebi",
+    "description": "Xray proxy grabber and checker + JSON and YAML Config - telegram channels",
+    "url": "https://github.com/MrMohebi/xray-proxy-grabber-telegram",
+    "stars": 261,
+    "categories": [
+      "ai"
+    ],
+    "score": 110,
+    "language": "Python",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "MhdiTaheri/V2rayCollector",
+    "builder": "MhdiTaheri",
+    "description": "This script is designed to retrieve configuration details for various VPN protocols (VLESS, VMess, Shadowsocks, and Trojan) from a list of Telegram channel URLs provided within the script. It uses cURL to fetch content and regular expressions to extract the configurations.",
+    "url": "https://github.com/MhdiTaheri/V2rayCollector",
+    "stars": 249,
+    "categories": [
+      "ai"
+    ],
+    "score": 110,
+    "language": "PHP",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "Hunterdii/30-Days-Of-Rust",
+    "builder": "Hunterdii",
+    "description": "🦀 30 Days of Rust is a daily challenge to guide you through Rust programming essentials. From basics to advanced, this repo offers 📚 clear examples, 🔧 practical exercises, and 🎯 resources to help you master Rust, one day at a time. Whether you're new or refining your skills, this challenge has something for you. Join the journey now! 🚀",
+    "url": "https://github.com/Hunterdii/30-Days-Of-Rust",
+    "stars": 78,
+    "categories": [
+      "defi",
       "ai",
-      "api"
-    ],
-    "score": 76,
-    "language": "PHP"
-  },
-  {
-    "fullName": "zhukovyuri/VIINA",
-    "builder": "zhukovyuri",
-    "description": "VIINA: Violent Incident Information from News Articles on the 2022 Russian Invasion of Ukraine",
-    "url": "https://github.com/zhukovyuri/VIINA",
-    "stars": 333,
-    "categories": [
-      "ai"
-    ],
-    "score": 76,
-    "language": null
-  },
-  {
-    "fullName": "mikeoliphant/Stompbox",
-    "builder": "mikeoliphant",
-    "description": "Guitar amplification and effects pedalboard simulation",
-    "url": "https://github.com/mikeoliphant/Stompbox",
-    "stars": 89,
-    "categories": [
-      "games"
-    ],
-    "score": 76,
-    "language": "C++"
-  },
-  {
-    "fullName": "abusaeeidx/Mrgify-BDIX-IPTV",
-    "builder": "abusaeeidx",
-    "description": "Mrgify-Tv provides a regularly updated BDIX IPTV playlist featuring Bangladeshi and international live TV channels. It is designed for seamless streaming through BDIX networks, offering sports, news, movies, and entertainment channels.",
-    "url": "https://github.com/abusaeeidx/Mrgify-BDIX-IPTV",
-    "stars": 20,
-    "categories": [
-      "ai"
-    ],
-    "score": 76,
-    "language": null
-  },
-  {
-    "fullName": "Brandawg93/homebridge-fordpass",
-    "builder": "Brandawg93",
-    "description": "Control your Ford vehicle in HomeKit using Homebridge.",
-    "url": "https://github.com/Brandawg93/homebridge-fordpass",
-    "stars": 63,
-    "categories": [
       "crypto"
     ],
-    "score": 75,
-    "language": "TypeScript"
+    "score": 110,
+    "language": null,
+    "blockchain": [
+      "ethereum"
+    ],
+    "isHot": false,
+    "isUnderrated": false
   },
   {
-    "fullName": "tunjid/Mutator",
-    "builder": "tunjid",
-    "description": "Flow powered mutual exclusion for UI state mutation over time.",
-    "url": "https://github.com/tunjid/Mutator",
-    "stars": 64,
+    "fullName": "SpaceTimee/Fusion-JetBrainsMapleMono",
+    "builder": "SpaceTimee",
+    "description": "JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono",
+    "url": "https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono",
+    "stars": 1839,
     "categories": [
+      "ai"
+    ],
+    "score": 110,
+    "language": "Python",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "amieiro/disposable-email-domains",
+    "builder": "amieiro",
+    "description": "Disposable email domain lists, used in disposable email services, generated every quarter of an hour, in txt and JSON format.",
+    "url": "https://github.com/amieiro/disposable-email-domains",
+    "stars": 87,
+    "categories": [
+      "ai"
+    ],
+    "score": 105,
+    "language": "PHP",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "9xN/node-ig-framework",
+    "builder": "9xN",
+    "description": "Framework for interacting with instagrams private api in a usable manner in a structure and format similar to discord's old bot development framework.",
+    "url": "https://github.com/9xN/node-ig-framework",
+    "stars": 28,
+    "categories": [
+      "infra",
       "privacy"
     ],
-    "score": 75,
-    "language": "Kotlin"
+    "score": 105,
+    "language": "JavaScript",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
   },
   {
-    "fullName": "fujiwara/ecsta",
-    "builder": "fujiwara",
-    "description": "ECS Task Assistant tool.",
-    "url": "https://github.com/fujiwara/ecsta",
-    "stars": 104,
+    "fullName": "web3batman/Multi-Chain-Casino",
+    "builder": "web3batman",
+    "description": "Completed Casino(Crashr, Coinflip, Mines, BlackJack, etc) supported multi-chain(eth, sol, base, bitcoin, inj)",
+    "url": "https://github.com/web3batman/Multi-Chain-Casino",
+    "stars": 99,
     "categories": [
-      "tools"
+      "ai",
+      "games",
+      "crypto"
     ],
-    "score": 75,
-    "language": "Go"
+    "score": 105,
+    "language": "TypeScript",
+    "blockchain": [
+      "solana",
+      "ethereum",
+      "base",
+      "bitcoin"
+    ],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "jiangnanboy/Agent_System_Design_and_Practical_Applications_Based_on_LangChain_and_LangGraph",
+    "builder": "jiangnanboy",
+    "description": "智能体系统设计与实战：基于langchain与langgraph，Agent System Design and Practical Applications: Based on LangChain and LangGraph",
+    "url": "https://github.com/jiangnanboy/Agent_System_Design_and_Practical_Applications_Based_on_LangChain_and_LangGraph",
+    "stars": 7,
+    "categories": [
+      "ai",
+      "crypto"
+    ],
+    "score": 105,
+    "language": "Python",
+    "blockchain": [
+      "base"
+    ],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "aimeos/aimeos-symfony",
+    "builder": "aimeos",
+    "description": "Symfony e-commerce bundle for professional, ultra fast online shops, complex B2B applications and #gigacommerce",
+    "url": "https://github.com/aimeos/aimeos-symfony",
+    "stars": 1364,
+    "categories": [
+      "ai"
+    ],
+    "score": 100,
+    "language": "CSS",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "aimeos/aimeos-typo3",
+    "builder": "aimeos",
+    "description": "TYPO3 e-commerce extension for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce",
+    "url": "https://github.com/aimeos/aimeos-typo3",
+    "stars": 1379,
+    "categories": [
+      "ai"
+    ],
+    "score": 100,
+    "language": "PHP",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "aimeos/ai-client-html",
+    "builder": "aimeos",
+    "description": "Aimeos e-commerce HTML client components",
+    "url": "https://github.com/aimeos/ai-client-html",
+    "stars": 939,
+    "categories": [
+      "ai"
+    ],
+    "score": 100,
+    "language": "PHP",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "aimeos/ai-admin-jsonadm",
+    "builder": "aimeos",
+    "description": "Aimeos e-commerce JSON API for administrative tasks",
+    "url": "https://github.com/aimeos/ai-admin-jsonadm",
+    "stars": 22,
+    "categories": [
+      "ai"
+    ],
+    "score": 100,
+    "language": "PHP",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "cryptosguru/mevbot",
+    "builder": "cryptosguru",
+    "description": "This bot allows proof-of-stake Ethereum consensus clients to outsource block construction.",
+    "url": "https://github.com/cryptosguru/mevbot",
+    "stars": 27,
+    "categories": [
+      "mev",
+      "ai",
+      "crypto"
+    ],
+    "score": 100,
+    "language": "Go",
+    "blockchain": [
+      "ethereum"
+    ],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "aimeos/ai-woocommerce",
+    "builder": "aimeos",
+    "description": "Migrate WooCommerce data into Aimeos database ",
+    "url": "https://github.com/aimeos/ai-woocommerce",
+    "stars": 881,
+    "categories": [
+      "ai",
+      "crypto"
+    ],
+    "score": 100,
+    "language": "PHP",
+    "blockchain": [
+      "base"
+    ],
+    "isHot": true,
+    "isUnderrated": false
   },
   {
     "fullName": "aimeos/prisma",
@@ -1001,23 +491,284 @@
     "url": "https://github.com/aimeos/prisma",
     "stars": 35,
     "categories": [
-      "ai",
-      "api"
+      "ai"
     ],
-    "score": 75,
-    "language": "PHP"
+    "score": 100,
+    "language": "PHP",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
   },
   {
-    "fullName": "tzachbon/smart-ralph",
-    "builder": "tzachbon",
-    "description": "Spec-driven development with smart compaction. Claude Code plugin combining Ralph Wiggum loop with structured specification workflow.",
-    "url": "https://github.com/tzachbon/smart-ralph",
-    "stars": 97,
+    "fullName": "sblantipodi/solar_station",
+    "builder": "sblantipodi",
+    "description": "Solar powered project for watering plants bootstrapped with Arduino Bootstrapper.",
+    "url": "https://github.com/sblantipodi/solar_station",
+    "stars": 26,
     "categories": [
-      "tools"
+      "crypto"
     ],
-    "score": 75,
-    "language": "Shell"
+    "score": 95,
+    "language": "C++",
+    "blockchain": [
+      "solana"
+    ],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "CryptoGnome/Bybit-Lick-Hunter-v4",
+    "builder": "CryptoGnome",
+    "description": "Lick Hunter is a free trading bot for Bybit built in Node.",
+    "url": "https://github.com/CryptoGnome/Bybit-Lick-Hunter-v4",
+    "stars": 141,
+    "categories": [
+      "infra",
+      "crypto"
+    ],
+    "score": 95,
+    "language": "JavaScript",
+    "blockchain": [
+      "ethereum",
+      "bitcoin"
+    ],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "SpaceTimee/Console-HostChecker",
+    "builder": "SpaceTimee",
+    "description": "Check Check Need Cealing Host",
+    "url": "https://github.com/SpaceTimee/Console-HostChecker",
+    "stars": 12,
+    "categories": [
+      "crypto"
+    ],
+    "score": 95,
+    "language": "PowerShell",
+    "blockchain": [
+      "solana"
+    ],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "MsLolita/Nodepay_plus",
+    "builder": "MsLolita",
+    "description": "Mining and Register for https://app.nodepay.ai/dashboard",
+    "url": "https://github.com/MsLolita/Nodepay_plus",
+    "stars": 158,
+    "categories": [
+      "infra",
+      "ai"
+    ],
+    "score": 95,
+    "language": "Python",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "crypmancer/polymarket-arbitrage-copy-bot",
+    "builder": "crypmancer",
+    "description": "A sophisticated trading bot written in Rust that combines arbitrage detection and copy trading strategies on Polymarket. This bot monitors successful wallets (like arbitrage-focused bots) and selectively copies their trades when arbitrage opportunities are detected.",
+    "url": "https://github.com/crypmancer/polymarket-arbitrage-copy-bot",
+    "stars": 63,
+    "categories": [
+      "wallet",
+      "mev",
+      "ai"
+    ],
+    "score": 95,
+    "language": "TypeScript",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "aimeos/ai-typo3",
+    "builder": "aimeos",
+    "description": "TYPO3 adapter for Aimeos web shops and e-commerce solutions",
+    "url": "https://github.com/aimeos/ai-typo3",
+    "stars": 889,
+    "categories": [
+      "ai",
+      "crypto"
+    ],
+    "score": 90,
+    "language": "PHP",
+    "blockchain": [
+      "solana"
+    ],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "aimeos/ai-laravel",
+    "builder": "aimeos",
+    "description": "Laravel adapter for Aimeos web shops and e-commerce solutions",
+    "url": "https://github.com/aimeos/ai-laravel",
+    "stars": 907,
+    "categories": [
+      "ai",
+      "crypto"
+    ],
+    "score": 90,
+    "language": "PHP",
+    "blockchain": [
+      "solana"
+    ],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "aimeos/ai-admin-jqadm",
+    "builder": "aimeos",
+    "description": "Aimeos e-commerce Vue.js+Bootstrap based admin interface",
+    "url": "https://github.com/aimeos/ai-admin-jqadm",
+    "stars": 949,
+    "categories": [
+      "ai",
+      "crypto"
+    ],
+    "score": 90,
+    "language": "PHP",
+    "blockchain": [
+      "base"
+    ],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "CryptoGnome/Bybit-Futures-Bot",
+    "builder": "CryptoGnome",
+    "description": "A Trading Bot for Bybit USDT Futures with a built in strategy for Liquidation Hunting, Dollar Cost Averaging & Position Control",
+    "url": "https://github.com/CryptoGnome/Bybit-Futures-Bot",
+    "stars": 113,
+    "categories": [
+      "ai"
+    ],
+    "score": 90,
+    "language": "Python",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "web3-master/zoo-swap-dapp",
+    "builder": "web3-master",
+    "description": "UI of the decentralized exchange service between ethereum and zoo tokens.",
+    "url": "https://github.com/web3-master/zoo-swap-dapp",
+    "stars": 5,
+    "categories": [
+      "defi",
+      "nft",
+      "crypto"
+    ],
+    "score": 90,
+    "language": "JavaScript",
+    "blockchain": [
+      "ethereum"
+    ],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "jiangnanboy/jcorrector",
+    "builder": "jiangnanboy",
+    "description": "jcorrector 中文文本纠错工具， Text Error Correction Tool，Spelling Check",
+    "url": "https://github.com/jiangnanboy/jcorrector",
+    "stars": 81,
+    "categories": [
+      "ai"
+    ],
+    "score": 90,
+    "language": "Java",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "AISoltani/MediaPipe_Pose_Face_Hand_Detection",
+    "builder": "AISoltani",
+    "description": "MediaPipe Solutions provides a suite of libraries and tools for you to quickly apply artificial intelligence (AI)",
+    "url": "https://github.com/AISoltani/MediaPipe_Pose_Face_Hand_Detection",
+    "stars": 14,
+    "categories": [
+      "ai",
+      "crypto"
+    ],
+    "score": 90,
+    "language": "Jupyter Notebook",
+    "blockchain": [
+      "solana"
+    ],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "SpaceTimee/Ona-Dop",
+    "builder": "SpaceTimee",
+    "description": "Yet Another DNS Resolver (可用于 DNS 抗污染解析)",
+    "url": "https://github.com/SpaceTimee/Ona-Dop",
+    "stars": 10,
+    "categories": [
+      "crypto"
+    ],
+    "score": 90,
+    "language": "Vue",
+    "blockchain": [
+      "solana"
+    ],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "SpaceTimee/Console-HostGenerator",
+    "builder": "SpaceTimee",
+    "description": "Gen Gen Need Cealing Host",
+    "url": "https://github.com/SpaceTimee/Console-HostGenerator",
+    "stars": 15,
+    "categories": [
+      "crypto"
+    ],
+    "score": 90,
+    "language": "PowerShell",
+    "blockchain": [
+      "solana"
+    ],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "sanand0/tools",
+    "builder": "sanand0",
+    "description": "Lots of little web apps, mostly written by LLMs",
+    "url": "https://github.com/sanand0/tools",
+    "stars": 5,
+    "categories": [
+      "ai"
+    ],
+    "score": 90,
+    "language": "JavaScript",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "Microck/RPi4toNAS-Guide",
+    "builder": "Microck",
+    "description": "A comprehensive guide and set of scripts for creating a personal, low-cost Network Attached Storage (NAS) with a Raspberry Pi. This project automates backups from your PC and remote servers, and provides a persistent remote desktop environment.",
+    "url": "https://github.com/Microck/RPi4toNAS-Guide",
+    "stars": 203,
+    "categories": [
+      "ai"
+    ],
+    "score": 90,
+    "language": "Batchfile",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
   },
   {
     "fullName": "sanand0/eslint-plugin-template",
@@ -1026,23 +777,110 @@
     "url": "https://github.com/sanand0/eslint-plugin-template",
     "stars": 5,
     "categories": [
-      "ai",
-      "tools"
+      "ai"
     ],
-    "score": 74,
-    "language": "JavaScript"
+    "score": 85,
+    "language": "JavaScript",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
   },
   {
-    "fullName": "jaredwray/mockhttp",
-    "builder": "jaredwray",
-    "description": "A simple HTTP server that can be used to mock HTTP responses for testing purposes. Inspired by httpbin and built using nodejs and fastify with the idea of running it via https://mockhttp.org, via docker jaredwray/mockhttp, or nodejs npm install jaredwray/mockhttp.",
-    "url": "https://github.com/jaredwray/mockhttp",
-    "stars": 16,
+    "fullName": "CryptoGnome/Community-Tools",
+    "builder": "CryptoGnome",
+    "description": "A collection of tools created and curated by our community!",
+    "url": "https://github.com/CryptoGnome/Community-Tools",
+    "stars": 74,
+    "categories": [
+      "games"
+    ],
+    "score": 85,
+    "language": "JavaScript",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "HDVinnie/Private-Trackers-Spreadsheet",
+    "builder": "HDVinnie",
+    "description": "A spreadsheet providing detailed information about private trackers",
+    "url": "https://github.com/HDVinnie/Private-Trackers-Spreadsheet",
+    "stars": 461,
+    "categories": [
+      "privacy",
+      "ai"
+    ],
+    "score": 85,
+    "language": "HTML",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "CryptoGnome/LimitSwap",
+    "builder": "CryptoGnome",
+    "description": "LimitSwap is fully functional DeFi Trading Bot.  No fees. You just need to hold LIMIT Utility token in your wallet to use. ",
+    "url": "https://github.com/CryptoGnome/LimitSwap",
+    "stars": 277,
+    "categories": [
+      "defi",
+      "wallet",
+      "nft",
+      "ai"
+    ],
+    "score": 85,
+    "language": "Python",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "jiangnanboy/education_knowledge_graph_app",
+    "builder": "jiangnanboy",
+    "description": "Education knowledge graph(graph display, knowledge point tracking, intelligent question and answer，questions knowledge point prediction)。k12教育学科知识图谱，图谱展示，知识点追踪，智能问答以及题目知识点预测。",
+    "url": "https://github.com/jiangnanboy/education_knowledge_graph_app",
+    "stars": 126,
+    "categories": [
+      "crypto"
+    ],
+    "score": 85,
+    "language": "JavaScript",
+    "blockchain": [
+      "solana",
+      "polygon"
+    ],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "bghira/discord-tron-master",
+    "builder": "bghira",
+    "description": "Master node for Discord bot network.",
+    "url": "https://github.com/bghira/discord-tron-master",
+    "stars": 6,
     "categories": [
       "infra"
     ],
-    "score": 74,
-    "language": "TypeScript"
+    "score": 85,
+    "language": "Python",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "borestad/firehol-mirror",
+    "builder": "borestad",
+    "description": "Cron caching of https://iplists.firehol.org (without private networks a.k.a RFC1918)",
+    "url": "https://github.com/borestad/firehol-mirror",
+    "stars": 32,
+    "categories": [
+      "privacy"
+    ],
+    "score": 85,
+    "language": null,
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
   },
   {
     "fullName": "aimeos/ai-controller-frontend",
@@ -1053,8 +891,11 @@
     "categories": [
       "ai"
     ],
-    "score": 72,
-    "language": "PHP"
+    "score": 80,
+    "language": "PHP",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
   },
   {
     "fullName": "aimeos/ai-controller-jobs",
@@ -1065,82 +906,499 @@
     "categories": [
       "ai"
     ],
-    "score": 72,
-    "language": "PHP"
+    "score": 80,
+    "language": "PHP",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
   },
   {
-    "fullName": "UnknownX7/ReAction",
-    "builder": "UnknownX7",
-    "description": "A XIVLauncher plugin.",
-    "url": "https://github.com/UnknownX7/ReAction",
-    "stars": 88,
+    "fullName": "aimeos/ai-cms-grapesjs",
+    "builder": "aimeos",
+    "description": "GrapesJS CMS integration into Aimeos",
+    "url": "https://github.com/aimeos/ai-cms-grapesjs",
+    "stars": 903,
     "categories": [
-      "tools"
+      "ai"
     ],
-    "score": 72,
-    "language": "C#"
+    "score": 80,
+    "language": "PHP",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
   },
   {
-    "fullName": "rameerez/slugifiable",
-    "builder": "rameerez",
-    "description": "🐌 Ruby gem to generate SEO-optimized URL slugs for your records",
-    "url": "https://github.com/rameerez/slugifiable",
-    "stars": 30,
+    "fullName": "cryptosguru/ecommerce_react",
+    "builder": "cryptosguru",
+    "description": "This is a React and Node.js based eCommerce platform. React Shopping Cart. \"All In One\" App:  API + Storefront + Dashboard.",
+    "url": "https://github.com/cryptosguru/ecommerce_react",
+    "stars": 7,
+    "categories": [
+      "infra",
+      "crypto"
+    ],
+    "score": 80,
+    "language": "TypeScript",
+    "blockchain": [
+      "base"
+    ],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "aiiddqd/ton-gateway",
+    "builder": "aiiddqd",
+    "description": "Blockchain and crypto currency payments for WordPress & WooCommerce via TON (Toncoin, The Open Network)",
+    "url": "https://github.com/aiiddqd/ton-gateway",
+    "stars": 11,
+    "categories": [
+      "ai"
+    ],
+    "score": 80,
+    "language": "PHP",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "RiseInRose/AgentGPT-zh",
+    "builder": "RiseInRose",
+    "description": "AgentGPT 中文部署文档翻译，一句话让你懂它是什么",
+    "url": "https://github.com/RiseInRose/AgentGPT-zh",
+    "stars": 134,
+    "categories": [
+      "ai"
+    ],
+    "score": 80,
+    "language": "Python",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "RiseInRose/MiniGPT-4-ZH",
+    "builder": "RiseInRose",
+    "description": "MiniGPT-4 中文部署翻译 完善部署细节",
+    "url": "https://github.com/RiseInRose/MiniGPT-4-ZH",
+    "stars": 862,
+    "categories": [
+      "ai"
+    ],
+    "score": 80,
+    "language": "Python",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "sanand0/chatgpt-to-markdown",
+    "builder": "sanand0",
+    "description": "Convert ChatGPT exported conversations.json to Markdown",
+    "url": "https://github.com/sanand0/chatgpt-to-markdown",
+    "stars": 7,
+    "categories": [
+      "ai"
+    ],
+    "score": 80,
+    "language": "JavaScript",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "byte-capsule/FanCode-Hls-Fetcher",
+    "builder": "byte-capsule",
+    "description": "Automatically updated list of FanCode Live Matches Links(provided as json-file ,PlayList)",
+    "url": "https://github.com/byte-capsule/FanCode-Hls-Fetcher",
+    "stars": 97,
+    "categories": [
+      "crypto"
+    ],
+    "score": 80,
+    "language": "Python",
+    "blockchain": [
+      "polygon"
+    ],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "web3batman/solana-crowdfund-dapp",
+    "builder": "web3batman",
+    "description": "Solana 🌍 Crowdfunding 🚀 Dapp 💰 smart contract utilizing Rust and Anchor framework. 😂🎉",
+    "url": "https://github.com/web3batman/solana-crowdfund-dapp",
+    "stars": 11,
+    "categories": [
+      "crypto"
+    ],
+    "score": 80,
+    "language": "Rust",
+    "blockchain": [
+      "solana"
+    ],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "davidkimai/openai-cookbook-pro",
+    "builder": "davidkimai",
+    "description": "Open source GPT-4.1 Family + Legacy Models Developer System Prompting Guide. Extending OpenAI Cookbook.",
+    "url": "https://github.com/davidkimai/openai-cookbook-pro",
+    "stars": 10,
+    "categories": [
+      "ai"
+    ],
+    "score": 80,
+    "language": null,
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "davidkimai/context.json",
+    "builder": "davidkimai",
+    "description": "An open standard for defining AI context and collaboration across platforms",
+    "url": "https://github.com/davidkimai/context.json",
+    "stars": 9,
+    "categories": [
+      "defi",
+      "ai"
+    ],
+    "score": 80,
+    "language": null,
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "sanand0/prompts",
+    "builder": "sanand0",
+    "description": "My collection of LLM prompts",
+    "url": "https://github.com/sanand0/prompts",
+    "stars": 6,
+    "categories": [
+      "ai"
+    ],
+    "score": 80,
+    "language": null,
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "aimeos/laravel-analytics-bridge",
+    "builder": "aimeos",
+    "description": "Common interface for different analytics services",
+    "url": "https://github.com/aimeos/laravel-analytics-bridge",
+    "stars": 27,
+    "categories": [
+      "bridge"
+    ],
+    "score": 80,
+    "language": "PHP",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "kort0881/vpn-vless-configs-russia",
+    "builder": "kort0881",
+    "description": "Free VLESS / VMESS / Hiddify keys updated daily — backup from Telegram channel @vlesstrojan",
+    "url": "https://github.com/kort0881/vpn-vless-configs-russia",
+    "stars": 87,
+    "categories": [
+      "ai"
+    ],
+    "score": 80,
+    "language": "Python",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "llmhyy/ccdemon",
+    "builder": "llmhyy",
+    "description": "A Clone-Based Approach for Recommending Modification on Pasted Code",
+    "url": "https://github.com/llmhyy/ccdemon",
+    "stars": 12,
+    "categories": [
+      "crypto"
+    ],
+    "score": 75,
+    "language": "Java",
+    "blockchain": [
+      "base"
+    ],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "jiangnanboy/recommendation_methods",
+    "builder": "jiangnanboy",
+    "description": "个性化推荐模型，主要包括als、als_wr、biaslfm、lfm、nmf、svdpp、基于内容、基于内容回归、user-cf、item-cf、slopeone、关联规则以及基于内容和cf的混合等模型。",
+    "url": "https://github.com/jiangnanboy/recommendation_methods",
+    "stars": 33,
+    "categories": [
+      "crypto"
+    ],
+    "score": 75,
+    "language": "Python",
+    "blockchain": [
+      "ethereum"
+    ],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "vicwomg/pikaraoke",
+    "builder": "vicwomg",
+    "description": "Youtube-based Karaoke machine for Raspberry Pi, OSX, Windows, and Linux",
+    "url": "https://github.com/vicwomg/pikaraoke",
+    "stars": 755,
+    "categories": [
+      "crypto"
+    ],
+    "score": 75,
+    "language": "Python",
+    "blockchain": [
+      "base"
+    ],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "CryptoGnome/Bybit-TraidingView-Trader",
+    "builder": "CryptoGnome",
+    "description": "This a free bot that scraped your gmail for emails for tradingview alerts and makes trades in via the Bybit  API.",
+    "url": "https://github.com/CryptoGnome/Bybit-TraidingView-Trader",
+    "stars": 18,
+    "categories": [
+      "ai"
+    ],
+    "score": 75,
+    "language": null,
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "DevanB/xstate-examples",
+    "builder": "DevanB",
+    "description": "Practical examples of statechart-based solutions with xstate.",
+    "url": "https://github.com/DevanB/xstate-examples",
+    "stars": 145,
+    "categories": [
+      "crypto"
+    ],
+    "score": 75,
+    "language": "TypeScript",
+    "blockchain": [
+      "solana",
+      "base"
+    ],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "borestad/blocklist-abuseipdb",
+    "builder": "borestad",
+    "description": "Aggregated AbuseIPDB blocklists with worst IPv4 & IPv6 offenders (~99% confidence)",
+    "url": "https://github.com/borestad/blocklist-abuseipdb",
+    "stars": 398,
+    "categories": [
+      "ai"
+    ],
+    "score": 75,
+    "language": "Shell",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "Hunterdii/Prodigy-Infotech-CS-Tasks",
+    "builder": "Hunterdii",
+    "description": "Prodigy-Infotech-CyberSecurity-Internship-Solutions",
+    "url": "https://github.com/Hunterdii/Prodigy-Infotech-CS-Tasks",
+    "stars": 11,
+    "categories": [
+      "crypto"
+    ],
+    "score": 75,
+    "language": "Python",
+    "blockchain": [
+      "solana"
+    ],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "Hunterdii/Oasis-InfoByte-Python-Tasks",
+    "builder": "Hunterdii",
+    "description": "Oasis-InfoByte-Python-Internship-Solution",
+    "url": "https://github.com/Hunterdii/Oasis-InfoByte-Python-Tasks",
+    "stars": 9,
+    "categories": [
+      "defi",
+      "ai",
+      "crypto"
+    ],
+    "score": 75,
+    "language": "Python",
+    "blockchain": [
+      "solana",
+      "base"
+    ],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "web3batman/Monster-Brawl-app",
+    "builder": "web3batman",
+    "description": "This interactive game 🎮 features a diverse array of monsters 🐉, each equipped with unique statistics including attack ⚔️ and defense 🛡️ attributes, engaging in strategic battles against one another",
+    "url": "https://github.com/web3batman/Monster-Brawl-app",
+    "stars": 7,
     "categories": [
       "ai",
-      "privacy"
+      "games"
     ],
-    "score": 72,
-    "language": "Ruby"
+    "score": 75,
+    "language": "Rust",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
   },
   {
-    "fullName": "UnknownX7/Cammy",
-    "builder": "UnknownX7",
-    "description": "A XIVLauncher plugin.",
-    "url": "https://github.com/UnknownX7/Cammy",
-    "stars": 62,
-    "categories": [
-      "tools"
-    ],
-    "score": 71,
-    "language": "C#"
-  },
-  {
-    "fullName": "ryandens/jlink-gradle-plugin",
-    "builder": "ryandens",
-    "description": "A set of Gradle plugins that enable the use of jlink in Gradle builds",
-    "url": "https://github.com/ryandens/jlink-gradle-plugin",
-    "stars": 21,
-    "categories": [
-      "tools"
-    ],
-    "score": 71,
-    "language": "Kotlin"
-  },
-  {
-    "fullName": "ai-in-pm/Kali-AI",
-    "builder": "ai-in-pm",
-    "description": "KaliAI is an advanced AI assistant designed to help security professionals and ethical hackers leverage Kali Linux tools effectively and safely. It provides guidance, explanations, and security insights while emphasizing ethical considerations and best practices.",
-    "url": "https://github.com/ai-in-pm/Kali-AI",
-    "stars": 16,
+    "fullName": "web3batman/sol-blast-dashboard-dapp",
+    "builder": "web3batman",
+    "description": "Dashboard 📊 provides users with an intuitive interface to interact with various blockchain features (Solana 🌐 & Blast 🚀) and services 🔧.",
+    "url": "https://github.com/web3batman/sol-blast-dashboard-dapp",
+    "stars": 6,
     "categories": [
       "ai",
-      "privacy",
-      "tools"
+      "crypto"
     ],
-    "score": 71,
-    "language": "Python"
+    "score": 75,
+    "language": "TypeScript",
+    "blockchain": [
+      "solana"
+    ],
+    "isHot": false,
+    "isUnderrated": false
   },
   {
-    "fullName": "hujingguang/ChinaIPTV",
-    "builder": "hujingguang",
-    "description": "中国电视直播源 cnTV m3u（实时更新,长期有效）",
-    "url": "https://github.com/hujingguang/ChinaIPTV",
-    "stars": 1657,
+    "fullName": "aimeos/ai-cache",
+    "builder": "aimeos",
+    "description": "Cache extension for Aimeos web shops and e-commerce solutions",
+    "url": "https://github.com/aimeos/ai-cache",
+    "stars": 9,
+    "categories": [
+      "ai",
+      "crypto"
+    ],
+    "score": 70,
+    "language": "PHP",
+    "blockchain": [
+      "solana"
+    ],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "web3-master/token-gated-video-clips",
+    "builder": "web3-master",
+    "description": "Simple video clip sharing marketplace protected by NFT token gating.",
+    "url": "https://github.com/web3-master/token-gated-video-clips",
+    "stars": 7,
+    "categories": [
+      "nft"
+    ],
+    "score": 70,
+    "language": "JavaScript",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "cryptosguru/Singularity_marketplace",
+    "builder": "cryptosguru",
+    "description": "NFT marketplace based on Ethereum and Polygon network.",
+    "url": "https://github.com/cryptosguru/Singularity_marketplace",
+    "stars": 5,
+    "categories": [
+      "nft",
+      "crypto"
+    ],
+    "score": 70,
+    "language": "TypeScript",
+    "blockchain": [
+      "ethereum",
+      "base",
+      "polygon"
+    ],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "vitoplantamura/MagicTrackpad2ForWindows",
+    "builder": "vitoplantamura",
+    "description": "Magic Trackpad 2 Precision Touchpad driver for Windows (USB-only), based on the imbushuo driver, with Control Panel to set haptic feedback and options to improve pointer precision. *** October 2024 Magic Trackpad 2 supported. ***",
+    "url": "https://github.com/vitoplantamura/MagicTrackpad2ForWindows",
+    "stars": 315,
+    "categories": [
+      "crypto"
+    ],
+    "score": 70,
+    "language": "C",
+    "blockchain": [
+      "base"
+    ],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "web3batman/next.js-marketplace-template",
+    "builder": "web3batman",
+    "description": "Digital Art Marketplace 🎨🖼️, a modern and scalable platform for buying and selling digital art. This project leverages the power of Next.js 🚀 for server-side rendering and static site generation, Stripe 💳 for secure payment processing, and Cosmic 🌌 for headless CMS capabilities.",
+    "url": "https://github.com/web3batman/next.js-marketplace-template",
+    "stars": 5,
     "categories": [
       "ai"
     ],
     "score": 70,
-    "language": null
+    "language": "JavaScript",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "CryptoGnome/aster_lick_hunter_node",
+    "builder": "CryptoGnome",
+    "description": "Automated Crypto Trading Bot on Aster DEX",
+    "url": "https://github.com/CryptoGnome/aster_lick_hunter_node",
+    "stars": 26,
+    "categories": [
+      "defi",
+      "infra"
+    ],
+    "score": 70,
+    "language": "TypeScript",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "jiangnanboy/medical-diagnosis-assistant",
+    "builder": "jiangnanboy",
+    "description": "智能医疗诊断助手，Intelligent Medical Diagnosis Assistant",
+    "url": "https://github.com/jiangnanboy/medical-diagnosis-assistant",
+    "stars": 10,
+    "categories": [
+      "ai"
+    ],
+    "score": 70,
+    "language": "Python",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
   }
 ]

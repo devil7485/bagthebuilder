@@ -89,7 +89,10 @@ async function processUser(username: string, store: any): Promise<boolean> {
   const existingBuilder = store.builders[username];
   if (existingBuilder) {
     const hoursSinceLastScan = (Date.now() - new Date(existingBuilder.last_scanned_at).getTime()) / (1000 * 60 * 60);
-    if (hoursSinceLastScan < 24) return false;
+    if (hoursSinceLastScan < 24) {
+      console.log(`  ⏭️  ${username} - Scanned ${Math.round(hoursSinceLastScan)}h ago, skipping`);
+      return false;
+    }
   }
 
   const profile = await fetchUserProfile(username);
@@ -102,6 +105,7 @@ async function processUser(username: string, store: any): Promise<boolean> {
   let totalScore = 0;
 
   for (const repo of repos) {
+    // Skip already stored repos
     if (store.repos[repo.id]) {
       qualityRepoIds.push(repo.id);
       continue;
@@ -112,6 +116,7 @@ async function processUser(username: string, store: any): Promise<boolean> {
     const evalResult = evaluateRepo(repo);
     if (!evalResult) continue;
 
+    // 🎯 SAVE ALL THE NEW FIELDS FROM EVALUATE RESULT
     store.repos[repo.id] = {
       id: repo.id,
       builder: username,
@@ -127,19 +132,34 @@ async function processUser(username: string, store: any): Promise<boolean> {
       topics: repo.topics || [],
       created_at: repo.created_at,
       last_commit_at: repo.pushed_at,
+      
+      // Original fields
       categories: evalResult.categories,
       quality: evalResult.quality,
+      product_score: Math.round(evalResult.score * 0.6),
+      execution_score: Math.round(evalResult.score * 0.4),
+      final_score: evalResult.score,
+      coin_worthy: evalResult.coinWorthy,
+      
+      // 🔥 NEW FIELDS FROM ENHANCED EVALUATE
+      blockchain: evalResult.blockchain || [],
+      frameworks: evalResult.frameworks || [],
+      repoAgeInDays: evalResult.repoAgeInDays,
+      daysSinceLastCommit: evalResult.daysSinceLastCommit,
+      starVelocity: evalResult.starVelocity,
+      isUnderrated: evalResult.isUnderrated || false,
+      isEarlyStage: evalResult.isEarlyStage || false,
+      isActive: evalResult.isActive || false,
+      isHot: evalResult.isHot || false,
+      
+      // Activity tracking
       activity: {
         total_commits: 0,
         weeks_active: 0,
         avg_commits_per_week: 0,
         last_commit_date: repo.pushed_at,
         consistency_score: 50
-      },
-      product_score: Math.round(evalResult.score * 0.6),
-      execution_score: Math.round(evalResult.score * 0.4),
-      final_score: evalResult.score,
-      coin_worthy: evalResult.coinWorthy
+      }
     };
 
     qualityRepoIds.push(repo.id);
@@ -175,7 +195,19 @@ async function processUser(username: string, store: any): Promise<boolean> {
     last_scanned_at: new Date().toISOString()
   };
 
-  console.log(`  ✅ ${username} | Score: ${builderEval.score} | Repos: ${qualityRepoIds.length} | ${focusAreas.join(", ")}`);
+  // Enhanced console output
+  const badges = [];
+  const hasHotRepo = qualityRepoIds.some(id => store.repos[id]?.isHot);
+  const hasUnderratedRepo = qualityRepoIds.some(id => store.repos[id]?.isUnderrated);
+  const hasEarlyStageRepo = qualityRepoIds.some(id => store.repos[id]?.isEarlyStage);
+  
+  if (hasHotRepo) badges.push("🔥");
+  if (hasUnderratedRepo) badges.push("💎");
+  if (hasEarlyStageRepo) badges.push("🚀");
+  
+  const blockchains = [...new Set(qualityRepoIds.map(id => store.repos[id]?.blockchain || []).flat())];
+  
+  console.log(`  ✅ ${username} ${badges.join(" ")} | Score: ${builderEval.score} | Repos: ${qualityRepoIds.length} | ${focusAreas.join(", ")}${blockchains.length > 0 ? ` | ${blockchains.join(", ")}` : ""}`);
   return true;
 }
 
@@ -187,6 +219,8 @@ async function runScan() {
 
   let newBuildersFound = 0;
   let processedUsers = 0;
+  let skippedUsers = 0;
+  let skippedRepos = 0;
 
   // Strategy 1: Trending repos
   console.log("\n📈 Strategy 1: Scanning trending repositories...");
@@ -201,7 +235,14 @@ async function runScan() {
     
     console.log(`\n🔍 Scanning: ${username}`);
     const success = await processUser(username, store);
-    if (success) newBuildersFound++;
+    if (success) {
+      newBuildersFound++;
+    } else {
+      // Check if it was skipped vs rejected
+      if (store.builders[username]) {
+        skippedUsers++;
+      }
+    }
     processedUsers++;
     
     if (processedUsers % 5 === 0) {
@@ -238,8 +279,24 @@ async function runScan() {
   console.log(`📊 Stats:`);
   console.log(`   - Users processed: ${processedUsers}`);
   console.log(`   - New builders found: ${newBuildersFound}`);
+  console.log(`   - Users skipped (scanned <24h ago): ${skippedUsers}`);
   console.log(`   - Total builders in DB: ${Object.keys(store.builders).length}`);
   console.log(`   - Total repos in DB: ${Object.keys(store.repos).length}`);
+  
+  // Show breakdown of new metrics
+  const allRepos = Object.values(store.repos) as any[];
+  const hotRepos = allRepos.filter(r => r.isHot).length;
+  const underratedRepos = allRepos.filter(r => r.isUnderrated).length;
+  const earlyStageRepos = allRepos.filter(r => r.isEarlyStage).length;
+  const withTests = allRepos.filter(r => r.quality?.hasTests).length;
+  const blockchainRepos = allRepos.filter(r => r.blockchain?.length > 0).length;
+  
+  console.log(`\n🔥 Breakdown:`);
+  console.log(`   - Hot repos (< 7d): ${hotRepos}`);
+  console.log(`   - Hidden gems: ${underratedRepos}`);
+  console.log(`   - Early stage: ${earlyStageRepos}`);
+  console.log(`   - With tests: ${withTests}`);
+  console.log(`   - Blockchain tagged: ${blockchainRepos}`);
   console.log("═".repeat(70));
 
   // 🎯 AUTO-EXPORT AFTER SCAN
