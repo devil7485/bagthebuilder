@@ -3,6 +3,7 @@
     "aimeos",
     "crypmancer",
     "CryptoGnome",
+    "rameerez",
     "Brandawg93"
   ],
   "ai": [
@@ -11,9 +12,14 @@
     "crypmancer",
     "ai-in-pm",
     "lrstanley",
+    "rameerez",
     "anitaa1990",
     "AISoltani",
+    "jaredwray",
+    "mikeoliphant",
     "nmeum",
+    "rokartur",
+    "fujiwara",
     "davidkimai",
     "jiangnanboy",
     "j178",
@@ -28,7 +34,10 @@
     "aimeos",
     "crypmancer",
     "lrstanley",
+    "rameerez",
     "fdciabdul",
+    "jaredwray",
+    "fujiwara",
     "goruck",
     "Brandawg93"
   ],
@@ -37,12 +46,17 @@
     "crypmancer",
     "ai-in-pm",
     "lrstanley",
+    "rameerez",
     "anitaa1990",
     "AISoltani",
     "fdciabdul",
+    "jaredwray",
     "nmeum",
+    "rokartur",
+    "fujiwara",
     "tunjid",
     "davidkimai",
+    "JackJPowell",
     "jiangnanboy",
     "goruck",
     "Brandawg93",
@@ -54,7 +68,8 @@
   "games": [
     "aimeos",
     "crypmancer",
-    "anitaa1990"
+    "anitaa1990",
+    "mikeoliphant"
   ],
   "api": [
     "aimeos",
@@ -62,19 +77,25 @@
     "CryptoGnome",
     "ai-in-pm",
     "lrstanley",
+    "rameerez",
     "anitaa1990",
     "fdciabdul",
+    "jaredwray",
     "nmeum",
+    "fujiwara",
     "tunjid",
     "davidkimai",
+    "JackJPowell",
     "goruck",
     "Anonym0usWork1221",
+    "ryandens",
     "LISA-KOREA",
     "dknowles2"
   ],
   "agi": [
     "aimeos",
     "ai-in-pm",
+    "fujiwara",
     "tunjid",
     "davidkimai"
   ],
@@ -85,9 +106,14 @@
     "CryptoGnome",
     "ai-in-pm",
     "lrstanley",
+    "rameerez",
     "AISoltani",
     "fdciabdul",
+    "jaredwray",
+    "mikeoliphant",
     "nmeum",
+    "rokartur",
+    "fujiwara",
     "tunjid",
     "UnknownX7",
     "davidkimai",
@@ -96,6 +122,7 @@
     "Brandawg93",
     "ColdWindScholar",
     "relf",
-    "Anonym0usWork1221"
+    "Anonym0usWork1221",
+    "ryandens"
   ]
 }

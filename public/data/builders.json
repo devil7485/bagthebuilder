@@ -827,6 +827,197 @@
     ]
   },
   {
+    "username": "rameerez",
+    "name": "Javi",
+    "avatar": "https://avatars.githubusercontent.com/u/4920956?v=4",
+    "bio": "I love creating cool stuff ✨",
+    "location": null,
+    "website": "rameerez.com",
+    "twitter": "rameerez",
+    "followers": 198,
+    "focusAreas": [
+      "ai",
+      "privacy",
+      "infra",
+      "crypto",
+      "api",
+      "tools"
+    ],
+    "reputationScore": 77,
+    "consistencyScore": 78,
+    "lastActive": "2026-01-16T15:41:43Z",
+    "topRepos": [
+      {
+        "name": "allgood",
+        "fullName": "rameerez/allgood",
+        "description": "✅ Quickly set up a health check page for your Rails app",
+        "url": "https://github.com/rameerez/allgood",
+        "stars": 264,
+        "forks": 7,
+        "language": "Ruby",
+        "topics": [
+          "downtime",
+          "health-check",
+          "healthcheck",
+          "kamal",
+          "performance",
+          "performance-testing",
+          "rails",
+          "ruby",
+          "ruby-on-rails",
+          "smoke-test",
+          "smoke-tests",
+          "uptime",
+          "uptime-monitor",
+          "uptime-monitoring",
+          "uptimerobot"
+        ],
+        "categories": [
+          "ai",
+          "infra",
+          "privacy"
+        ],
+        "score": 95,
+        "coinWorthy": true
+      },
+      {
+        "name": "pricing_plans",
+        "fullName": "rameerez/pricing_plans",
+        "description": "💵 Define and enforce pricing plan limits in your Rails SaaS (entitlements, quotas, feature gating)",
+        "url": "https://github.com/rameerez/pricing_plans",
+        "stars": 56,
+        "forks": 3,
+        "language": "Ruby",
+        "topics": [
+          "business",
+          "gem",
+          "gumroad",
+          "lemonsqueezy",
+          "limits",
+          "paddle",
+          "payment",
+          "payments",
+          "pricing",
+          "pricing-table",
+          "quota",
+          "rails",
+          "ruby",
+          "ruby-gem",
+          "ruby-on-rails",
+          "saas",
+          "saas-tools",
+          "stripe",
+          "stripe-api",
+          "stripe-payments"
+        ],
+        "categories": [
+          "crypto",
+          "ai",
+          "api",
+          "tools"
+        ],
+        "score": 87,
+        "coinWorthy": true
+      },
+      {
+        "name": "telegrama",
+        "fullName": "rameerez/telegrama",
+        "description": "💬 telegrama Ruby gem – a tiny wrapper to send admin Telegram messages",
+        "url": "https://github.com/rameerez/telegrama",
+        "stars": 20,
+        "forks": 1,
+        "language": "Ruby",
+        "topics": [
+          "admin",
+          "administration",
+          "log",
+          "logging",
+          "notification",
+          "notifications",
+          "rails",
+          "ruby",
+          "ruby-gem",
+          "ruby-on-rails",
+          "summary",
+          "telegram",
+          "telegram-api",
+          "telegram-bot",
+          "telegram-bot-api",
+          "telegram-bots"
+        ],
+        "categories": [
+          "ai",
+          "api"
+        ],
+        "score": 87,
+        "coinWorthy": true
+      },
+      {
+        "name": "api_keys",
+        "fullName": "rameerez/api_keys",
+        "description": "🔑 Secure API keys for your Rails app",
+        "url": "https://github.com/rameerez/api_keys",
+        "stars": 37,
+        "forks": 0,
+        "language": "Ruby",
+        "topics": [
+          "api",
+          "api-client",
+          "api-rest",
+          "api-server",
+          "apis",
+          "auth",
+          "authentication",
+          "authorization",
+          "bearer-authentication",
+          "bearer-tokens",
+          "curl",
+          "rails",
+          "rails-api",
+          "ruby",
+          "ruby-gem",
+          "ruby-on-rails",
+          "rubygems",
+          "token",
+          "token-authetication",
+          "token-based-authentication"
+        ],
+        "categories": [
+          "crypto",
+          "ai",
+          "api",
+          "tools"
+        ],
+        "score": 87,
+        "coinWorthy": true
+      },
+      {
+        "name": "profitable",
+        "fullName": "rameerez/profitable",
+        "description": "💸 Calculate the MRR, ARR, churn, LTV, ARPU, total revenue & valuation of your pay-powered Rails SaaS app. MRR dashboard for your Rails app.",
+        "url": "https://github.com/rameerez/profitable",
+        "stars": 94,
+        "forks": 4,
+        "language": "Ruby",
+        "topics": [
+          "business-analytics",
+          "dashboard",
+          "mrr",
+          "rails",
+          "ruby",
+          "ruby-on-rails",
+          "saas",
+          "valuation"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 85,
+        "coinWorthy": true
+      }
+    ]
+  },
+  {
     "username": "anitaa1990",
     "name": "Anitaa Murthy",
     "avatar": "https://avatars.githubusercontent.com/u/22608780?v=4",
@@ -1123,6 +1314,272 @@
     ]
   },
   {
+    "username": "jaredwray",
+    "name": "Jared Wray",
+    "avatar": "https://avatars.githubusercontent.com/u/1205481?v=4",
+    "bio": null,
+    "location": null,
+    "website": "http://jaredwray.com",
+    "twitter": null,
+    "followers": 228,
+    "focusAreas": [
+      "ai",
+      "api",
+      "privacy",
+      "tools",
+      "infra"
+    ],
+    "reputationScore": 67,
+    "consistencyScore": 72,
+    "lastActive": "2026-01-16T15:41:30Z",
+    "topRepos": [
+      {
+        "name": "cacheable",
+        "fullName": "jaredwray/cacheable",
+        "description": "a robust, scalable, and maintained set of caching packages",
+        "url": "https://github.com/jaredwray/cacheable",
+        "stars": 1941,
+        "forks": 202,
+        "language": "TypeScript",
+        "topics": [
+          "cache",
+          "caching",
+          "caching-library",
+          "http",
+          "key-value",
+          "keyv",
+          "nodejs",
+          "redis",
+          "rfc-72",
+          "wrapper"
+        ],
+        "categories": [
+          "ai",
+          "api"
+        ],
+        "score": 89,
+        "coinWorthy": true
+      },
+      {
+        "name": "airhorn",
+        "fullName": "jaredwray/airhorn",
+        "description": "Cloud Native Notifications Library",
+        "url": "https://github.com/jaredwray/airhorn",
+        "stars": 22,
+        "forks": 7,
+        "language": "TypeScript",
+        "topics": [
+          "airhorn",
+          "cloud-native",
+          "email",
+          "mobile-push",
+          "notifications",
+          "sms",
+          "webhooks"
+        ],
+        "categories": [
+          "ai",
+          "infra",
+          "api"
+        ],
+        "score": 83,
+        "coinWorthy": true
+      },
+      {
+        "name": "docula",
+        "fullName": "jaredwray/docula",
+        "description": "Beautiful Website for Your Projects",
+        "url": "https://github.com/jaredwray/docula",
+        "stars": 11,
+        "forks": 5,
+        "language": "TypeScript",
+        "topics": [
+          "cli",
+          "documentation",
+          "documentation-site",
+          "markdown",
+          "mdx",
+          "nodejs",
+          "openapi",
+          "templates"
+        ],
+        "categories": [
+          "api",
+          "tools"
+        ],
+        "score": 81,
+        "coinWorthy": true
+      },
+      {
+        "name": "keyv",
+        "fullName": "jaredwray/keyv",
+        "description": "Simple key-value storage with support for multiple backends",
+        "url": "https://github.com/jaredwray/keyv",
+        "stars": 3077,
+        "forks": 192,
+        "language": "TypeScript",
+        "topics": [
+          "cache",
+          "etcd",
+          "key-value",
+          "keyv",
+          "memcache",
+          "mongo",
+          "mysql",
+          "postgres",
+          "redis",
+          "sqlite",
+          "storage"
+        ],
+        "categories": [
+          "privacy"
+        ],
+        "score": 80,
+        "coinWorthy": true
+      },
+      {
+        "name": "mockhttp",
+        "fullName": "jaredwray/mockhttp",
+        "description": "A simple HTTP server that can be used to mock HTTP responses for testing purposes. Inspired by httpbin and built using nodejs and fastify with the idea of running it via https://mockhttp.org, via docker jaredwray/mockhttp, or nodejs npm install jaredwray/mockhttp.",
+        "url": "https://github.com/jaredwray/mockhttp",
+        "stars": 16,
+        "forks": 2,
+        "language": "TypeScript",
+        "topics": [
+          "fastify",
+          "http",
+          "httpbin",
+          "https",
+          "mock",
+          "mock-server",
+          "nodejs"
+        ],
+        "categories": [
+          "infra"
+        ],
+        "score": 74,
+        "coinWorthy": true
+      }
+    ]
+  },
+  {
+    "username": "mikeoliphant",
+    "name": "Mike Oliphant",
+    "avatar": "https://avatars.githubusercontent.com/u/6710799?v=4",
+    "bio": null,
+    "location": "San Diego, CA",
+    "website": "http://blog.nostatic.org/",
+    "twitter": null,
+    "followers": 139,
+    "focusAreas": [
+      "tools",
+      "ai",
+      "games"
+    ],
+    "reputationScore": 67,
+    "consistencyScore": 77,
+    "lastActive": "2026-01-16T15:41:24Z",
+    "topRepos": [
+      {
+        "name": "NeuralAudio",
+        "fullName": "mikeoliphant/NeuralAudio",
+        "description": "C++ library for neural amp modeler and other audio network models",
+        "url": "https://github.com/mikeoliphant/NeuralAudio",
+        "stars": 90,
+        "forks": 7,
+        "language": "C++",
+        "topics": [
+          "lstm",
+          "machine-learning",
+          "nam",
+          "neural-amp-modeler",
+          "wavenet"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 89,
+        "coinWorthy": true
+      },
+      {
+        "name": "neural-amp-modeler-lv2",
+        "fullName": "mikeoliphant/neural-amp-modeler-lv2",
+        "description": "Neural Amp Modeler LV2 plugin",
+        "url": "https://github.com/mikeoliphant/neural-amp-modeler-lv2",
+        "stars": 390,
+        "forks": 43,
+        "language": "C++",
+        "topics": [
+          "amplifier",
+          "audio",
+          "guitar",
+          "machine-learning",
+          "nam"
+        ],
+        "categories": [
+          "ai",
+          "tools"
+        ],
+        "score": 80,
+        "coinWorthy": true
+      },
+      {
+        "name": "AudioPlugSharp",
+        "fullName": "mikeoliphant/AudioPlugSharp",
+        "description": "Easily create VST (VST3) audio plugins in C# .NET",
+        "url": "https://github.com/mikeoliphant/AudioPlugSharp",
+        "stars": 207,
+        "forks": 23,
+        "language": "C#",
+        "topics": [
+          "audio",
+          "c-sharp",
+          "dotnet",
+          "dotnet-core",
+          "plugin",
+          "vst",
+          "vst3",
+          "wpf"
+        ],
+        "categories": [
+          "tools"
+        ],
+        "score": 76,
+        "coinWorthy": true
+      },
+      {
+        "name": "Stompbox",
+        "fullName": "mikeoliphant/Stompbox",
+        "description": "Guitar amplification and effects pedalboard simulation",
+        "url": "https://github.com/mikeoliphant/Stompbox",
+        "stars": 89,
+        "forks": 5,
+        "language": "C++",
+        "topics": [],
+        "categories": [
+          "games"
+        ],
+        "score": 76,
+        "coinWorthy": true
+      },
+      {
+        "name": "stompbox-old",
+        "fullName": "mikeoliphant/stompbox-old",
+        "description": "Guitar amplification and effects pedalboard simulation",
+        "url": "https://github.com/mikeoliphant/stompbox-old",
+        "stars": 56,
+        "forks": 3,
+        "language": "C++",
+        "topics": [],
+        "categories": [
+          "games"
+        ],
+        "score": 64,
+        "coinWorthy": false
+      }
+    ]
+  },
+  {
     "username": "nmeum",
     "name": "Sören Tempel",
     "avatar": "https://avatars.githubusercontent.com/u/2326560?v=4",
@@ -1242,6 +1699,240 @@
         ],
         "score": 54,
         "coinWorthy": false
+      }
+    ]
+  },
+  {
+    "username": "rokartur",
+    "name": "Artur Rok",
+    "avatar": "https://avatars.githubusercontent.com/u/79342641?v=4",
+    "bio": "simple man",
+    "location": "Katowice, Poland",
+    "website": "geto.cloud",
+    "twitter": "rokarturdev",
+    "followers": 35,
+    "focusAreas": [
+      "tools",
+      "ai",
+      "privacy"
+    ],
+    "reputationScore": 65,
+    "consistencyScore": 55,
+    "lastActive": "2026-01-16T15:41:46Z",
+    "topRepos": [
+      {
+        "name": "BetterAudio",
+        "fullName": "rokartur/BetterAudio",
+        "description": "A better way to manage audio on macOS",
+        "url": "https://github.com/rokartur/BetterAudio",
+        "stars": 253,
+        "forks": 3,
+        "language": null,
+        "topics": [
+          "app",
+          "audio",
+          "audio-sharing",
+          "audio-utility",
+          "betteraudio",
+          "control-volume",
+          "dictation-apps",
+          "free",
+          "mac",
+          "macos",
+          "media-keys",
+          "menubar",
+          "mute",
+          "per-app-volume"
+        ],
+        "categories": [
+          "tools"
+        ],
+        "score": 67,
+        "coinWorthy": false
+      },
+      {
+        "name": "xcstrings-editor",
+        "fullName": "rokartur/xcstrings-editor",
+        "description": "Import .xcstrings, edit by fuzzy search, publish updates to GitHub fast",
+        "url": "https://github.com/rokartur/xcstrings-editor",
+        "stars": 7,
+        "forks": 0,
+        "language": "TypeScript",
+        "topics": [
+          "editor",
+          "macos",
+          "offline",
+          "pwa",
+          "web",
+          "xcstrings"
+        ],
+        "categories": [
+          "privacy"
+        ],
+        "score": 52,
+        "coinWorthy": false
+      },
+      {
+        "name": "bongocat",
+        "fullName": "rokartur/bongocat",
+        "description": "Create a custom bongocat svg avatar instantly, right in your browser",
+        "url": "https://github.com/rokartur/bongocat",
+        "stars": 30,
+        "forks": 4,
+        "language": "JavaScript",
+        "topics": [
+          "avatar",
+          "avatar-generation",
+          "avatar-generator",
+          "bongo",
+          "bongo-cat",
+          "bongocat",
+          "cat",
+          "generator",
+          "nextjs",
+          "preact",
+          "project",
+          "react",
+          "reactjs"
+        ],
+        "categories": [
+          "privacy"
+        ],
+        "score": 51,
+        "coinWorthy": false
+      },
+      {
+        "name": "justfuckingusebrain",
+        "fullName": "rokartur/justfuckingusebrain",
+        "description": "It's time to stop. It's time to decouple. It's time to think.",
+        "url": "https://github.com/rokartur/justfuckingusebrain",
+        "stars": 2,
+        "forks": 0,
+        "language": "HTML",
+        "topics": [
+          "justfuckingusebrain",
+          "justusebrain"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 50,
+        "coinWorthy": false
+      }
+    ]
+  },
+  {
+    "username": "fujiwara",
+    "name": "FUJIWARA Shunichiro",
+    "avatar": "https://avatars.githubusercontent.com/u/67804?v=4",
+    "bio": null,
+    "location": "Kanagawa, Japan",
+    "website": "",
+    "twitter": "fujiwara",
+    "followers": 411,
+    "focusAreas": [
+      "infra",
+      "tools",
+      "privacy",
+      "api",
+      "agi",
+      "ai"
+    ],
+    "reputationScore": 65,
+    "consistencyScore": 76,
+    "lastActive": "2026-01-16T15:43:05Z",
+    "topRepos": [
+      {
+        "name": "lambroll",
+        "fullName": "fujiwara/lambroll",
+        "description": "lambroll is a minimal deployment tool for AWS Lambda.",
+        "url": "https://github.com/fujiwara/lambroll",
+        "stars": 432,
+        "forks": 34,
+        "language": "Go",
+        "topics": [
+          "aws",
+          "aws-lambda",
+          "deploy",
+          "lambda"
+        ],
+        "categories": [
+          "infra",
+          "tools"
+        ],
+        "score": 91,
+        "coinWorthy": true
+      },
+      {
+        "name": "ecrm",
+        "fullName": "fujiwara/ecrm",
+        "description": "A command line tool for managing ECR repositories.",
+        "url": "https://github.com/fujiwara/ecrm",
+        "stars": 81,
+        "forks": 8,
+        "language": "Go",
+        "topics": [],
+        "categories": [
+          "privacy",
+          "agi",
+          "tools"
+        ],
+        "score": 89,
+        "coinWorthy": true
+      },
+      {
+        "name": "stretcher",
+        "fullName": "fujiwara/stretcher",
+        "description": "Deployment tool with consul/serf event notification.",
+        "url": "https://github.com/fujiwara/stretcher",
+        "stars": 248,
+        "forks": 21,
+        "language": "Go",
+        "topics": [
+          "consul",
+          "deployment",
+          "go",
+          "golang",
+          "kayac",
+          "serf",
+          "stretcher"
+        ],
+        "categories": [
+          "infra",
+          "tools"
+        ],
+        "score": 88,
+        "coinWorthy": true
+      },
+      {
+        "name": "awslim",
+        "fullName": "fujiwara/awslim",
+        "description": "A simplified alternative to the AWS CLI for limited use cases.",
+        "url": "https://github.com/fujiwara/awslim",
+        "stars": 137,
+        "forks": 8,
+        "language": "Go",
+        "topics": [],
+        "categories": [
+          "tools"
+        ],
+        "score": 86,
+        "coinWorthy": true
+      },
+      {
+        "name": "tracer",
+        "fullName": "fujiwara/tracer",
+        "description": "ECS task event/log tracer CLI",
+        "url": "https://github.com/fujiwara/tracer",
+        "stars": 102,
+        "forks": 5,
+        "language": "Go",
+        "topics": [],
+        "categories": [
+          "tools"
+        ],
+        "score": 78,
+        "coinWorthy": true
       }
     ]
   },
@@ -1547,6 +2238,109 @@
           "api"
         ],
         "score": 58,
+        "coinWorthy": false
+      }
+    ]
+  },
+  {
+    "username": "JackJPowell",
+    "name": "Jack Powell",
+    "avatar": "https://avatars.githubusercontent.com/u/7500683?v=4",
+    "bio": null,
+    "location": "USA",
+    "website": "",
+    "twitter": "JackPowell",
+    "followers": 40,
+    "focusAreas": [
+      "api",
+      "privacy"
+    ],
+    "reputationScore": 61,
+    "consistencyScore": 63,
+    "lastActive": "2026-01-16T15:41:24Z",
+    "topRepos": [
+      {
+        "name": "hass-unfoldedcircle",
+        "fullName": "JackJPowell/hass-unfoldedcircle",
+        "description": "Home Assistant Integration for the Unfolded Circle line of remotes",
+        "url": "https://github.com/JackJPowell/hass-unfoldedcircle",
+        "stars": 102,
+        "forks": 9,
+        "language": "Python",
+        "topics": [
+          "hass",
+          "home-assistant",
+          "unfolded-circle"
+        ],
+        "categories": [
+          "api"
+        ],
+        "score": 82,
+        "coinWorthy": true
+      },
+      {
+        "name": "hass-psn",
+        "fullName": "JackJPowell/hass-psn",
+        "description": "Home Assistant integration for the Playstation Network",
+        "url": "https://github.com/JackJPowell/hass-psn",
+        "stars": 79,
+        "forks": 8,
+        "language": "Python",
+        "topics": [
+          "hass",
+          "homeassistant",
+          "playstation",
+          "psn"
+        ],
+        "categories": [
+          "api"
+        ],
+        "score": 69,
+        "coinWorthy": false
+      },
+      {
+        "name": "uc-intg-psn",
+        "fullName": "JackJPowell/uc-intg-psn",
+        "description": "PlayStation Network Integration for the Unfolded Circle line of remotes",
+        "url": "https://github.com/JackJPowell/uc-intg-psn",
+        "stars": 15,
+        "forks": 0,
+        "language": "Python",
+        "topics": [],
+        "categories": [
+          "api"
+        ],
+        "score": 66,
+        "coinWorthy": false
+      },
+      {
+        "name": "ucapi-framework",
+        "fullName": "JackJPowell/ucapi-framework",
+        "description": "A framework for building Unfolded Circle Remote integrations that handles the repetitive parts of integration development so you can focus on what's important.",
+        "url": "https://github.com/JackJPowell/ucapi-framework",
+        "stars": 2,
+        "forks": 1,
+        "language": "Python",
+        "topics": [],
+        "categories": [
+          "api"
+        ],
+        "score": 64,
+        "coinWorthy": false
+      },
+      {
+        "name": "uc-intg-demo",
+        "fullName": "JackJPowell/uc-intg-demo",
+        "description": "Demo Project for ucapi-framework and Unfolded Circle Integrations",
+        "url": "https://github.com/JackJPowell/uc-intg-demo",
+        "stars": 1,
+        "forks": 0,
+        "language": "Python",
+        "topics": [],
+        "categories": [
+          "api"
+        ],
+        "score": 61,
         "coinWorthy": false
       }
     ]
@@ -2279,6 +3073,70 @@
         ],
         "score": 82,
         "coinWorthy": true
+      }
+    ]
+  },
+  {
+    "username": "ryandens",
+    "name": "Ryan Dens",
+    "avatar": "https://avatars.githubusercontent.com/u/8192732?v=4",
+    "bio": null,
+    "location": "San Francisco",
+    "website": "https://www.ryandens.com",
+    "twitter": null,
+    "followers": 32,
+    "focusAreas": [
+      "tools",
+      "api"
+    ],
+    "reputationScore": 45,
+    "consistencyScore": 76,
+    "lastActive": "2026-01-16T15:41:43Z",
+    "topRepos": [
+      {
+        "name": "javaagent-gradle-plugin",
+        "fullName": "ryandens/javaagent-gradle-plugin",
+        "description": "A set of Gradle plugins to ease building Java applications that leverage instrumentation agents in development and/or in production ",
+        "url": "https://github.com/ryandens/javaagent-gradle-plugin",
+        "stars": 61,
+        "forks": 8,
+        "language": "Kotlin",
+        "topics": [],
+        "categories": [
+          "tools"
+        ],
+        "score": 87,
+        "coinWorthy": true
+      },
+      {
+        "name": "jlink-gradle-plugin",
+        "fullName": "ryandens/jlink-gradle-plugin",
+        "description": "A set of Gradle plugins that enable the use of jlink in Gradle builds",
+        "url": "https://github.com/ryandens/jlink-gradle-plugin",
+        "stars": 21,
+        "forks": 6,
+        "language": "Kotlin",
+        "topics": [],
+        "categories": [
+          "tools"
+        ],
+        "score": 71,
+        "coinWorthy": true
+      },
+      {
+        "name": "auto-delegate",
+        "fullName": "ryandens/auto-delegate",
+        "description": "Java annotation processor for automatically delegating interface APIs to a composed instance of that interface",
+        "url": "https://github.com/ryandens/auto-delegate",
+        "stars": 15,
+        "forks": 3,
+        "language": "Java",
+        "topics": [],
+        "categories": [
+          "api"
+        ],
+        "score": 69,
+        "coinWorthy": false
       }
     ]
   },

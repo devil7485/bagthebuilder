@@ -1,5 +1,19 @@
 [
   {
+    "fullName": "rameerez/allgood",
+    "builder": "rameerez",
+    "description": "✅ Quickly set up a health check page for your Rails app",
+    "url": "https://github.com/rameerez/allgood",
+    "stars": 264,
+    "categories": [
+      "ai",
+      "infra",
+      "privacy"
+    ],
+    "score": 95,
+    "language": "Ruby"
+  },
+  {
     "fullName": "lrstanley/entrest",
     "builder": "lrstanley",
     "description": "Extension that generates a compliant OpenAPI spec and server implementation",
@@ -39,6 +53,19 @@
     ],
     "score": 92,
     "language": "Vue"
+  },
+  {
+    "fullName": "fujiwara/lambroll",
+    "builder": "fujiwara",
+    "description": "lambroll is a minimal deployment tool for AWS Lambda.",
+    "url": "https://github.com/fujiwara/lambroll",
+    "stars": 432,
+    "categories": [
+      "infra",
+      "tools"
+    ],
+    "score": 91,
+    "language": "Go"
   },
   {
     "fullName": "aimeos/aimeos-headless",
@@ -105,6 +132,19 @@
     "language": "Go"
   },
   {
+    "fullName": "jaredwray/cacheable",
+    "builder": "jaredwray",
+    "description": "a robust, scalable, and maintained set of caching packages",
+    "url": "https://github.com/jaredwray/cacheable",
+    "stars": 1941,
+    "categories": [
+      "ai",
+      "api"
+    ],
+    "score": 89,
+    "language": "TypeScript"
+  },
+  {
     "fullName": "lrstanley/vault-unseal",
     "builder": "lrstanley",
     "description": "auto-unseal utility for Hashicorp Vault",
@@ -112,6 +152,20 @@
     "stars": 297,
     "categories": [
       "api",
+      "tools"
+    ],
+    "score": 89,
+    "language": "Go"
+  },
+  {
+    "fullName": "fujiwara/ecrm",
+    "builder": "fujiwara",
+    "description": "A command line tool for managing ECR repositories.",
+    "url": "https://github.com/fujiwara/ecrm",
+    "stars": 81,
+    "categories": [
+      "privacy",
+      "agi",
       "tools"
     ],
     "score": 89,
@@ -129,6 +183,18 @@
     ],
     "score": 89,
     "language": "Go"
+  },
+  {
+    "fullName": "mikeoliphant/NeuralAudio",
+    "builder": "mikeoliphant",
+    "description": "C++ library for neural amp modeler and other audio network models",
+    "url": "https://github.com/mikeoliphant/NeuralAudio",
+    "stars": 90,
+    "categories": [
+      "ai"
+    ],
+    "score": 89,
+    "language": "C++"
   },
   {
     "fullName": "tunjid/heron",
@@ -171,6 +237,19 @@
     ],
     "score": 88,
     "language": "PHP"
+  },
+  {
+    "fullName": "fujiwara/stretcher",
+    "builder": "fujiwara",
+    "description": "Deployment tool with consul/serf event notification.",
+    "url": "https://github.com/fujiwara/stretcher",
+    "stars": 248,
+    "categories": [
+      "infra",
+      "tools"
+    ],
+    "score": 88,
+    "language": "Go"
   },
   {
     "fullName": "tunjid/Tiler",
@@ -277,11 +356,78 @@
     "language": "CMake"
   },
   {
+    "fullName": "ryandens/javaagent-gradle-plugin",
+    "builder": "ryandens",
+    "description": "A set of Gradle plugins to ease building Java applications that leverage instrumentation agents in development and/or in production ",
+    "url": "https://github.com/ryandens/javaagent-gradle-plugin",
+    "stars": 61,
+    "categories": [
+      "tools"
+    ],
+    "score": 87,
+    "language": "Kotlin"
+  },
+  {
+    "fullName": "rameerez/telegrama",
+    "builder": "rameerez",
+    "description": "💬 telegrama Ruby gem – a tiny wrapper to send admin Telegram messages",
+    "url": "https://github.com/rameerez/telegrama",
+    "stars": 20,
+    "categories": [
+      "ai",
+      "api"
+    ],
+    "score": 87,
+    "language": "Ruby"
+  },
+  {
+    "fullName": "rameerez/api_keys",
+    "builder": "rameerez",
+    "description": "🔑 Secure API keys for your Rails app",
+    "url": "https://github.com/rameerez/api_keys",
+    "stars": 37,
+    "categories": [
+      "crypto",
+      "ai",
+      "api",
+      "tools"
+    ],
+    "score": 87,
+    "language": "Ruby"
+  },
+  {
+    "fullName": "rameerez/pricing_plans",
+    "builder": "rameerez",
+    "description": "💵 Define and enforce pricing plan limits in your Rails SaaS (entitlements, quotas, feature gating)",
+    "url": "https://github.com/rameerez/pricing_plans",
+    "stars": 56,
+    "categories": [
+      "crypto",
+      "ai",
+      "api",
+      "tools"
+    ],
+    "score": 87,
+    "language": "Ruby"
+  },
+  {
     "fullName": "lrstanley/bubblezone",
     "builder": "lrstanley",
     "description": "helper utility for BubbleTea, allowing easy mouse event tracking",
     "url": "https://github.com/lrstanley/bubblezone",
     "stars": 793,
+    "categories": [
+      "tools"
+    ],
+    "score": 86,
+    "language": "Go"
+  },
+  {
+    "fullName": "fujiwara/awslim",
+    "builder": "fujiwara",
+    "description": "A simplified alternative to the AWS CLI for limited use cases.",
+    "url": "https://github.com/fujiwara/awslim",
+    "stars": 137,
     "categories": [
       "tools"
     ],
@@ -368,6 +514,18 @@
     "language": "JavaScript"
   },
   {
+    "fullName": "rameerez/profitable",
+    "builder": "rameerez",
+    "description": "💸 Calculate the MRR, ARR, churn, LTV, ARPU, total revenue & valuation of your pay-powered Rails SaaS app. MRR dashboard for your Rails app.",
+    "url": "https://github.com/rameerez/profitable",
+    "stars": 94,
+    "categories": [
+      "ai"
+    ],
+    "score": 85,
+    "language": "Ruby"
+  },
+  {
     "fullName": "abusaeeidx/IPTV-Scraper-Zilla",
     "builder": "abusaeeidx",
     "description": "IPTV Scraper Zilla — High-quality, auto-updating IPTV playlist generator with thousands of live channels including sports, movies, anime, and more. Fast, lightweight, and perfect for seamless streaming across all devices.",
@@ -379,6 +537,20 @@
     ],
     "score": 85,
     "language": "Python"
+  },
+  {
+    "fullName": "jaredwray/airhorn",
+    "builder": "jaredwray",
+    "description": "Cloud Native Notifications Library",
+    "url": "https://github.com/jaredwray/airhorn",
+    "stars": 22,
+    "categories": [
+      "ai",
+      "infra",
+      "api"
+    ],
+    "score": 83,
+    "language": "TypeScript"
   },
   {
     "fullName": "goruck/nilm",
@@ -431,6 +603,18 @@
     "language": "Python"
   },
   {
+    "fullName": "JackJPowell/hass-unfoldedcircle",
+    "builder": "JackJPowell",
+    "description": "Home Assistant Integration for the Unfolded Circle line of remotes",
+    "url": "https://github.com/JackJPowell/hass-unfoldedcircle",
+    "stars": 102,
+    "categories": [
+      "api"
+    ],
+    "score": 82,
+    "language": "Python"
+  },
+  {
     "fullName": "aimeos/ai-admin-jsonadm",
     "builder": "aimeos",
     "description": "Aimeos e-commerce JSON API for administrative tasks",
@@ -442,6 +626,19 @@
     ],
     "score": 81,
     "language": "PHP"
+  },
+  {
+    "fullName": "jaredwray/docula",
+    "builder": "jaredwray",
+    "description": "Beautiful Website for Your Projects",
+    "url": "https://github.com/jaredwray/docula",
+    "stars": 11,
+    "categories": [
+      "api",
+      "tools"
+    ],
+    "score": 81,
+    "language": "TypeScript"
   },
   {
     "fullName": "jiangnanboy/jcorrector",
@@ -482,6 +679,31 @@
     "language": "Python"
   },
   {
+    "fullName": "jaredwray/keyv",
+    "builder": "jaredwray",
+    "description": "Simple key-value storage with support for multiple backends",
+    "url": "https://github.com/jaredwray/keyv",
+    "stars": 3077,
+    "categories": [
+      "privacy"
+    ],
+    "score": 80,
+    "language": "TypeScript"
+  },
+  {
+    "fullName": "mikeoliphant/neural-amp-modeler-lv2",
+    "builder": "mikeoliphant",
+    "description": "Neural Amp Modeler LV2 plugin",
+    "url": "https://github.com/mikeoliphant/neural-amp-modeler-lv2",
+    "stars": 390,
+    "categories": [
+      "ai",
+      "tools"
+    ],
+    "score": 80,
+    "language": "C++"
+  },
+  {
     "fullName": "ColdWindScholar/MIO-KITCHEN-SOURCE",
     "builder": "ColdWindScholar",
     "description": "An Android Rom Tool in python",
@@ -504,6 +726,18 @@
     ],
     "score": 80,
     "language": "CSS"
+  },
+  {
+    "fullName": "rameerez/usage_credits",
+    "builder": "rameerez",
+    "description": "💳✨ Add usage-based credits to your Rails app",
+    "url": "https://github.com/rameerez/usage_credits",
+    "stars": 161,
+    "categories": [
+      "ai"
+    ],
+    "score": 80,
+    "language": "Ruby"
   },
   {
     "fullName": "DoubleGremlin181/DoubleGremlin181",
@@ -604,6 +838,18 @@
     "language": "PHP"
   },
   {
+    "fullName": "fujiwara/tracer",
+    "builder": "fujiwara",
+    "description": "ECS task event/log tracer CLI",
+    "url": "https://github.com/fujiwara/tracer",
+    "stars": 102,
+    "categories": [
+      "tools"
+    ],
+    "score": 78,
+    "language": "Go"
+  },
+  {
     "fullName": "dknowles2/pydrawise",
     "builder": "dknowles2",
     "description": "Asynchronous Python 3 library for interacting with Hydrawise sprinkler controllers through the GraphQL API",
@@ -640,6 +886,30 @@
     "language": "Python"
   },
   {
+    "fullName": "fujiwara/tfstate-lookup",
+    "builder": "fujiwara",
+    "description": "Lookup resource attributes in tfstate.",
+    "url": "https://github.com/fujiwara/tfstate-lookup",
+    "stars": 155,
+    "categories": [
+      "infra"
+    ],
+    "score": 76,
+    "language": "Go"
+  },
+  {
+    "fullName": "mikeoliphant/AudioPlugSharp",
+    "builder": "mikeoliphant",
+    "description": "Easily create VST (VST3) audio plugins in C# .NET",
+    "url": "https://github.com/mikeoliphant/AudioPlugSharp",
+    "stars": 207,
+    "categories": [
+      "tools"
+    ],
+    "score": 76,
+    "language": "C#"
+  },
+  {
     "fullName": "aimeos/ai-admin-graphql",
     "builder": "aimeos",
     "description": "Aimeos GraphQL API admin interface",
@@ -663,6 +933,18 @@
     ],
     "score": 76,
     "language": null
+  },
+  {
+    "fullName": "mikeoliphant/Stompbox",
+    "builder": "mikeoliphant",
+    "description": "Guitar amplification and effects pedalboard simulation",
+    "url": "https://github.com/mikeoliphant/Stompbox",
+    "stars": 89,
+    "categories": [
+      "games"
+    ],
+    "score": 76,
+    "language": "C++"
   },
   {
     "fullName": "abusaeeidx/Mrgify-BDIX-IPTV",
@@ -699,6 +981,18 @@
     ],
     "score": 75,
     "language": "Kotlin"
+  },
+  {
+    "fullName": "fujiwara/ecsta",
+    "builder": "fujiwara",
+    "description": "ECS Task Assistant tool.",
+    "url": "https://github.com/fujiwara/ecsta",
+    "stars": 104,
+    "categories": [
+      "tools"
+    ],
+    "score": 75,
+    "language": "Go"
   },
   {
     "fullName": "aimeos/prisma",
@@ -739,6 +1033,18 @@
     "language": "JavaScript"
   },
   {
+    "fullName": "jaredwray/mockhttp",
+    "builder": "jaredwray",
+    "description": "A simple HTTP server that can be used to mock HTTP responses for testing purposes. Inspired by httpbin and built using nodejs and fastify with the idea of running it via https://mockhttp.org, via docker jaredwray/mockhttp, or nodejs npm install jaredwray/mockhttp.",
+    "url": "https://github.com/jaredwray/mockhttp",
+    "stars": 16,
+    "categories": [
+      "infra"
+    ],
+    "score": 74,
+    "language": "TypeScript"
+  },
+  {
     "fullName": "aimeos/ai-controller-frontend",
     "builder": "aimeos",
     "description": "Aimeos frontend controler",
@@ -775,6 +1081,19 @@
     "language": "C#"
   },
   {
+    "fullName": "rameerez/slugifiable",
+    "builder": "rameerez",
+    "description": "🐌 Ruby gem to generate SEO-optimized URL slugs for your records",
+    "url": "https://github.com/rameerez/slugifiable",
+    "stars": 30,
+    "categories": [
+      "ai",
+      "privacy"
+    ],
+    "score": 72,
+    "language": "Ruby"
+  },
+  {
     "fullName": "UnknownX7/Cammy",
     "builder": "UnknownX7",
     "description": "A XIVLauncher plugin.",
@@ -785,6 +1104,18 @@
     ],
     "score": 71,
     "language": "C#"
+  },
+  {
+    "fullName": "ryandens/jlink-gradle-plugin",
+    "builder": "ryandens",
+    "description": "A set of Gradle plugins that enable the use of jlink in Gradle builds",
+    "url": "https://github.com/ryandens/jlink-gradle-plugin",
+    "stars": 21,
+    "categories": [
+      "tools"
+    ],
+    "score": 71,
+    "language": "Kotlin"
   },
   {
     "fullName": "ai-in-pm/Kali-AI",
