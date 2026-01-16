@@ -4060,6 +4060,183 @@
     ]
   },
   {
+    "username": "MaximumADHD",
+    "name": "Max",
+    "avatar": "https://avatars.githubusercontent.com/u/3926900?v=4",
+    "bio": "27 year old programmer who does too much stuff on Roblox. I write code to push limits and raise the bar!",
+    "location": "Chicagoland Area",
+    "website": "",
+    "twitter": "MaximumADHD",
+    "followers": 1751,
+    "focusAreas": [
+      "crypto",
+      "ai"
+    ],
+    "reputationScore": 100,
+    "consistencyScore": 81,
+    "lastActive": "2026-01-16T18:41:52Z",
+    "topRepos": [
+      {
+        "name": "Roblox-API-Dump-Tool",
+        "fullName": "MaximumADHD/Roblox-API-Dump-Tool",
+        "description": "A tool that lets you view and compare the latest API Dump files from Roblox's servers.",
+        "url": "https://github.com/MaximumADHD/Roblox-API-Dump-Tool",
+        "stars": 41,
+        "forks": 15,
+        "language": "C#",
+        "topics": [],
+        "categories": [],
+        "score": 115,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 2,
+        "repoAgeInDays": 2716,
+        "starVelocity": 0.02,
+        "isUnderrated": true,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": true,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "Roblox-Client-Tracker",
+        "fullName": "MaximumADHD/Roblox-Client-Tracker",
+        "description": "An automated repository that extracts and displays information about the current version of Roblox. Most of the information is miscellaneous, but it provides insight to changes that are being made with each weekly release.",
+        "url": "https://github.com/MaximumADHD/Roblox-Client-Tracker",
+        "stars": 474,
+        "forks": 63,
+        "language": "Assembly",
+        "topics": [],
+        "categories": [
+          "crypto"
+        ],
+        "score": 105,
+        "coinWorthy": true,
+        "blockchain": [
+          "solana"
+        ],
+        "frameworks": [],
+        "daysSinceLastCommit": 3,
+        "repoAgeInDays": 3093,
+        "starVelocity": 0.15,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "Roblox-Studio-Mod-Manager",
+        "fullName": "MaximumADHD/Roblox-Studio-Mod-Manager",
+        "description": "An open-source custom bootstrapper for Roblox Studio that allows you to override files in Roblox Studio's directory, opt into development branches of Roblox, and experiment with Fast Flags.",
+        "url": "https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager",
+        "stars": 352,
+        "forks": 61,
+        "language": "C#",
+        "topics": [
+          "c-sharp",
+          "lua",
+          "roblox-studio"
+        ],
+        "categories": [],
+        "score": 90,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 37,
+        "repoAgeInDays": 4002,
+        "starVelocity": 0.09,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "Roblox-File-Format",
+        "fullName": "MaximumADHD/Roblox-File-Format",
+        "description": "A C# library designed to make it easy to create and manipulate files in Roblox's serialized DOM.",
+        "url": "https://github.com/MaximumADHD/Roblox-File-Format",
+        "stars": 129,
+        "forks": 29,
+        "language": "C#",
+        "topics": [
+          "rbxl",
+          "rbxlx",
+          "rbxm",
+          "rbxmx",
+          "roblox",
+          "roblox-dom",
+          "roblox-model"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 80,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 3,
+        "repoAgeInDays": 2548,
+        "starVelocity": 0.05,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "Character-Realism",
+        "fullName": "MaximumADHD/Character-Realism",
+        "description": "A flexible character enhancement system for Roblox.",
+        "url": "https://github.com/MaximumADHD/Character-Realism",
+        "stars": 119,
+        "forks": 30,
+        "language": "Lua",
+        "topics": [],
+        "categories": [],
+        "score": 80,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 110,
+        "repoAgeInDays": 1873,
+        "starVelocity": 0.06,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
     "username": "dora4",
     "name": "跟着哆啦学安卓",
     "avatar": "https://avatars.githubusercontent.com/u/71242257?v=4",
@@ -5544,6 +5721,199 @@
         "isEarlyStage": true,
         "isActive": false,
         "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
+    "username": "mjpieters",
+    "name": "Martijn Pieters",
+    "avatar": "https://avatars.githubusercontent.com/u/46775?v=4",
+    "bio": null,
+    "location": "Cambridge, UK",
+    "website": "https://www.zopatista.com/",
+    "twitter": null,
+    "followers": 1105,
+    "focusAreas": [
+      "ai",
+      "games",
+      "crypto",
+      "defi"
+    ],
+    "reputationScore": 75,
+    "consistencyScore": 66,
+    "lastActive": "2026-01-16T18:42:18Z",
+    "topRepos": [
+      {
+        "name": "aiolimiter",
+        "fullName": "mjpieters/aiolimiter",
+        "description": "An efficient implementation of a rate limiter for asyncio.",
+        "url": "https://github.com/mjpieters/aiolimiter",
+        "stars": 729,
+        "forks": 32,
+        "language": "Python",
+        "topics": [
+          "asyncio",
+          "leaky-bucket",
+          "rate-limiting"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 80,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 2240,
+        "starVelocity": 0.33,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "RummikubConsole",
+        "fullName": "mjpieters/RummikubConsole",
+        "description": "Rummikub solver console with multi-game support and persistence.",
+        "url": "https://github.com/mjpieters/RummikubConsole",
+        "stars": 25,
+        "forks": 3,
+        "language": "Python",
+        "topics": [
+          "rummikub",
+          "rummikub-solver"
+        ],
+        "categories": [
+          "games",
+          "crypto"
+        ],
+        "score": 80,
+        "coinWorthy": true,
+        "blockchain": [
+          "solana"
+        ],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 1764,
+        "starVelocity": 0.01,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "rtfunicode",
+        "fullName": "mjpieters/rtfunicode",
+        "description": "Encoder for unicode to RTF 1.5 command sequences",
+        "url": "https://github.com/mjpieters/rtfunicode",
+        "stars": 19,
+        "forks": 4,
+        "language": "Python",
+        "topics": [
+          "python",
+          "rtf",
+          "unicode"
+        ],
+        "categories": [],
+        "score": 60,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 4972,
+        "starVelocity": 0,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "rummikub-solver",
+        "fullName": "mjpieters/rummikub-solver",
+        "description": "Fast and flexible Rummikub solver library",
+        "url": "https://github.com/mjpieters/rummikub-solver",
+        "stars": 2,
+        "forks": 0,
+        "language": "Python",
+        "topics": [
+          "milp",
+          "mixed-integer-linear-programming",
+          "rummikub",
+          "rummikub-solver"
+        ],
+        "categories": [
+          "defi",
+          "crypto"
+        ],
+        "score": 60,
+        "coinWorthy": false,
+        "blockchain": [
+          "solana"
+        ],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 204,
+        "starVelocity": 0.01,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "pyright-analysis",
+        "fullName": "mjpieters/pyright-analysis",
+        "description": "Visualise Python project type completeness",
+        "url": "https://github.com/mjpieters/pyright-analysis",
+        "stars": 15,
+        "forks": 0,
+        "language": "Python",
+        "topics": [
+          "pyright",
+          "type-safety",
+          "visualization"
+        ],
+        "categories": [],
+        "score": 50,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 1,
+        "repoAgeInDays": 386,
+        "starVelocity": 0.04,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
         "quality": {
           "hasReadme": true,
           "hasTests": false,
@@ -7398,6 +7768,381 @@
     ]
   },
   {
+    "username": "LaurenzV",
+    "name": "Laurenz Stampfl",
+    "avatar": "https://avatars.githubusercontent.com/u/47084093?v=4",
+    "bio": null,
+    "location": "Vienna, Austria",
+    "website": "",
+    "twitter": null,
+    "followers": 275,
+    "focusAreas": [],
+    "reputationScore": 45,
+    "consistencyScore": 67,
+    "lastActive": "2026-01-16T18:41:47Z",
+    "topRepos": [
+      {
+        "name": "hayro",
+        "fullName": "LaurenzV/hayro",
+        "description": "A PDF interpreter and renderer in pure Rust.",
+        "url": "https://github.com/LaurenzV/hayro",
+        "stars": 525,
+        "forks": 33,
+        "language": "Rust",
+        "topics": [],
+        "categories": [],
+        "score": 80,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 269,
+        "starVelocity": 1.95,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "krilla",
+        "fullName": "LaurenzV/krilla",
+        "description": "A high-level, ergonomic Rust library for creating PDF documents.",
+        "url": "https://github.com/LaurenzV/krilla",
+        "stars": 327,
+        "forks": 24,
+        "language": "Rust",
+        "topics": [],
+        "categories": [],
+        "score": 65,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 9,
+        "repoAgeInDays": 552,
+        "starVelocity": 0.59,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "master-thesis",
+        "fullName": "LaurenzV/master-thesis",
+        "description": "My master's thesis about the topic \"High-performance 2D graphics rendering on the CPU using sparse strips\"",
+        "url": "https://github.com/LaurenzV/master-thesis",
+        "stars": 151,
+        "forks": 3,
+        "language": "Typst",
+        "topics": [],
+        "categories": [],
+        "score": 55,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 74,
+        "repoAgeInDays": 155,
+        "starVelocity": 0.97,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      }
+    ]
+  },
+  {
+    "username": "Vann-Dev",
+    "name": "Vann",
+    "avatar": "https://avatars.githubusercontent.com/u/82990248?v=4",
+    "bio": "Currently Active on Roblox Developments\r\n\r\nTotal 900k+ Visits",
+    "location": "Indonesia",
+    "website": "https://www.vann.my.id",
+    "twitter": null,
+    "followers": 38,
+    "focusAreas": [
+      "ai",
+      "infra"
+    ],
+    "reputationScore": 45,
+    "consistencyScore": 80,
+    "lastActive": "2026-01-16T18:43:08Z",
+    "topRepos": [
+      {
+        "name": "proxy-list",
+        "fullName": "Vann-Dev/proxy-list",
+        "description": "List of public proxies, and checked to some domain like Google, Facebook, Twitter",
+        "url": "https://github.com/Vann-Dev/proxy-list",
+        "stars": 112,
+        "forks": 10,
+        "language": "Python",
+        "topics": [
+          "facebook",
+          "google",
+          "microsoft",
+          "proxies",
+          "proxy",
+          "proxy-checker",
+          "proxy-list",
+          "proxy-scraper",
+          "proxy-server",
+          "proxy-servers",
+          "socks",
+          "socks-proxy",
+          "socks4",
+          "socks5",
+          "socks5-proxy",
+          "tiktok",
+          "twitter",
+          "whatsapp",
+          "youtube"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 105,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 669,
+        "starVelocity": 0.17,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "image-proxy",
+        "fullName": "Vann-Dev/image-proxy",
+        "description": "Fast image proxy used for hiding real source Image to encrypted hash. Written in Rust",
+        "url": "https://github.com/Vann-Dev/image-proxy",
+        "stars": 2,
+        "forks": 0,
+        "language": "Rust",
+        "topics": [
+          "cargo",
+          "cargo-package",
+          "docker",
+          "dockerizing",
+          "fast-api",
+          "fast-image-proxy",
+          "http-client",
+          "http-requests",
+          "image-handling",
+          "image-processing",
+          "image-proxy",
+          "proxy-server",
+          "proxy-server-rust",
+          "reqwest",
+          "rust",
+          "rust-lang",
+          "server-side",
+          "warp",
+          "web-dev",
+          "web-framework"
+        ],
+        "categories": [
+          "infra"
+        ],
+        "score": 75,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 10,
+        "repoAgeInDays": 764,
+        "starVelocity": 0,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "auto-commits",
+        "fullName": "Vann-Dev/auto-commits",
+        "description": "Github Auto Commits, for who want the github page stay alive. Powered by Github Action",
+        "url": "https://github.com/Vann-Dev/auto-commits",
+        "stars": 2,
+        "forks": 4,
+        "language": null,
+        "topics": [
+          "auto-commit",
+          "autocommits",
+          "automation",
+          "commit",
+          "commits",
+          "github-actions"
+        ],
+        "categories": [],
+        "score": 60,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 964,
+        "starVelocity": 0,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": true,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
+    "username": "Alvin9999-newpac",
+    "name": null,
+    "avatar": "https://avatars.githubusercontent.com/u/250621294?v=4",
+    "bio": null,
+    "location": null,
+    "website": "",
+    "twitter": null,
+    "followers": 180,
+    "focusAreas": [
+      "ai",
+      "infra"
+    ],
+    "reputationScore": 45,
+    "consistencyScore": 102,
+    "lastActive": "2026-01-16T18:41:18Z",
+    "topRepos": [
+      {
+        "name": "fanqiang",
+        "fullName": "Alvin9999-newpac/fanqiang",
+        "description": "翻墙/科学上网/自由上网、fanqiang、免费翻墙、Free VPN、chatgpt、免费科学上网、一键翻墙浏览器、免费shadowsocks/ss/ssr/v2ray/hysteria/hysteria2/vmess/vless/reality/goflyway账号/节点、cloudflare优选ip、科学上网梯子、科学上网教程、油管youtube/视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、VPN、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙",
+        "url": "https://github.com/Alvin9999-newpac/fanqiang",
+        "stars": 541,
+        "forks": 60,
+        "language": "Shell",
+        "topics": [
+          "clash",
+          "fanqiang",
+          "hysteria2",
+          "kexueshangwang",
+          "reality",
+          "sing-box",
+          "ss",
+          "ssr",
+          "v2ray",
+          "vless",
+          "youtube"
+        ],
+        "categories": [
+          "ai",
+          "infra"
+        ],
+        "score": 150,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 28,
+        "starVelocity": 19.46,
+        "isUnderrated": false,
+        "isEarlyStage": true,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "Sing-Box-Plus",
+        "fullName": "Alvin9999-newpac/Sing-Box-Plus",
+        "description": "一键搭建Sing-Box多协议脚本，无需域名，开箱即用 18 个节点（直连 9 + WARP 9），节点：VLESS Reality（Vision 流）、VLESS gRPC Reality 、Trojan Reality 、VMess WS 、Hysteria2、Hysteria2 + OBFS(salamander) 、Shadowsocks 2022（2022-blake3-aes-256-gcm）、Shadowsocks（aes-256-gcm）、TUIC v5（ALPN h3，自签证书），WARP 节点，Netflix/Disney+/YouTube 等流媒体解锁",
+        "url": "https://github.com/Alvin9999-newpac/Sing-Box-Plus",
+        "stars": 27,
+        "forks": 11,
+        "language": "Shell",
+        "topics": [],
+        "categories": [
+          "infra"
+        ],
+        "score": 80,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 5,
+        "repoAgeInDays": 28,
+        "starVelocity": 0.97,
+        "isUnderrated": false,
+        "isEarlyStage": true,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "new-pac",
+        "fullName": "Alvin9999-newpac/new-pac",
+        "description": "new-pac、new-pac、new-pac、new-pac、new-pac、new-pac、new-pac、new-pac、new-pac、new-pac、new-pac、new-pac、new-pac、new-pac、new-pac、new-pac",
+        "url": "https://github.com/Alvin9999-newpac/new-pac",
+        "stars": 41,
+        "forks": 5,
+        "language": "Shell",
+        "topics": [],
+        "categories": [],
+        "score": 75,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 8,
+        "repoAgeInDays": 23,
+        "starVelocity": 1.77,
+        "isUnderrated": false,
+        "isEarlyStage": true,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      }
+    ]
+  },
+  {
     "username": "cryptoquick",
     "name": "Hunter Beast",
     "avatar": "https://avatars.githubusercontent.com/u/285690?v=4",
@@ -8087,6 +8832,262 @@
         "daysSinceLastCommit": 0,
         "repoAgeInDays": 1296,
         "starVelocity": 0.11,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
+    "username": "MrLesk",
+    "name": "Alex Gavrilescu",
+    "avatar": "https://avatars.githubusercontent.com/u/30028430?v=4",
+    "bio": "Born in Romania 👶🇷🇴  - \r\nRaised in Italy 🎓🇮🇹  - \r\nLiving in Vienna 🏛️🇦🇹  - \r\nCoding around the world 👨‍💻🗺️",
+    "location": "Vienna",
+    "website": "https://mrlesk.com",
+    "twitter": "mrlesk",
+    "followers": 93,
+    "focusAreas": [
+      "ai"
+    ],
+    "reputationScore": 30,
+    "consistencyScore": 123,
+    "lastActive": "2026-01-16T18:41:43Z",
+    "topRepos": [
+      {
+        "name": "Backlog.md",
+        "fullName": "MrLesk/Backlog.md",
+        "description": "Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem",
+        "url": "https://github.com/MrLesk/Backlog.md",
+        "stars": 4429,
+        "forks": 224,
+        "language": "TypeScript",
+        "topics": [
+          "agent",
+          "agentic-ai",
+          "management",
+          "markdown",
+          "project",
+          "task-manager",
+          "tasks"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 130,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 226,
+        "starVelocity": 19.6,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "agents-council",
+        "fullName": "MrLesk/agents-council",
+        "description": "Agent-to-Agent MCP communication tool for feedback requests",
+        "url": "https://github.com/MrLesk/agents-council",
+        "stars": 13,
+        "forks": 1,
+        "language": "TypeScript",
+        "topics": [
+          "agents",
+          "ai",
+          "collaboration",
+          "council",
+          "mcp"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 115,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 3,
+        "repoAgeInDays": 24,
+        "starVelocity": 0.54,
+        "isUnderrated": false,
+        "isEarlyStage": true,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
+    "username": "AlexNabokikh",
+    "name": "Alexander Nabokikh",
+    "avatar": "https://avatars.githubusercontent.com/u/42908293?v=4",
+    "bio": "Site Reliability Engineer.\r\nKubernetes, AWS, and CI/CD enthusiast",
+    "location": "Warsaw",
+    "website": "https://www.linkedin.com/in/nabokih/",
+    "twitter": null,
+    "followers": 20,
+    "focusAreas": [],
+    "reputationScore": 30,
+    "consistencyScore": 75,
+    "lastActive": "2026-01-16T18:41:41Z",
+    "topRepos": [
+      {
+        "name": "tfsort",
+        "fullName": "AlexNabokikh/tfsort",
+        "description": "A CLI utility to sort Terraform variables and outputs",
+        "url": "https://github.com/AlexNabokikh/tfsort",
+        "stars": 234,
+        "forks": 11,
+        "language": "Go",
+        "topics": [
+          "cli",
+          "go",
+          "golang",
+          "terraform"
+        ],
+        "categories": [],
+        "score": 80,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 107,
+        "repoAgeInDays": 1064,
+        "starVelocity": 0.22,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "nix-config",
+        "fullName": "AlexNabokikh/nix-config",
+        "description": "NixOS, Nix-Darwin and home-manager configurations.",
+        "url": "https://github.com/AlexNabokikh/nix-config",
+        "stars": 362,
+        "forks": 26,
+        "language": "Nix",
+        "topics": [],
+        "categories": [],
+        "score": 70,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 753,
+        "starVelocity": 0.48,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
+    "username": "xingpingcn",
+    "name": null,
+    "avatar": "https://avatars.githubusercontent.com/u/117259690?v=4",
+    "bio": "Noob amateur Python coder 🤓. Can ONLY code Python... Just code for fun instead of living. 😋",
+    "location": null,
+    "website": "xingpingcn.top",
+    "twitter": null,
+    "followers": 27,
+    "focusAreas": [
+      "infra",
+      "ai"
+    ],
+    "reputationScore": 30,
+    "consistencyScore": 95,
+    "lastActive": "2026-01-16T18:42:27Z",
+    "topRepos": [
+      {
+        "name": "enhanced-FaaS-in-China",
+        "fullName": "xingpingcn/enhanced-FaaS-in-China",
+        "description": "提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record. cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆",
+        "url": "https://github.com/xingpingcn/enhanced-FaaS-in-China",
+        "stars": 2784,
+        "forks": 166,
+        "language": "Python",
+        "topics": [
+          "cf-ip",
+          "china-region",
+          "cloudflare",
+          "cname-record",
+          "netlify",
+          "selected-ip",
+          "vercel-serverless"
+        ],
+        "categories": [
+          "infra"
+        ],
+        "score": 120,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 680,
+        "starVelocity": 4.09,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "china-mainland-asn",
+        "fullName": "xingpingcn/china-mainland-asn",
+        "description": "China mainland ASN classified by major China ISPs, including China Telecom（电信）, China Mobile（tietong included; 中国移动，包含铁通）, China Unicom（联通）, CERNET（教育网） and CSTNET（中国科技网）.",
+        "url": "https://github.com/xingpingcn/china-mainland-asn",
+        "stars": 18,
+        "forks": 7,
+        "language": "Python",
+        "topics": [],
+        "categories": [
+          "ai"
+        ],
+        "score": 70,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 1,
+        "repoAgeInDays": 814,
+        "starVelocity": 0.02,
         "isUnderrated": false,
         "isEarlyStage": false,
         "isActive": true,

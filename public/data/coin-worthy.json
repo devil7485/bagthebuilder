@@ -1,5 +1,21 @@
 [
   {
+    "fullName": "Alvin9999-newpac/fanqiang",
+    "builder": "Alvin9999-newpac",
+    "description": "翻墙/科学上网/自由上网、fanqiang、免费翻墙、Free VPN、chatgpt、免费科学上网、一键翻墙浏览器、免费shadowsocks/ss/ssr/v2ray/hysteria/hysteria2/vmess/vless/reality/goflyway账号/节点、cloudflare优选ip、科学上网梯子、科学上网教程、油管youtube/视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、VPN、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙、翻墙",
+    "url": "https://github.com/Alvin9999-newpac/fanqiang",
+    "stars": 541,
+    "categories": [
+      "ai",
+      "infra"
+    ],
+    "score": 150,
+    "language": "Shell",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
     "fullName": "Microck/opencode-studio",
     "builder": "Microck",
     "description": "[WIP] web GUI for securely managing local Opencode configuration",
@@ -48,6 +64,21 @@
     "blockchain": [
       "base"
     ],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "MrLesk/Backlog.md",
+    "builder": "MrLesk",
+    "description": "Backlog.md - A tool for managing project collaboration between humans and AI Agents in a git ecosystem",
+    "url": "https://github.com/MrLesk/Backlog.md",
+    "stars": 4429,
+    "categories": [
+      "ai"
+    ],
+    "score": 130,
+    "language": "TypeScript",
+    "blockchain": [],
     "isHot": true,
     "isUnderrated": false
   },
@@ -113,6 +144,21 @@
     ],
     "score": 120,
     "language": "Vue",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "xingpingcn/enhanced-FaaS-in-China",
+    "builder": "xingpingcn",
+    "description": "提升部署在cloudflare、vercel或netlify的网页在中国的访问速度和稳定性 Improve the access speed and stability in China of web pages hosted on cloudflare, vercel or netlify by merely changing your CNAME record. cf优选域名 | cf优选ip | cloudflare | vercel | netlify | 加速 | 国内 | 中国 | 境内 | 大陆",
+    "url": "https://github.com/xingpingcn/enhanced-FaaS-in-China",
+    "stars": 2784,
+    "categories": [
+      "infra"
+    ],
+    "score": 120,
+    "language": "Python",
     "blockchain": [],
     "isHot": true,
     "isUnderrated": false
@@ -188,6 +234,21 @@
     ],
     "score": 115,
     "language": "Python",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "MrLesk/agents-council",
+    "builder": "MrLesk",
+    "description": "Agent-to-Agent MCP communication tool for feedback requests",
+    "url": "https://github.com/MrLesk/agents-council",
+    "stars": 13,
+    "categories": [
+      "ai"
+    ],
+    "score": 115,
+    "language": "TypeScript",
     "blockchain": [],
     "isHot": true,
     "isUnderrated": false
@@ -317,6 +378,40 @@
     "isUnderrated": false
   },
   {
+    "fullName": "ShatakVPN/ConfigForge-V2Ray",
+    "builder": "ShatakVPN",
+    "description": "A powerful tool to automatically download, parse, and organize VPN configurations (VLESS, VMess, Shadowsocks, etc.) and push updates to GitHub.",
+    "url": "https://github.com/ShatakVPN/ConfigForge-V2Ray",
+    "stars": 116,
+    "categories": [
+      "crypto"
+    ],
+    "score": 110,
+    "language": "Python",
+    "blockchain": [
+      "polygon"
+    ],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "MaximumADHD/Roblox-Client-Tracker",
+    "builder": "MaximumADHD",
+    "description": "An automated repository that extracts and displays information about the current version of Roblox. Most of the information is miscellaneous, but it provides insight to changes that are being made with each weekly release.",
+    "url": "https://github.com/MaximumADHD/Roblox-Client-Tracker",
+    "stars": 474,
+    "categories": [
+      "crypto"
+    ],
+    "score": 105,
+    "language": "Assembly",
+    "blockchain": [
+      "solana"
+    ],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
     "fullName": "amieiro/disposable-email-domains",
     "builder": "amieiro",
     "description": "Disposable email domain lists, used in disposable email services, generated every quarter of an hour, in txt and JSON format.",
@@ -345,6 +440,21 @@
     "language": "JavaScript",
     "blockchain": [],
     "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "Vann-Dev/proxy-list",
+    "builder": "Vann-Dev",
+    "description": "List of public proxies, and checked to some domain like Google, Facebook, Twitter",
+    "url": "https://github.com/Vann-Dev/proxy-list",
+    "stars": 112,
+    "categories": [
+      "ai"
+    ],
+    "score": 105,
+    "language": "Python",
+    "blockchain": [],
+    "isHot": true,
     "isUnderrated": false
   },
   {
@@ -913,6 +1023,51 @@
     "isUnderrated": false
   },
   {
+    "fullName": "jhealy/awesome",
+    "builder": "jhealy",
+    "description": "My set of links I can't throw away.  Slow migration from dfwiki.  may be its own wiki again one day.",
+    "url": "https://github.com/jhealy/awesome",
+    "stars": 60,
+    "categories": [
+      "ai"
+    ],
+    "score": 80,
+    "language": "Shell",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "MaximumADHD/Roblox-File-Format",
+    "builder": "MaximumADHD",
+    "description": "A C# library designed to make it easy to create and manipulate files in Roblox's serialized DOM.",
+    "url": "https://github.com/MaximumADHD/Roblox-File-Format",
+    "stars": 129,
+    "categories": [
+      "ai"
+    ],
+    "score": 80,
+    "language": "C#",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "mjpieters/aiolimiter",
+    "builder": "mjpieters",
+    "description": "An efficient implementation of a rate limiter for asyncio.",
+    "url": "https://github.com/mjpieters/aiolimiter",
+    "stars": 729,
+    "categories": [
+      "ai"
+    ],
+    "score": 80,
+    "language": "Python",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
     "fullName": "aimeos/ai-cms-grapesjs",
     "builder": "aimeos",
     "description": "GrapesJS CMS integration into Aimeos",
@@ -924,6 +1079,24 @@
     "score": 80,
     "language": "PHP",
     "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "mjpieters/RummikubConsole",
+    "builder": "mjpieters",
+    "description": "Rummikub solver console with multi-game support and persistence.",
+    "url": "https://github.com/mjpieters/RummikubConsole",
+    "stars": 25,
+    "categories": [
+      "games",
+      "crypto"
+    ],
+    "score": 80,
+    "language": "Python",
+    "blockchain": [
+      "solana"
+    ],
     "isHot": true,
     "isUnderrated": false
   },
@@ -1111,6 +1284,21 @@
     ],
     "score": 80,
     "language": "Python",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "Alvin9999-newpac/Sing-Box-Plus",
+    "builder": "Alvin9999-newpac",
+    "description": "一键搭建Sing-Box多协议脚本，无需域名，开箱即用 18 个节点（直连 9 + WARP 9），节点：VLESS Reality（Vision 流）、VLESS gRPC Reality 、Trojan Reality 、VMess WS 、Hysteria2、Hysteria2 + OBFS(salamander) 、Shadowsocks 2022（2022-blake3-aes-256-gcm）、Shadowsocks（aes-256-gcm）、TUIC v5（ALPN h3，自签证书），WARP 节点，Netflix/Disney+/YouTube 等流媒体解锁",
+    "url": "https://github.com/Alvin9999-newpac/Sing-Box-Plus",
+    "stars": 27,
+    "categories": [
+      "infra"
+    ],
+    "score": 80,
+    "language": "Shell",
     "blockchain": [],
     "isHot": true,
     "isUnderrated": false
@@ -1336,6 +1524,21 @@
       "polygon"
     ],
     "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "xingpingcn/china-mainland-asn",
+    "builder": "xingpingcn",
+    "description": "China mainland ASN classified by major China ISPs, including China Telecom（电信）, China Mobile（tietong included; 中国移动，包含铁通）, China Unicom（联通）, CERNET（教育网） and CSTNET（中国科技网）.",
+    "url": "https://github.com/xingpingcn/china-mainland-asn",
+    "stars": 18,
+    "categories": [
+      "ai"
+    ],
+    "score": 70,
+    "language": "Python",
+    "blockchain": [],
+    "isHot": true,
     "isUnderrated": false
   },
   {
