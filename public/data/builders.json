@@ -4835,6 +4835,464 @@
     ]
   },
   {
+    "username": "lofcz",
+    "name": "Matěj Štágl",
+    "avatar": "https://avatars.githubusercontent.com/u/10260230?v=4",
+    "bio": "Intel ISEF & EUCYS alumni, AI Awards laureate. In a love-hate relationship with MSSQL. I enjoy writing parsers. .NET, Python, TS",
+    "location": "Wonderland",
+    "website": "https://llmtornado.ai",
+    "twitter": null,
+    "followers": 99,
+    "focusAreas": [
+      "defi",
+      "crypto",
+      "ai"
+    ],
+    "reputationScore": 100,
+    "consistencyScore": 78,
+    "lastActive": "2026-01-17T11:35:58Z",
+    "topRepos": [
+      {
+        "name": "Infidex",
+        "fullName": "lofcz/Infidex",
+        "description": "The high-performance .NET search engine based on pattern recognition.",
+        "url": "https://github.com/lofcz/Infidex",
+        "stars": 232,
+        "forks": 10,
+        "language": "C#",
+        "topics": [
+          "autocomplete",
+          "autocomplete-search",
+          "autocomplete-suggestions",
+          "bm25",
+          "fulltext-index",
+          "fulltext-search",
+          "index",
+          "maxscore",
+          "query",
+          "retrieval",
+          "search",
+          "search-engine",
+          "suggestion-engine",
+          "suggestions",
+          "text",
+          "tfidf",
+          "type-ahead",
+          "wand"
+        ],
+        "categories": [
+          "defi",
+          "crypto"
+        ],
+        "score": 140,
+        "coinWorthy": true,
+        "blockchain": [
+          "base"
+        ],
+        "frameworks": [],
+        "daysSinceLastCommit": 18,
+        "repoAgeInDays": 57,
+        "starVelocity": 4.06,
+        "isUnderrated": false,
+        "isEarlyStage": true,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "LLMTornado",
+        "fullName": "lofcz/LLMTornado",
+        "description": "The .NET library to build AI agents with 25+ built-in connectors.",
+        "url": "https://github.com/lofcz/LLMTornado",
+        "stars": 535,
+        "forks": 91,
+        "language": "C#",
+        "topics": [
+          "a2a",
+          "agent",
+          "agent-framework",
+          "agent-orchestration",
+          "agent2agent",
+          "agentic-ai",
+          "agentic-rag",
+          "agentic-workflow",
+          "agents",
+          "agents-sdk",
+          "ai",
+          "artificial-intelligence",
+          "dotnet",
+          "dotnet-core",
+          "mcp",
+          "multi-agent",
+          "orchestration",
+          "rag",
+          "sdk",
+          "workflow"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 110,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 2,
+        "repoAgeInDays": 832,
+        "starVelocity": 0.64,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "ai",
+        "fullName": "lofcz/ai",
+        "description": "Vibes only",
+        "url": "https://github.com/lofcz/ai",
+        "stars": 58,
+        "forks": 2,
+        "language": "C#",
+        "topics": [
+          "dotnet",
+          "interceptors",
+          "meme",
+          "memes",
+          "roslyn",
+          "source-generator",
+          "vibe-coding",
+          "vibecoding"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 90,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 36,
+        "repoAgeInDays": 37,
+        "starVelocity": 1.59,
+        "isUnderrated": false,
+        "isEarlyStage": true,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "NordSharp",
+        "fullName": "lofcz/NordSharp",
+        "description": "A .NET library & CLI tool to control NordVPN",
+        "url": "https://github.com/lofcz/NordSharp",
+        "stars": 9,
+        "forks": 1,
+        "language": "C#",
+        "topics": [
+          "cli",
+          "dotnet",
+          "nord-vpn",
+          "vpn"
+        ],
+        "categories": [],
+        "score": 90,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 19,
+        "repoAgeInDays": 19,
+        "starVelocity": 0.47,
+        "isUnderrated": false,
+        "isEarlyStage": true,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "FastCloner",
+        "fullName": "lofcz/FastCloner",
+        "description": "The fastest deep cloning library for .NET – zero-config, works out of the box.",
+        "url": "https://github.com/lofcz/FastCloner",
+        "stars": 298,
+        "forks": 11,
+        "language": "C#",
+        "topics": [
+          "aot",
+          "cloner",
+          "csharp-sourcegenerator",
+          "deep-clone",
+          "deep-cloning",
+          "deep-copy",
+          "deepclone",
+          "deepcopy",
+          "dotnet",
+          "dotnet-core",
+          "duplication",
+          "roslyn",
+          "source-gen",
+          "source-generator",
+          "sourcegenerator"
+        ],
+        "categories": [],
+        "score": 80,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 375,
+        "starVelocity": 0.79,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": true,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
+    "username": "Clownacy",
+    "name": null,
+    "avatar": "https://avatars.githubusercontent.com/u/7667009?v=4",
+    "bio": "Professional programming maniac and Mega Drive enthusiast. 'Rust'? More like 'rubbish'. 😏😏😏",
+    "location": "England",
+    "website": "https://clownacy.com",
+    "twitter": null,
+    "followers": 180,
+    "focusAreas": [
+      "crypto",
+      "games"
+    ],
+    "reputationScore": 100,
+    "consistencyScore": 60,
+    "lastActive": "2026-01-17T11:35:35Z",
+    "topRepos": [
+      {
+        "name": "clownmdemu-frontend",
+        "fullName": "Clownacy/clownmdemu-frontend",
+        "description": "Reference standalone frontend for ClownMDEmu, a Sega Mega Drive/Sega Genesis emulator.",
+        "url": "https://github.com/Clownacy/clownmdemu-frontend",
+        "stars": 100,
+        "forks": 11,
+        "language": "C",
+        "topics": [
+          "cplusplus-20",
+          "dear-imgui",
+          "emulator",
+          "genesis",
+          "mega-drive",
+          "megadrive",
+          "sdl3"
+        ],
+        "categories": [
+          "crypto"
+        ],
+        "score": 80,
+        "coinWorthy": true,
+        "blockchain": [
+          "solana"
+        ],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 1083,
+        "starVelocity": 0.09,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "clownmdemu-core",
+        "fullName": "Clownacy/clownmdemu-core",
+        "description": "Sega Mega Drive/Sega Genesis emulator that emphasises portability.",
+        "url": "https://github.com/Clownacy/clownmdemu-core",
+        "stars": 110,
+        "forks": 9,
+        "language": "C",
+        "topics": [
+          "68000",
+          "68k",
+          "ansi-c",
+          "emulator",
+          "genesis",
+          "m68k",
+          "mega-cd",
+          "mega-drive",
+          "megadrive",
+          "motorola-68000",
+          "sega-cd",
+          "sega-genesis",
+          "sega-mega-drive",
+          "sn76489",
+          "sn76496",
+          "yamaha",
+          "ym2612",
+          "ym3438",
+          "z80",
+          "zilog"
+        ],
+        "categories": [],
+        "score": 70,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 1,
+        "repoAgeInDays": 1572,
+        "starVelocity": 0.07,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "clowncd",
+        "fullName": "Clownacy/clowncd",
+        "description": "Libraries and tools for interacting with Compact Disc images.",
+        "url": "https://github.com/Clownacy/clowncd",
+        "stars": 2,
+        "forks": 0,
+        "language": "C",
+        "topics": [
+          "cd-audio",
+          "cue-sheet",
+          "cuesheet"
+        ],
+        "categories": [],
+        "score": 65,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 22,
+        "repoAgeInDays": 659,
+        "starVelocity": 0,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "clownassembler",
+        "fullName": "Clownacy/clownassembler",
+        "description": "Motorola 68000 assembler, clone of SN 68k (A.K.A. asm68k).",
+        "url": "https://github.com/Clownacy/clownassembler",
+        "stars": 71,
+        "forks": 9,
+        "language": "C",
+        "topics": [
+          "68000",
+          "68k",
+          "ansi-c",
+          "assembler",
+          "assembly",
+          "bison",
+          "bison-flex",
+          "c89",
+          "c90",
+          "flex",
+          "motorola-68000"
+        ],
+        "categories": [],
+        "score": 60,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 60,
+        "repoAgeInDays": 1369,
+        "starVelocity": 0.05,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "clown68000",
+        "fullName": "Clownacy/clown68000",
+        "description": "Motorola 68000 emulator and disassembler library.",
+        "url": "https://github.com/Clownacy/clown68000",
+        "stars": 14,
+        "forks": 4,
+        "language": "C",
+        "topics": [
+          "68000",
+          "68k",
+          "ansi-c",
+          "c89",
+          "c90",
+          "cpu-emulator",
+          "emulator",
+          "m68k",
+          "motorola",
+          "motorola-68000"
+        ],
+        "categories": [],
+        "score": 55,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 14,
+        "repoAgeInDays": 1086,
+        "starVelocity": 0.01,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
     "username": "dora4",
     "name": "跟着哆啦学安卓",
     "avatar": "https://avatars.githubusercontent.com/u/71242257?v=4",
@@ -8660,6 +9118,141 @@
     ]
   },
   {
+    "username": "vanodevium",
+    "name": "Vano Devium",
+    "avatar": "https://avatars.githubusercontent.com/u/16780069?v=4",
+    "bio": null,
+    "location": "Ukraine",
+    "website": "https://www.devium.me/",
+    "twitter": "vanodevium",
+    "followers": 55,
+    "focusAreas": [
+      "infra",
+      "ai"
+    ],
+    "reputationScore": 60,
+    "consistencyScore": 71,
+    "lastActive": "2026-01-17T11:36:25Z",
+    "topRepos": [
+      {
+        "name": "node-framework-stars",
+        "fullName": "vanodevium/node-framework-stars",
+        "description": "A list of popular GitHub projects related to Node.js web frameworks (ranked by stars)",
+        "url": "https://github.com/vanodevium/node-framework-stars",
+        "stars": 218,
+        "forks": 19,
+        "language": "JavaScript",
+        "topics": [],
+        "categories": [
+          "infra"
+        ],
+        "score": 105,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 2264,
+        "starVelocity": 0.1,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "go-framework-stars",
+        "fullName": "vanodevium/go-framework-stars",
+        "description": "A list of popular GitHub projects related to Golang web framework (ranked by stars)",
+        "url": "https://github.com/vanodevium/go-framework-stars",
+        "stars": 6,
+        "forks": 0,
+        "language": "JavaScript",
+        "topics": [],
+        "categories": [],
+        "score": 65,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 919,
+        "starVelocity": 0.01,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "php-framework-stars",
+        "fullName": "vanodevium/php-framework-stars",
+        "description": "A list of popular GitHub projects related to PHP web framework (ranked by stars)",
+        "url": "https://github.com/vanodevium/php-framework-stars",
+        "stars": 1,
+        "forks": 0,
+        "language": "JavaScript",
+        "topics": [],
+        "categories": [],
+        "score": 65,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 924,
+        "starVelocity": 0,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "toml",
+        "fullName": "vanodevium/toml",
+        "description": "PHP library for encoding and decoding TOML",
+        "url": "https://github.com/vanodevium/toml",
+        "stars": 37,
+        "forks": 2,
+        "language": "PHP",
+        "topics": [],
+        "categories": [
+          "ai"
+        ],
+        "score": 50,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 93,
+        "repoAgeInDays": 528,
+        "starVelocity": 0.07,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
     "username": "stschiff",
     "name": "Stephan Schiffels",
     "avatar": "https://avatars.githubusercontent.com/u/446618?v=4",
@@ -12042,6 +12635,618 @@
         "daysSinceLastCommit": 2,
         "repoAgeInDays": 2768,
         "starVelocity": 0.02,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
+    "username": "heypoom",
+    "name": "Phoomparin Mano",
+    "avatar": "https://avatars.githubusercontent.com/u/4714175?v=4",
+    "bio": "Loves TypeScript, Svelte, Rust and CLI. Frontend Engineer at @metabase. Building Patchies.app. Hosts stuff at @creatorsgarten.",
+    "location": "Bangkok, Thailand.",
+    "website": "https://poom.dev",
+    "twitter": "heypoom",
+    "followers": 814,
+    "focusAreas": [
+      "infra"
+    ],
+    "reputationScore": 30,
+    "consistencyScore": 85,
+    "lastActive": "2026-01-17T11:36:13Z",
+    "topRepos": [
+      {
+        "name": "patchies",
+        "fullName": "heypoom/patchies",
+        "description": "Patchies is a creative coding patcher for audio-visual things that runs on the web. Connect tools and libraries you know and try out new ones ✨",
+        "url": "https://github.com/heypoom/patchies",
+        "stars": 110,
+        "forks": 4,
+        "language": "TypeScript",
+        "topics": [
+          "algorave",
+          "art",
+          "assembly",
+          "assembly-language",
+          "audio-visual",
+          "creative-coding",
+          "design",
+          "glsl",
+          "hydra",
+          "javascript",
+          "live-coding",
+          "p5js",
+          "rust",
+          "sound",
+          "strudel",
+          "svelte",
+          "typescript",
+          "uxn",
+          "uxntal",
+          "xyflow"
+        ],
+        "categories": [],
+        "score": 100,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 182,
+        "starVelocity": 0.6,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "dotfiles",
+        "fullName": "heypoom/dotfiles",
+        "description": "Poom's Neovim, Tmux, Fish and other configurations for macOS & Linux. Literally my entire world.",
+        "url": "https://github.com/heypoom/dotfiles",
+        "stars": 54,
+        "forks": 7,
+        "language": "Lua",
+        "topics": [
+          "docker",
+          "dotfile",
+          "dotfiles",
+          "fish",
+          "linux",
+          "macos",
+          "neovim",
+          "nvim",
+          "nvimrc",
+          "tmux",
+          "tmux-conf",
+          "vim",
+          "vimrc",
+          "vscode"
+        ],
+        "categories": [
+          "infra"
+        ],
+        "score": 70,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 7,
+        "repoAgeInDays": 3087,
+        "starVelocity": 0.02,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      }
+    ]
+  },
+  {
+    "username": "geekjourneyx",
+    "name": "geekjourney",
+    "avatar": "https://avatars.githubusercontent.com/u/24422856?v=4",
+    "bio": "老实憨厚的技术人｜出海实战派｜专注AI编程，AI工具｜公众号：极客杰尼",
+    "location": "china",
+    "website": "https://geekjourney.dev",
+    "twitter": "seekjourney",
+    "followers": 57,
+    "focusAreas": [
+      "ai"
+    ],
+    "reputationScore": 30,
+    "consistencyScore": 110,
+    "lastActive": "2026-01-17T11:36:06Z",
+    "topRepos": [
+      {
+        "name": "md2wechat-skill",
+        "fullName": "geekjourneyx/md2wechat-skill",
+        "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。https://md2wechat.cn",
+        "url": "https://github.com/geekjourneyx/md2wechat-skill",
+        "stars": 140,
+        "forks": 22,
+        "language": "Go",
+        "topics": [
+          "claude-skills",
+          "golang",
+          "markdown-converter",
+          "skills",
+          "wechat"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 110,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 6,
+        "starVelocity": 22.55,
+        "isUnderrated": false,
+        "isEarlyStage": true,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "ai-daily-skill",
+        "fullName": "geekjourneyx/ai-daily-skill",
+        "description": "AI 资讯日报 Claude Code Skill - 每天自动获取、分析、归类 AI 前沿资讯",
+        "url": "https://github.com/geekjourneyx/ai-daily-skill",
+        "stars": 111,
+        "forks": 51,
+        "language": "Python",
+        "topics": [
+          "ai",
+          "ai-news",
+          "claude-skills"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 110,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 3,
+        "starVelocity": 40,
+        "isUnderrated": false,
+        "isEarlyStage": true,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      }
+    ]
+  },
+  {
+    "username": "chenqimiao",
+    "name": "Qimiao Chen",
+    "avatar": "https://avatars.githubusercontent.com/u/15151483?v=4",
+    "bio": null,
+    "location": null,
+    "website": "https://www.cnblogs.com/think-in-java/",
+    "twitter": null,
+    "followers": 69,
+    "focusAreas": [
+      "privacy"
+    ],
+    "reputationScore": 30,
+    "consistencyScore": 108,
+    "lastActive": "2026-01-17T11:37:24Z",
+    "topRepos": [
+      {
+        "name": "qm-music",
+        "fullName": "chenqimiao/qm-music",
+        "description": "🎧☁️ Your Private Music Service",
+        "url": "https://github.com/chenqimiao/qm-music",
+        "stars": 507,
+        "forks": 41,
+        "language": "Java",
+        "topics": [
+          "music",
+          "music-server",
+          "self-hosted",
+          "subsonic-server"
+        ],
+        "categories": [
+          "privacy"
+        ],
+        "score": 120,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 296,
+        "starVelocity": 1.71,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "quarkdrive-webdav",
+        "fullName": "chenqimiao/quarkdrive-webdav",
+        "description": "夸克网盘 WebDAV 服务",
+        "url": "https://github.com/chenqimiao/quarkdrive-webdav",
+        "stars": 185,
+        "forks": 23,
+        "language": "Rust",
+        "topics": [
+          "quarkdrive",
+          "quarkdrive-client",
+          "webdav-server"
+        ],
+        "categories": [],
+        "score": 95,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 1,
+        "repoAgeInDays": 219,
+        "starVelocity": 0.84,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
+    "username": "dushixiang",
+    "name": "dushixiang",
+    "avatar": "https://avatars.githubusercontent.com/u/17633733?v=4",
+    "bio": "完成比完美更重要。",
+    "location": null,
+    "website": "https://www.typesafe.cn",
+    "twitter": "typeaudit",
+    "followers": 224,
+    "focusAreas": [
+      "ai"
+    ],
+    "reputationScore": 30,
+    "consistencyScore": 93,
+    "lastActive": "2026-01-17T11:36:14Z",
+    "topRepos": [
+      {
+        "name": "uart_sms_forwarder",
+        "fullName": "dushixiang/uart_sms_forwarder",
+        "description": "Air780 短信UART转发器",
+        "url": "https://github.com/dushixiang/uart_sms_forwarder",
+        "stars": 166,
+        "forks": 30,
+        "language": "TypeScript",
+        "topics": [],
+        "categories": [
+          "ai"
+        ],
+        "score": 95,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 7,
+        "repoAgeInDays": 37,
+        "starVelocity": 4.49,
+        "isUnderrated": false,
+        "isEarlyStage": true,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "pika",
+        "fullName": "dushixiang/pika",
+        "description": "服务器监控",
+        "url": "https://github.com/dushixiang/pika",
+        "stars": 234,
+        "forks": 37,
+        "language": "Go",
+        "topics": [],
+        "categories": [],
+        "score": 90,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 68,
+        "starVelocity": 3.45,
+        "isUnderrated": false,
+        "isEarlyStage": true,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
+    "username": "Lily-404",
+    "name": "Jimmy",
+    "avatar": "https://avatars.githubusercontent.com/u/69883652?v=4",
+    "bio": null,
+    "location": null,
+    "website": "https://www.jimmy-blog.top/",
+    "twitter": null,
+    "followers": 34,
+    "focusAreas": [
+      "crypto"
+    ],
+    "reputationScore": 30,
+    "consistencyScore": 55,
+    "lastActive": "2026-01-17T11:35:58Z",
+    "topRepos": [
+      {
+        "name": "blog",
+        "fullName": "Lily-404/blog",
+        "description": "",
+        "url": "https://github.com/Lily-404/blog",
+        "stars": 159,
+        "forks": 26,
+        "language": "TypeScript",
+        "topics": [],
+        "categories": [],
+        "score": 60,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 287,
+        "starVelocity": 0.55,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "BrowseBase",
+        "fullName": "Lily-404/BrowseBase",
+        "description": "",
+        "url": "https://github.com/Lily-404/BrowseBase",
+        "stars": 11,
+        "forks": 0,
+        "language": "TypeScript",
+        "topics": [],
+        "categories": [
+          "crypto"
+        ],
+        "score": 50,
+        "coinWorthy": false,
+        "blockchain": [
+          "base"
+        ],
+        "frameworks": [],
+        "daysSinceLastCommit": 3,
+        "repoAgeInDays": 270,
+        "starVelocity": 0.04,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      }
+    ]
+  },
+  {
+    "username": "KouShenhai",
+    "name": "laokou",
+    "avatar": "https://avatars.githubusercontent.com/u/48756217?v=4",
+    "bio": null,
+    "location": null,
+    "website": "koushenhai.github.io",
+    "twitter": null,
+    "followers": 64,
+    "focusAreas": [
+      "infra",
+      "ai"
+    ],
+    "reputationScore": 30,
+    "consistencyScore": 85,
+    "lastActive": "2026-01-17T11:35:41Z",
+    "topRepos": [
+      {
+        "name": "KCloud-Platform-IoT",
+        "fullName": "KouShenhai/KCloud-Platform-IoT",
+        "description": "KCloud-Platform-IoT（老寇IoT云平台）是一个企业级微服务架构的IoT云平台。采用DDD(领域驱动设计)思想，基于Spring Boot 4.0.1、Spring Cloud 2025.1.0、Spring Cloud Alibaba 2025.0.0.0 最新版本开发的云服务多租户IoT平台，家人们，点个star！拜托啦~",
+        "url": "https://github.com/KouShenhai/KCloud-Platform-IoT",
+        "stars": 635,
+        "forks": 148,
+        "language": "Java",
+        "topics": [
+          "ddd",
+          "elasticsearch",
+          "grpc",
+          "iot",
+          "kafka",
+          "modbus",
+          "mongodb",
+          "mqtt",
+          "mybatis",
+          "mybatis-plus",
+          "nacos",
+          "netty",
+          "postgresql",
+          "redis",
+          "spring-authorization-server",
+          "spring-boot",
+          "spring-cloud",
+          "spring-cloud-alibaba",
+          "tcp",
+          "udp"
+        ],
+        "categories": [
+          "infra",
+          "infra"
+        ],
+        "score": 120,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 1101,
+        "starVelocity": 0.58,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "koushenhai.github.io",
+        "fullName": "KouShenhai/koushenhai.github.io",
+        "description": "老寇IoT云平台技术文档",
+        "url": "https://github.com/KouShenhai/koushenhai.github.io",
+        "stars": 1,
+        "forks": 2,
+        "language": "HTML",
+        "topics": [],
+        "categories": [
+          "ai"
+        ],
+        "score": 50,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 1054,
+        "starVelocity": 0,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      }
+    ]
+  },
+  {
+    "username": "cluntop",
+    "name": null,
+    "avatar": "https://avatars.githubusercontent.com/u/85211716?v=4",
+    "bio": "ClunTop(雨呢)",
+    "location": null,
+    "website": "https://clun.top",
+    "twitter": null,
+    "followers": 28,
+    "focusAreas": [],
+    "reputationScore": 30,
+    "consistencyScore": 63,
+    "lastActive": "2026-01-17T11:35:34Z",
+    "topRepos": [
+      {
+        "name": "tvbox",
+        "fullName": "cluntop/tvbox",
+        "description": "TVBox 接口 / TVBox Interface",
+        "url": "https://github.com/cluntop/tvbox",
+        "stars": 243,
+        "forks": 106,
+        "language": "Python",
+        "topics": [],
+        "categories": [],
+        "score": 70,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 581,
+        "starVelocity": 0.42,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "tv",
+        "fullName": "cluntop/tv",
+        "description": "TVBox interface",
+        "url": "https://github.com/cluntop/tv",
+        "stars": 13,
+        "forks": 3,
+        "language": "Python",
+        "topics": [],
+        "categories": [],
+        "score": 55,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 130,
+        "starVelocity": 0.1,
         "isUnderrated": false,
         "isEarlyStage": false,
         "isActive": true,

@@ -16,6 +16,24 @@
     "isUnderrated": false
   },
   {
+    "fullName": "lofcz/Infidex",
+    "builder": "lofcz",
+    "description": "The high-performance .NET search engine based on pattern recognition.",
+    "url": "https://github.com/lofcz/Infidex",
+    "stars": 232,
+    "categories": [
+      "defi",
+      "crypto"
+    ],
+    "score": 140,
+    "language": "C#",
+    "blockchain": [
+      "base"
+    ],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
     "fullName": "Microck/opencode-studio",
     "builder": "Microck",
     "description": "[WIP] web GUI for securely managing local Opencode configuration",
@@ -117,6 +135,22 @@
     "isUnderrated": false
   },
   {
+    "fullName": "mksshare/mksshare.github.io",
+    "builder": "mksshare",
+    "description": "每日分享免费节点、免费机场、ssr节点、v2ray节点、v2ray订阅、clash节点、clash订阅、shadowrocket订阅、Quantumult X订阅、Clash .NET订阅、小火箭节点、小猫咪节点、免费翻墙、免费科学上网、免费梯子、免费trojan节点、蓝灯、谷歌商店、翻墙梯子、安卓VPN、iphone翻墙节点、iphone vpn、一键翻墙浏览器、节点分享、免费SSR、蓝灯、谷歌商店、V2ary免费节点、代理、proxy代理科学上网、TG代理、电报代理、Telegram代理、ip加速、翻墙软件、socks5、破解VPN、机场推荐、节点订阅、破解VPN、ChatGPT",
+    "url": "https://github.com/mksshare/mksshare.github.io",
+    "stars": 1235,
+    "categories": [
+      "infra",
+      "ai"
+    ],
+    "score": 125,
+    "language": null,
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
     "fullName": "aimeos/aimeos-core",
     "builder": "aimeos",
     "description": "Aimeos PHP e-commerce framework for ultra fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce",
@@ -167,6 +201,22 @@
     "isUnderrated": false
   },
   {
+    "fullName": "KouShenhai/KCloud-Platform-IoT",
+    "builder": "KouShenhai",
+    "description": "KCloud-Platform-IoT（老寇IoT云平台）是一个企业级微服务架构的IoT云平台。采用DDD(领域驱动设计)思想，基于Spring Boot 4.0.1、Spring Cloud 2025.1.0、Spring Cloud Alibaba 2025.0.0.0 最新版本开发的云服务多租户IoT平台，家人们，点个star！拜托啦~",
+    "url": "https://github.com/KouShenhai/KCloud-Platform-IoT",
+    "stars": 635,
+    "categories": [
+      "infra",
+      "infra"
+    ],
+    "score": 120,
+    "language": "Java",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
     "fullName": "aimeos/pagible",
     "builder": "aimeos",
     "description": "Easy, flexible and powerful cloud-native Laravel CMS package powered by AI with JSON:API, GraphQL APIs, templates, and themes",
@@ -178,6 +228,21 @@
     ],
     "score": 120,
     "language": "Vue",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "duggytuxy/Data-Shield_IPv4_Blocklist",
+    "builder": "duggytuxy",
+    "description": "Data-Shield IPv4 Blocklist contains the latest data for blocking IPs generating malicious traffic and activities.",
+    "url": "https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist",
+    "stars": 367,
+    "categories": [
+      "ai"
+    ],
+    "score": 120,
+    "language": "Shell",
     "blockchain": [],
     "isHot": true,
     "isUnderrated": false
@@ -228,6 +293,38 @@
     "language": "C++",
     "blockchain": [
       "solana"
+    ],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "chenqimiao/qm-music",
+    "builder": "chenqimiao",
+    "description": "🎧☁️ Your Private Music Service",
+    "url": "https://github.com/chenqimiao/qm-music",
+    "stars": 507,
+    "categories": [
+      "privacy"
+    ],
+    "score": 120,
+    "language": "Java",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "vivizzz007/vivi-music",
+    "builder": "vivizzz007",
+    "description": "Vivi-Music is an expressive Material 3–based YouTube Music client for Android.",
+    "url": "https://github.com/vivizzz007/vivi-music",
+    "stars": 485,
+    "categories": [
+      "crypto"
+    ],
+    "score": 120,
+    "language": "Kotlin",
+    "blockchain": [
+      "base"
     ],
     "isHot": true,
     "isUnderrated": false
@@ -350,6 +447,21 @@
     "isUnderrated": false
   },
   {
+    "fullName": "weizhiqiang1995/erp-pro",
+    "builder": "weizhiqiang1995",
+    "description": "Skyeye云零代码，采用Springboot + UNI-APP + Ant Design Vue的框架的快速开发平台。包含50多种电子流程，CRM、PM、ERP、MES、ADM、OA、EHR、AI、项目、商城、财务、多班次考勤、薪资、招聘、云售后、论坛、问卷、报表设计、工作流、Saas等功能。打造全网首套零代码、功能最全、价格最优惠的智能制造行业供应链一体化管理软件。",
+    "url": "https://github.com/weizhiqiang1995/erp-pro",
+    "stars": 597,
+    "categories": [
+      "ai"
+    ],
+    "score": 110,
+    "language": "Java",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
     "fullName": "h4ck3r0/Apktool-termux",
     "builder": "h4ck3r0",
     "description": "Apktool 2.12.1 For Termux , Version : 2.12.1 , Maintained",
@@ -405,6 +517,21 @@
     ],
     "score": 110,
     "language": "Python",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "lofcz/LLMTornado",
+    "builder": "lofcz",
+    "description": "The .NET library to build AI agents with 25+ built-in connectors.",
+    "url": "https://github.com/lofcz/LLMTornado",
+    "stars": 535,
+    "categories": [
+      "ai"
+    ],
+    "score": 110,
+    "language": "C#",
     "blockchain": [],
     "isHot": true,
     "isUnderrated": false
@@ -493,6 +620,36 @@
     "isUnderrated": false
   },
   {
+    "fullName": "geekjourneyx/md2wechat-skill",
+    "builder": "geekjourneyx",
+    "description": "  用 Markdown 写公众号文章，一键转换为精美排版并自动上传到微信草稿箱。支持 AI 多主题样式和批量发布，让公众号写作像发朋友圈一样简单。https://md2wechat.cn",
+    "url": "https://github.com/geekjourneyx/md2wechat-skill",
+    "stars": 140,
+    "categories": [
+      "ai"
+    ],
+    "score": 110,
+    "language": "Go",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "geekjourneyx/ai-daily-skill",
+    "builder": "geekjourneyx",
+    "description": "AI 资讯日报 Claude Code Skill - 每天自动获取、分析、归类 AI 前沿资讯",
+    "url": "https://github.com/geekjourneyx/ai-daily-skill",
+    "stars": 111,
+    "categories": [
+      "ai"
+    ],
+    "score": 110,
+    "language": "Python",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
     "fullName": "MaximumADHD/Roblox-Client-Tracker",
     "builder": "MaximumADHD",
     "description": "An automated repository that extracts and displays information about the current version of Roblox. Most of the information is miscellaneous, but it provides insight to changes that are being made with each weekly release.",
@@ -506,6 +663,21 @@
     "blockchain": [
       "solana"
     ],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "vanodevium/node-framework-stars",
+    "builder": "vanodevium",
+    "description": "A list of popular GitHub projects related to Node.js web frameworks (ranked by stars)",
+    "url": "https://github.com/vanodevium/node-framework-stars",
+    "stars": 218,
+    "categories": [
+      "infra"
+    ],
+    "score": 105,
+    "language": "JavaScript",
+    "blockchain": [],
     "isHot": true,
     "isUnderrated": false
   },
@@ -1416,6 +1588,23 @@
     "isUnderrated": false
   },
   {
+    "fullName": "Clownacy/clownmdemu-frontend",
+    "builder": "Clownacy",
+    "description": "Reference standalone frontend for ClownMDEmu, a Sega Mega Drive/Sega Genesis emulator.",
+    "url": "https://github.com/Clownacy/clownmdemu-frontend",
+    "stars": 100,
+    "categories": [
+      "crypto"
+    ],
+    "score": 80,
+    "language": "C",
+    "blockchain": [
+      "solana"
+    ],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
     "fullName": "RiseInRose/AgentGPT-zh",
     "builder": "RiseInRose",
     "description": "AgentGPT 中文部署文档翻译，一句话让你懂它是什么",
@@ -1898,6 +2087,21 @@
     "isUnderrated": false
   },
   {
+    "fullName": "heypoom/dotfiles",
+    "builder": "heypoom",
+    "description": "Poom's Neovim, Tmux, Fish and other configurations for macOS & Linux. Literally my entire world.",
+    "url": "https://github.com/heypoom/dotfiles",
+    "stars": 54,
+    "categories": [
+      "infra"
+    ],
+    "score": 70,
+    "language": "Lua",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
     "fullName": "web3-master/token-gated-video-clips",
     "builder": "web3-master",
     "description": "Simple video clip sharing marketplace protected by NFT token gating.",
@@ -2039,6 +2243,25 @@
     "score": 70,
     "language": "PowerShell",
     "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "lofcz/MimeTypeCore",
+    "builder": "lofcz",
+    "description": "All the MIME/file extension pairs you will ever need. Comes with optional, magic bytes-based collision resolution.",
+    "url": "https://github.com/lofcz/MimeTypeCore",
+    "stars": 81,
+    "categories": [
+      "ai",
+      "crypto"
+    ],
+    "score": 70,
+    "language": "C#",
+    "blockchain": [
+      "solana",
+      "base"
+    ],
     "isHot": false,
     "isUnderrated": false
   },
