@@ -3,11 +3,11 @@ import type { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Bag The Builder | Discover Underrated Crypto & AI Builders',
+  title: 'GitBags | Discover Underrated Crypto & AI Builders',
   description: 'Find talented individual developers building the future of crypto, AI, privacy, and infrastructure. Support their work through Bags.fm.',
   keywords: ['crypto', 'blockchain', 'AI', 'builders', 'developers', 'web3', 'bags.fm'],
   openGraph: {
-    title: 'Bag The Builder',
+    title: 'GitBags',
     description: 'Discover underrated builders creating amazing projects',
     type: 'website',
   },
@@ -31,7 +31,7 @@ export default function RootLayout({
                   🎒
                 </div>
                 <span className="text-xl font-black font-display group-hover:text-accent transition">
-                  BAG THE BUILDER
+                  GitBags
                 </span>
               </Link>
 
@@ -44,12 +44,12 @@ export default function RootLayout({
                   Discover
                 </Link>
                 <a
-                  href="https://github.com/yourusername/bagthebuilder"
+                  href="https://bags.fm"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-sm font-semibold hover:text-accent transition"
                 >
-                  GitHub
+                  $GitBags
                 </a>
                 <a
                   href="https://bags.fm"
@@ -89,7 +89,7 @@ export default function RootLayout({
                   <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-accent to-accent/80 flex items-center justify-center text-xl">
                     🎒
                   </div>
-                  <span className="font-black font-display">BAG THE BUILDER</span>
+                  <span className="font-black font-display">GitBags</span>
                 </div>
                 <p className="text-sm text-white/60 leading-relaxed">
                   Discovering and showcasing talented individual developers building

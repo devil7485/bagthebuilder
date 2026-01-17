@@ -36,11 +36,7 @@ type RepoCardProps = {
 };
 
 export default function RepoCard({ repo }: RepoCardProps) {
-  const bagsUrl = `https://bags.fm?name=${encodeURIComponent(
-    repo.name
-  )}&symbol=${encodeURIComponent(
-    repo.name.toUpperCase().slice(0, 4)
-  )}&description=${encodeURIComponent(repo.description)}`;
+  const bagsUrl = "https://bags.fm/?ref=emmabaeeex";
 
   return (
     <div className="relative group h-full">
