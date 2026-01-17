@@ -16,6 +16,22 @@
     "isUnderrated": false
   },
   {
+    "fullName": "goodroot/hyprwhspr",
+    "builder": "goodroot",
+    "description": " Native speech-to-text for Linux - Fast, accurate and private system-wide dictation",
+    "url": "https://github.com/goodroot/hyprwhspr",
+    "stars": 723,
+    "categories": [
+      "privacy",
+      "ai"
+    ],
+    "score": 140,
+    "language": "Python",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
     "fullName": "lofcz/Infidex",
     "builder": "lofcz",
     "description": "The high-performance .NET search engine based on pattern recognition.",
@@ -46,6 +62,26 @@
     "language": "TypeScript",
     "blockchain": [],
     "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "1038lab/ComfyUI-FlashVSR",
+    "builder": "1038lab",
+    "description": "Powerful ComfyUI custom node built on the FlashVSR V1.1 model, facilitating real-time diffusion-based video super-resolution for streaming applications.",
+    "url": "https://github.com/1038lab/ComfyUI-FlashVSR",
+    "stars": 77,
+    "categories": [
+      "infra",
+      "ai",
+      "crypto"
+    ],
+    "score": 135,
+    "language": "Python",
+    "blockchain": [
+      "solana",
+      "base"
+    ],
+    "isHot": false,
     "isUnderrated": false
   },
   {
@@ -148,6 +184,22 @@
     "language": null,
     "blockchain": [],
     "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "rix4uni/subhijack",
+    "builder": "rix4uni",
+    "description": "A fast and efficient subdomain hijacking scanner that checks for takeover vulnerabilities by matching HTTP response bodies against predefined service fingerprints.",
+    "url": "https://github.com/rix4uni/subhijack",
+    "stars": 28,
+    "categories": [
+      "defi",
+      "ai"
+    ],
+    "score": 125,
+    "language": "Go",
+    "blockchain": [],
+    "isHot": false,
     "isUnderrated": false
   },
   {
@@ -365,6 +417,21 @@
     "isUnderrated": false
   },
   {
+    "fullName": "1038lab/ComfyUI-NodeAlign",
+    "builder": "1038lab",
+    "description": "Lightweight alignment toolbar for ComfyUI graphs. Provides quick align, equal size, and distribution actions with optional keyboard shortcuts.",
+    "url": "https://github.com/1038lab/ComfyUI-NodeAlign",
+    "stars": 31,
+    "categories": [
+      "infra"
+    ],
+    "score": 120,
+    "language": "JavaScript",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
     "fullName": "davidkimai/aisecforge",
     "builder": "davidkimai",
     "description": "Open-source resources for systematic adversarial testing, evaluation, and security hardening of large language models. This repository consolidates novel methodologies for identifying, classifying, and mitigating security vulnerabilities in frontier AI systems.",
@@ -407,6 +474,21 @@
     "stars": 13,
     "categories": [
       "ai"
+    ],
+    "score": 115,
+    "language": "TypeScript",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "Divkix/Logwell",
+    "builder": "Divkix",
+    "description": "Self-hosted logging platform with real-time streaming, full-text search, and OTLP-compatible ingestion. Deploy in minutes, own your data.",
+    "url": "https://github.com/Divkix/Logwell",
+    "stars": 35,
+    "categories": [
+      "infra"
     ],
     "score": 115,
     "language": "TypeScript",
@@ -552,6 +634,21 @@
     "isUnderrated": false
   },
   {
+    "fullName": "rix4uni/gitxpose",
+    "builder": "rix4uni",
+    "description": "Discover GitHub repositories and hunt for leaked credentials with style",
+    "url": "https://github.com/rix4uni/gitxpose",
+    "stars": 12,
+    "categories": [
+      "ai"
+    ],
+    "score": 110,
+    "language": "Go",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": true
+  },
+  {
     "fullName": "Hunterdii/30-Days-Of-Rust",
     "builder": "Hunterdii",
     "description": "🦀 30 Days of Rust is a daily challenge to guide you through Rust programming essentials. From basics to advanced, this repo offers 📚 clear examples, 🔧 practical exercises, and 🎯 resources to help you master Rust, one day at a time. Whether you're new or refining your skills, this challenge has something for you. Join the journey now! 🚀",
@@ -588,12 +685,43 @@
     "isUnderrated": false
   },
   {
+    "fullName": "rix4uni/nucleihubquery",
+    "builder": "rix4uni",
+    "description": "A bash script that extracts `shodan-query, google-query, censys-query, fofa-query, hunter-query, zoomeye-query` in nucleihub-templates.",
+    "url": "https://github.com/rix4uni/nucleihubquery",
+    "stars": 15,
+    "categories": [
+      "ai"
+    ],
+    "score": 110,
+    "language": "Shell",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": true
+  },
+  {
     "fullName": "SpaceTimee/Fusion-JetBrainsMapleMono",
     "builder": "SpaceTimee",
     "description": "JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono",
     "url": "https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono",
     "stars": 1839,
     "categories": [
+      "ai"
+    ],
+    "score": 110,
+    "language": "Python",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "1038lab/ComfyUI-QwenVL",
+    "builder": "1038lab",
+    "description": "ComfyUI-QwenVL custom node: Integrates the Qwen-VL series, including Qwen2.5-VL and the latest Qwen3-VL, with GGUF support for advanced multimodal AI in text generation, image understanding, and video analysis.",
+    "url": "https://github.com/1038lab/ComfyUI-QwenVL",
+    "stars": 564,
+    "categories": [
+      "infra",
       "ai"
     ],
     "score": 110,
@@ -910,6 +1038,22 @@
     "isUnderrated": true
   },
   {
+    "fullName": "1038lab/ComfyUI-RMBG",
+    "builder": "1038lab",
+    "description": "A ComfyUI custom node designed for advanced image background removal and object, face, clothes, and fashion segmentation, utilizing multiple models including RMBG-2.0, INSPYRENET, BEN, BEN2, BiRefNet, SDMatte, SAM, SAM2, SAM3 and GroundingDINO.",
+    "url": "https://github.com/1038lab/ComfyUI-RMBG",
+    "stars": 1667,
+    "categories": [
+      "infra",
+      "ai"
+    ],
+    "score": 100,
+    "language": "Python",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
     "fullName": "aimeos/prisma",
     "builder": "aimeos",
     "description": "Light-weight PHP package for integrating multi-media related Large Language Models (LLMs) using a unified interface",
@@ -1005,6 +1149,22 @@
       "solana"
     ],
     "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "rix4uni/pyxss",
+    "builder": "rix4uni",
+    "description": "Simple XSS vulnerability checker tool very useful with xsschecker.",
+    "url": "https://github.com/rix4uni/pyxss",
+    "stars": 28,
+    "categories": [
+      "infra",
+      "ai"
+    ],
+    "score": 95,
+    "language": "Python",
+    "blockchain": [],
+    "isHot": false,
     "isUnderrated": false
   },
   {
@@ -1105,6 +1265,24 @@
     "language": "PHP",
     "blockchain": [
       "base"
+    ],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "fontanf/packingsolver",
+    "builder": "fontanf",
+    "description": "A solver for (geometrical) packing problems",
+    "url": "https://github.com/fontanf/packingsolver",
+    "stars": 189,
+    "categories": [
+      "ai",
+      "crypto"
+    ],
+    "score": 90,
+    "language": "C++",
+    "blockchain": [
+      "solana"
     ],
     "isHot": true,
     "isUnderrated": false
@@ -1290,6 +1468,36 @@
     "isUnderrated": false
   },
   {
+    "fullName": "rix4uni/jsmanager",
+    "builder": "rix4uni",
+    "description": "A high-performance Go tool for discovering and extracting JavaScript files from domains. JSManager aggregates results from multiple reconnaissance tools and verifies JavaScript URLs in parallel.",
+    "url": "https://github.com/rix4uni/jsmanager",
+    "stars": 6,
+    "categories": [
+      "ai"
+    ],
+    "score": 90,
+    "language": "Go",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "rix4uni/commoncrawlscans",
+    "builder": "rix4uni",
+    "description": "A high-performance Go tool for scanning CommonCrawl index files, extracting URLs, and filtering them by file extensions. This tool processes CommonCrawl data concurrently and efficiently extracts URLs matching specific file types.",
+    "url": "https://github.com/rix4uni/commoncrawlscans",
+    "stars": 5,
+    "categories": [
+      "defi"
+    ],
+    "score": 90,
+    "language": "Go",
+    "blockchain": [],
+    "isHot": true,
+    "isUnderrated": false
+  },
+  {
     "fullName": "sanand0/eslint-plugin-template",
     "builder": "sanand0",
     "description": "Parses out template declarations found in js and html files.",
@@ -1333,6 +1541,23 @@
     "language": "HTML",
     "blockchain": [],
     "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "fontanf/stablesolver",
+    "builder": "fontanf",
+    "description": "A solver for the maximum(-weight) independent set and the maximum(-weight) clique problems",
+    "url": "https://github.com/fontanf/stablesolver",
+    "stars": 8,
+    "categories": [
+      "crypto"
+    ],
+    "score": 85,
+    "language": "C++",
+    "blockchain": [
+      "solana"
+    ],
+    "isHot": false,
     "isUnderrated": false
   },
   {
@@ -1399,6 +1624,38 @@
     "language": null,
     "blockchain": [],
     "isHot": true,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "1038lab/ComfyUI-JoyCaption",
+    "builder": "1038lab",
+    "description": "Joy Caption is a ComfyUI node using the LLaVA model to generate stylized image captions, supporting batch processing and GGUF models.",
+    "url": "https://github.com/1038lab/ComfyUI-JoyCaption",
+    "stars": 208,
+    "categories": [
+      "infra",
+      "ai"
+    ],
+    "score": 85,
+    "language": "Python",
+    "blockchain": [],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "1038lab/ComfyUI-DeepSeek-OCR",
+    "builder": "1038lab",
+    "description": "A powerful OCR node for ComfyUI that integrates the DeepSeek-OCR model from Hugging Face.",
+    "url": "https://github.com/1038lab/ComfyUI-DeepSeek-OCR",
+    "stars": 13,
+    "categories": [
+      "infra",
+      "ai"
+    ],
+    "score": 85,
+    "language": null,
+    "blockchain": [],
+    "isHot": false,
     "isUnderrated": false
   },
   {
@@ -2262,6 +2519,22 @@
       "solana",
       "base"
     ],
+    "isHot": false,
+    "isUnderrated": false
+  },
+  {
+    "fullName": "1038lab/ComfyUI-VoxCPMTTS",
+    "builder": "1038lab",
+    "description": "A clean, efficient ComfyUI custom node for VoxCPM TTS (Text-to-Speech) functionality. This implementation provides high-quality speech generation and voice cloning capabilities using the VoxCPM 1.5 model.",
+    "url": "https://github.com/1038lab/ComfyUI-VoxCPMTTS",
+    "stars": 29,
+    "categories": [
+      "infra",
+      "ai"
+    ],
+    "score": 70,
+    "language": "Python",
+    "blockchain": [],
     "isHot": false,
     "isUnderrated": false
   },

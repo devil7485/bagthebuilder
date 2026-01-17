@@ -5293,6 +5293,629 @@
     ]
   },
   {
+    "username": "rix4uni",
+    "name": "Bhagirath Saxena",
+    "avatar": "https://avatars.githubusercontent.com/u/72344025?v=4",
+    "bio": null,
+    "location": "India",
+    "website": "https://krazeplanet.com",
+    "twitter": "rix4uni",
+    "followers": 291,
+    "focusAreas": [
+      "defi",
+      "ai",
+      "infra"
+    ],
+    "reputationScore": 100,
+    "consistencyScore": 94,
+    "lastActive": "2026-01-17T18:42:45Z",
+    "topRepos": [
+      {
+        "name": "subhijack",
+        "fullName": "rix4uni/subhijack",
+        "description": "A fast and efficient subdomain hijacking scanner that checks for takeover vulnerabilities by matching HTTP response bodies against predefined service fingerprints.",
+        "url": "https://github.com/rix4uni/subhijack",
+        "stars": 28,
+        "forks": 6,
+        "language": "Go",
+        "topics": [],
+        "categories": [
+          "defi",
+          "ai"
+        ],
+        "score": 125,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 28,
+        "repoAgeInDays": 28,
+        "starVelocity": 1.01,
+        "isUnderrated": false,
+        "isEarlyStage": true,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "nucleihubquery",
+        "fullName": "rix4uni/nucleihubquery",
+        "description": "A bash script that extracts `shodan-query, google-query, censys-query, fofa-query, hunter-query, zoomeye-query` in nucleihub-templates.",
+        "url": "https://github.com/rix4uni/nucleihubquery",
+        "stars": 15,
+        "forks": 8,
+        "language": "Shell",
+        "topics": [
+          "bug-bounty",
+          "bugbounty",
+          "bugbountytips",
+          "censys",
+          "fofa",
+          "google",
+          "hacking",
+          "hunter",
+          "infosec",
+          "nuclei",
+          "nuclei-templates",
+          "nucleihub-templates",
+          "osint",
+          "pentesting",
+          "recon",
+          "reconnaissance",
+          "security",
+          "security-tools",
+          "shodan",
+          "zoomeye"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 110,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 52,
+        "repoAgeInDays": 344,
+        "starVelocity": 0.04,
+        "isUnderrated": true,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": true,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "gitxpose",
+        "fullName": "rix4uni/gitxpose",
+        "description": "Discover GitHub repositories and hunt for leaked credentials with style",
+        "url": "https://github.com/rix4uni/gitxpose",
+        "stars": 12,
+        "forks": 4,
+        "language": "Go",
+        "topics": [
+          "bugbounty",
+          "enumeration",
+          "github-osint",
+          "github-repository-search",
+          "github-user-search",
+          "osint",
+          "penetration-testing",
+          "penetration-testing-tools",
+          "pentesting",
+          "pentesting-tools",
+          "recon",
+          "reconnaissance",
+          "security"
+        ],
+        "categories": [
+          "ai"
+        ],
+        "score": 110,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 59,
+        "repoAgeInDays": 467,
+        "starVelocity": 0.03,
+        "isUnderrated": true,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": true,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "pyxss",
+        "fullName": "rix4uni/pyxss",
+        "description": "Simple XSS vulnerability checker tool very useful with xsschecker.",
+        "url": "https://github.com/rix4uni/pyxss",
+        "stars": 28,
+        "forks": 11,
+        "language": "Python",
+        "topics": [
+          "bugbounty",
+          "masshuntxss",
+          "recon",
+          "reconnaissance",
+          "vulnerability",
+          "xss",
+          "xss-automation",
+          "xsschecker",
+          "xssvalidator"
+        ],
+        "categories": [
+          "infra",
+          "ai"
+        ],
+        "score": 95,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 57,
+        "repoAgeInDays": 508,
+        "starVelocity": 0.06,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "commoncrawlscans",
+        "fullName": "rix4uni/commoncrawlscans",
+        "description": "A high-performance Go tool for scanning CommonCrawl index files, extracting URLs, and filtering them by file extensions. This tool processes CommonCrawl data concurrently and efficiently extracts URLs matching specific file types.",
+        "url": "https://github.com/rix4uni/commoncrawlscans",
+        "stars": 5,
+        "forks": 0,
+        "language": "Go",
+        "topics": [],
+        "categories": [
+          "defi"
+        ],
+        "score": 90,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 5,
+        "repoAgeInDays": 29,
+        "starVelocity": 0.17,
+        "isUnderrated": false,
+        "isEarlyStage": true,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      }
+    ]
+  },
+  {
+    "username": "fontanf",
+    "name": "Florian Fontan",
+    "avatar": "https://avatars.githubusercontent.com/u/34056598?v=4",
+    "bio": "Ph.D., Optimization engineer",
+    "location": "Grenoble, France",
+    "website": "",
+    "twitter": null,
+    "followers": 153,
+    "focusAreas": [
+      "ai",
+      "crypto",
+      "defi"
+    ],
+    "reputationScore": 100,
+    "consistencyScore": 66,
+    "lastActive": "2026-01-17T18:41:44Z",
+    "topRepos": [
+      {
+        "name": "packingsolver",
+        "fullName": "fontanf/packingsolver",
+        "description": "A solver for (geometrical) packing problems",
+        "url": "https://github.com/fontanf/packingsolver",
+        "stars": 189,
+        "forks": 34,
+        "language": "C++",
+        "topics": [
+          "2d-bin-packing",
+          "3d-bin-packing",
+          "3d-bin-packing-problem",
+          "bin-packing",
+          "bin-packing-problem",
+          "container-loading",
+          "container-loading-problem",
+          "cutting-and-packing",
+          "cutting-stock",
+          "cutting-stock-problem",
+          "irregular-packing",
+          "knapsack-problem",
+          "laser-cutting",
+          "nesting",
+          "packing",
+          "packing-algorithm",
+          "packing-problem",
+          "rectangle-packing",
+          "strip-packing"
+        ],
+        "categories": [
+          "ai",
+          "crypto"
+        ],
+        "score": 90,
+        "coinWorthy": true,
+        "blockchain": [
+          "solana"
+        ],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 2174,
+        "starVelocity": 0.09,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "stablesolver",
+        "fullName": "fontanf/stablesolver",
+        "description": "A solver for the maximum(-weight) independent set and the maximum(-weight) clique problems",
+        "url": "https://github.com/fontanf/stablesolver",
+        "stars": 8,
+        "forks": 1,
+        "language": "C++",
+        "topics": [
+          "maximum-clique",
+          "maximum-independent-set",
+          "maximum-weighted-independent-set",
+          "vertex-cover"
+        ],
+        "categories": [
+          "crypto"
+        ],
+        "score": 85,
+        "coinWorthy": true,
+        "blockchain": [
+          "solana"
+        ],
+        "frameworks": [],
+        "daysSinceLastCommit": 28,
+        "repoAgeInDays": 1967,
+        "starVelocity": 0,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "mathoptsolverscmake",
+        "fullName": "fontanf/mathoptsolverscmake",
+        "description": "CMake wrappers for mathematical optimization solvers",
+        "url": "https://github.com/fontanf/mathoptsolverscmake",
+        "stars": 0,
+        "forks": 4,
+        "language": "C++",
+        "topics": [],
+        "categories": [
+          "crypto"
+        ],
+        "score": 75,
+        "coinWorthy": false,
+        "blockchain": [
+          "solana",
+          "polygon"
+        ],
+        "frameworks": [],
+        "daysSinceLastCommit": 9,
+        "repoAgeInDays": 640,
+        "starVelocity": 0,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "optimizationtools",
+        "fullName": "fontanf/optimizationtools",
+        "description": "",
+        "url": "https://github.com/fontanf/optimizationtools",
+        "stars": 6,
+        "forks": 2,
+        "language": "C++",
+        "topics": [],
+        "categories": [],
+        "score": 70,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 22,
+        "repoAgeInDays": 2972,
+        "starVelocity": 0,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "columngenerationsolver",
+        "fullName": "fontanf/columngenerationsolver",
+        "description": "A solver based on column generation",
+        "url": "https://github.com/fontanf/columngenerationsolver",
+        "stars": 39,
+        "forks": 9,
+        "language": "C++",
+        "topics": [
+          "column-generation"
+        ],
+        "categories": [
+          "crypto"
+        ],
+        "score": 65,
+        "coinWorthy": false,
+        "blockchain": [
+          "solana",
+          "base"
+        ],
+        "frameworks": [],
+        "daysSinceLastCommit": 21,
+        "repoAgeInDays": 1840,
+        "starVelocity": 0.02,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
+    "username": "1038lab",
+    "name": "AI Lab",
+    "avatar": "https://avatars.githubusercontent.com/u/129358391?v=4",
+    "bio": null,
+    "location": null,
+    "website": "",
+    "twitter": null,
+    "followers": 175,
+    "focusAreas": [
+      "infra",
+      "ai",
+      "crypto"
+    ],
+    "reputationScore": 100,
+    "consistencyScore": 89,
+    "lastActive": "2026-01-17T18:41:40Z",
+    "topRepos": [
+      {
+        "name": "ComfyUI-FlashVSR",
+        "fullName": "1038lab/ComfyUI-FlashVSR",
+        "description": "Powerful ComfyUI custom node built on the FlashVSR V1.1 model, facilitating real-time diffusion-based video super-resolution for streaming applications.",
+        "url": "https://github.com/1038lab/ComfyUI-FlashVSR",
+        "stars": 77,
+        "forks": 9,
+        "language": "Python",
+        "topics": [
+          "comfyui",
+          "customnodes",
+          "flashvsr"
+        ],
+        "categories": [
+          "infra",
+          "ai",
+          "crypto"
+        ],
+        "score": 135,
+        "coinWorthy": true,
+        "blockchain": [
+          "solana",
+          "base"
+        ],
+        "frameworks": [],
+        "daysSinceLastCommit": 61,
+        "repoAgeInDays": 85,
+        "starVelocity": 0.91,
+        "isUnderrated": false,
+        "isEarlyStage": true,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "ComfyUI-NodeAlign",
+        "fullName": "1038lab/ComfyUI-NodeAlign",
+        "description": "Lightweight alignment toolbar for ComfyUI graphs. Provides quick align, equal size, and distribution actions with optional keyboard shortcuts.",
+        "url": "https://github.com/1038lab/ComfyUI-NodeAlign",
+        "stars": 31,
+        "forks": 1,
+        "language": "JavaScript",
+        "topics": [],
+        "categories": [
+          "infra"
+        ],
+        "score": 120,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 29,
+        "repoAgeInDays": 30,
+        "starVelocity": 1.05,
+        "isUnderrated": false,
+        "isEarlyStage": true,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "ComfyUI-QwenVL",
+        "fullName": "1038lab/ComfyUI-QwenVL",
+        "description": "ComfyUI-QwenVL custom node: Integrates the Qwen-VL series, including Qwen2.5-VL and the latest Qwen3-VL, with GGUF support for advanced multimodal AI in text generation, image understanding, and video analysis.",
+        "url": "https://github.com/1038lab/ComfyUI-QwenVL",
+        "stars": 564,
+        "forks": 63,
+        "language": "Python",
+        "topics": [
+          "comfyui",
+          "customnodes",
+          "qwen-vl",
+          "qwen3-vl"
+        ],
+        "categories": [
+          "infra",
+          "ai"
+        ],
+        "score": 110,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 5,
+        "repoAgeInDays": 294,
+        "starVelocity": 1.92,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": true,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "ComfyUI-RMBG",
+        "fullName": "1038lab/ComfyUI-RMBG",
+        "description": "A ComfyUI custom node designed for advanced image background removal and object, face, clothes, and fashion segmentation, utilizing multiple models including RMBG-2.0, INSPYRENET, BEN, BEN2, BiRefNet, SDMatte, SAM, SAM2, SAM3 and GroundingDINO.",
+        "url": "https://github.com/1038lab/ComfyUI-RMBG",
+        "stars": 1667,
+        "forks": 88,
+        "language": "Python",
+        "topics": [
+          "comfyui",
+          "comfyui-nodes",
+          "image",
+          "mask",
+          "remove-background",
+          "segmentation",
+          "stable-diffusion"
+        ],
+        "categories": [
+          "infra",
+          "ai"
+        ],
+        "score": 100,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 429,
+        "starVelocity": 3.89,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "ComfyUI-API-Manager",
+        "fullName": "1038lab/ComfyUI-API-Manager",
+        "description": "LLM API Manager for ComfyUI",
+        "url": "https://github.com/1038lab/ComfyUI-API-Manager",
+        "stars": 1,
+        "forks": 3,
+        "language": null,
+        "topics": [
+          "api-key",
+          "comfyui",
+          "customnodes",
+          "llm"
+        ],
+        "categories": [
+          "infra",
+          "ai"
+        ],
+        "score": 90,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 67,
+        "repoAgeInDays": 68,
+        "starVelocity": 0.01,
+        "isUnderrated": false,
+        "isEarlyStage": true,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
     "username": "dora4",
     "name": "跟着哆啦学安卓",
     "avatar": "https://avatars.githubusercontent.com/u/71242257?v=4",
@@ -6024,6 +6647,172 @@
           "hasTests": false,
           "hasCI": false,
           "hasLicense": false
+        }
+      }
+    ]
+  },
+  {
+    "username": "fdciabdul",
+    "name": "taqin",
+    "avatar": "https://avatars.githubusercontent.com/u/31664438?v=4",
+    "bio": null,
+    "location": "Indonesia",
+    "website": "https://imtaqin.id",
+    "twitter": null,
+    "followers": 564,
+    "focusAreas": [
+      "infra"
+    ],
+    "reputationScore": 90,
+    "consistencyScore": 83,
+    "lastActive": "2026-01-17T18:42:07Z",
+    "topRepos": [
+      {
+        "name": "Vpngate-Scraper-API",
+        "fullName": "fdciabdul/Vpngate-Scraper-API",
+        "description": "fresh oVPN config from vpngate.net ",
+        "url": "https://github.com/fdciabdul/Vpngate-Scraper-API",
+        "stars": 69,
+        "forks": 29,
+        "language": "JavaScript",
+        "topics": [],
+        "categories": [],
+        "score": 95,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 840,
+        "starVelocity": 0.08,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "Google-Trends-Keywords-Scraper",
+        "fullName": "fdciabdul/Google-Trends-Keywords-Scraper",
+        "description": "Scraping Trends Keywords from Google ( All Country)",
+        "url": "https://github.com/fdciabdul/Google-Trends-Keywords-Scraper",
+        "stars": 132,
+        "forks": 44,
+        "language": "JavaScript",
+        "topics": [],
+        "categories": [],
+        "score": 95,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 1449,
+        "starVelocity": 0.09,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "termux-whatsapp-bot",
+        "fullName": "fdciabdul/termux-whatsapp-bot",
+        "description": "Lightweight Whatsapp Bot",
+        "url": "https://github.com/fdciabdul/termux-whatsapp-bot",
+        "stars": 77,
+        "forks": 70,
+        "language": "JavaScript",
+        "topics": [
+          "whatsapp-bot"
+        ],
+        "categories": [],
+        "score": 95,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 6,
+        "repoAgeInDays": 2052,
+        "starVelocity": 0.04,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "wa-rs",
+        "fullName": "fdciabdul/wa-rs",
+        "description": "A multi-session REST API gateway for WhatsApp Web client built with Rust.",
+        "url": "https://github.com/fdciabdul/wa-rs",
+        "stars": 9,
+        "forks": 1,
+        "language": "Rust",
+        "topics": [
+          "wa-rust",
+          "whatsapp-gateway",
+          "whatsapp-rust"
+        ],
+        "categories": [],
+        "score": 85,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 15,
+        "repoAgeInDays": 18,
+        "starVelocity": 0.51,
+        "isUnderrated": false,
+        "isEarlyStage": true,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      },
+      {
+        "name": "whatsapp-cloud-api",
+        "fullName": "fdciabdul/whatsapp-cloud-api",
+        "description": "Rust SDK for WhatsApp Cloud API (Meta Business Platform)",
+        "url": "https://github.com/fdciabdul/whatsapp-cloud-api",
+        "stars": 0,
+        "forks": 0,
+        "language": "Rust",
+        "topics": [],
+        "categories": [
+          "infra"
+        ],
+        "score": 70,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 6,
+        "repoAgeInDays": 6,
+        "starVelocity": 0,
+        "isUnderrated": false,
+        "isEarlyStage": true,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
         }
       }
     ]
@@ -10129,8 +10918,8 @@
       "infra"
     ],
     "reputationScore": 45,
-    "consistencyScore": 80,
-    "lastActive": "2026-01-16T18:43:08Z",
+    "consistencyScore": 0,
+    "lastActive": "2026-01-17T18:42:53Z",
     "topRepos": [
       {
         "name": "proxy-list",
@@ -10278,14 +11067,14 @@
     "location": null,
     "website": "",
     "twitter": null,
-    "followers": 180,
+    "followers": 186,
     "focusAreas": [
       "ai",
       "infra"
     ],
     "reputationScore": 45,
-    "consistencyScore": 102,
-    "lastActive": "2026-01-16T18:41:18Z",
+    "consistencyScore": 0,
+    "lastActive": "2026-01-17T18:41:18Z",
     "topRepos": [
       {
         "name": "fanqiang",
@@ -11017,6 +11806,225 @@
           "hasTests": false,
           "hasCI": false,
           "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
+    "username": "Divkix",
+    "name": "Divanshu Chauhan (divkix)",
+    "avatar": "https://avatars.githubusercontent.com/u/23524935?v=4",
+    "bio": "22 | Arizona State University",
+    "location": "Tempe, Arizona",
+    "website": "https://divkix.me",
+    "twitter": "Divkix",
+    "followers": 58,
+    "focusAreas": [
+      "infra",
+      "ai"
+    ],
+    "reputationScore": 45,
+    "consistencyScore": 83,
+    "lastActive": "2026-01-17T18:42:02Z",
+    "topRepos": [
+      {
+        "name": "Logwell",
+        "fullName": "Divkix/Logwell",
+        "description": "Self-hosted logging platform with real-time streaming, full-text search, and OTLP-compatible ingestion. Deploy in minutes, own your data.",
+        "url": "https://github.com/Divkix/Logwell",
+        "stars": 35,
+        "forks": 0,
+        "language": "TypeScript",
+        "topics": [
+          "log-ingestion",
+          "logging",
+          "otlp",
+          "postgresql",
+          "self-hosted"
+        ],
+        "categories": [
+          "infra"
+        ],
+        "score": 115,
+        "coinWorthy": true,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 1,
+        "repoAgeInDays": 16,
+        "starVelocity": 2.18,
+        "isUnderrated": false,
+        "isEarlyStage": true,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "Alita_Robot",
+        "fullName": "Divkix/Alita_Robot",
+        "description": "🤖 Alita is a Telegram Group management bot made using Gotgbot and Go, which makes it modern and ⏩ faster than most of the Telegram chat managers. 💬",
+        "url": "https://github.com/Divkix/Alita_Robot",
+        "stars": 224,
+        "forks": 307,
+        "language": "Go",
+        "topics": [
+          "bot",
+          "golang",
+          "gotgbot",
+          "telegram",
+          "telegram-bot"
+        ],
+        "categories": [],
+        "score": 70,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 1910,
+        "starVelocity": 0.12,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "ai-code-improvement-platform",
+        "fullName": "Divkix/ai-code-improvement-platform",
+        "description": "AI powered code improvement platform using Voyage AI, Qdrant, MongoDB and Claude Sonnet 4",
+        "url": "https://github.com/Divkix/ai-code-improvement-platform",
+        "stars": 2,
+        "forks": 0,
+        "language": "Go",
+        "topics": [],
+        "categories": [
+          "ai"
+        ],
+        "score": 65,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 59,
+        "repoAgeInDays": 181,
+        "starVelocity": 0.01,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      }
+    ]
+  },
+  {
+    "username": "frankmcsherry",
+    "name": "Frank McSherry",
+    "avatar": "https://avatars.githubusercontent.com/u/5741500?v=4",
+    "bio": null,
+    "location": "New York, NY",
+    "website": "http://www.frankmcsherry.org",
+    "twitter": null,
+    "followers": 1847,
+    "focusAreas": [],
+    "reputationScore": 45,
+    "consistencyScore": 67,
+    "lastActive": "2026-01-17T18:42:37Z",
+    "topRepos": [
+      {
+        "name": "columnar",
+        "fullName": "frankmcsherry/columnar",
+        "description": "High-throughput columnar serialization in Rust",
+        "url": "https://github.com/frankmcsherry/columnar",
+        "stars": 188,
+        "forks": 8,
+        "language": "Rust",
+        "topics": [],
+        "categories": [],
+        "score": 70,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 4055,
+        "starVelocity": 0.05,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "datatoad",
+        "fullName": "frankmcsherry/datatoad",
+        "description": "An interactive Datalog",
+        "url": "https://github.com/frankmcsherry/datatoad",
+        "stars": 64,
+        "forks": 6,
+        "language": "Rust",
+        "topics": [],
+        "categories": [],
+        "score": 70,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 1,
+        "repoAgeInDays": 218,
+        "starVelocity": 0.29,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "blog",
+        "fullName": "frankmcsherry/blog",
+        "description": "Some notes on things I find interesting and important.",
+        "url": "https://github.com/frankmcsherry/blog",
+        "stars": 2098,
+        "forks": 180,
+        "language": "JavaScript",
+        "topics": [],
+        "categories": [],
+        "score": 60,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 12,
+        "repoAgeInDays": 3816,
+        "starVelocity": 0.55,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
         }
       }
     ]
@@ -11907,8 +12915,8 @@
       "ai"
     ],
     "reputationScore": 30,
-    "consistencyScore": 95,
-    "lastActive": "2026-01-16T18:42:27Z",
+    "consistencyScore": 0,
+    "lastActive": "2026-01-17T18:42:21Z",
     "topRepos": [
       {
         "name": "enhanced-FaaS-in-China",
@@ -13256,6 +14264,180 @@
           "hasTests": false,
           "hasCI": false,
           "hasLicense": true
+        }
+      }
+    ]
+  },
+  {
+    "username": "markjaquith",
+    "name": "Mark Jaquith",
+    "avatar": "https://avatars.githubusercontent.com/u/353790?v=4",
+    "bio": "I make things on the web.",
+    "location": "Tampa, FL",
+    "website": "https://markjaquith.com/",
+    "twitter": "markjaquith",
+    "followers": 1304,
+    "focusAreas": [
+      "crypto"
+    ],
+    "reputationScore": 30,
+    "consistencyScore": 68,
+    "lastActive": "2026-01-17T18:42:04Z",
+    "topRepos": [
+      {
+        "name": "WordPress",
+        "fullName": "markjaquith/WordPress",
+        "description": "This is legacy. Use github.com/WordPress/WordPress/ instead!",
+        "url": "https://github.com/markjaquith/WordPress",
+        "stars": 227,
+        "forks": 96,
+        "language": "PHP",
+        "topics": [],
+        "categories": [],
+        "score": 70,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 5449,
+        "starVelocity": 0.04,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "WordPress-Skeleton",
+        "fullName": "markjaquith/WordPress-Skeleton",
+        "description": "Basic layout of a WordPress Git repository. I use this as a base when creating a new repo.",
+        "url": "https://github.com/markjaquith/WordPress-Skeleton",
+        "stars": 1856,
+        "forks": 591,
+        "language": "PHP",
+        "topics": [],
+        "categories": [
+          "crypto"
+        ],
+        "score": 65,
+        "coinWorthy": false,
+        "blockchain": [
+          "base"
+        ],
+        "frameworks": [],
+        "daysSinceLastCommit": 46,
+        "repoAgeInDays": 4985,
+        "starVelocity": 0.37,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": false,
+        "isHot": false,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
+        }
+      }
+    ]
+  },
+  {
+    "username": "barry-far",
+    "name": "bardiafa",
+    "avatar": "https://avatars.githubusercontent.com/u/143993892?v=4",
+    "bio": "\"Don't let negativity dim your light; use it as fuel to shine even brighter.\" 🌟🚀",
+    "location": "Toronto, ON",
+    "website": "https://bardia.software/",
+    "twitter": "fard1627",
+    "followers": 792,
+    "focusAreas": [],
+    "reputationScore": 30,
+    "consistencyScore": 88,
+    "lastActive": "2026-01-17T18:41:23Z",
+    "topRepos": [
+      {
+        "name": "V2ray-Config",
+        "fullName": "barry-far/V2ray-Config",
+        "description": "Free V2ray Configs, Updating Every 12 minutes. 🚀🌐",
+        "url": "https://github.com/barry-far/V2ray-Config",
+        "stars": 966,
+        "forks": 157,
+        "language": "Python",
+        "topics": [
+          "free",
+          "iran",
+          "v2ray",
+          "v2ray-config",
+          "v2ray-core",
+          "v2ray-subscriber",
+          "v2ray-ws-tls",
+          "v2rayn",
+          "v2rayng",
+          "vpn",
+          "vpn-key",
+          "vpn-service",
+          "womenlifefreedom"
+        ],
+        "categories": [],
+        "score": 110,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 224,
+        "starVelocity": 4.32,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": true
+        }
+      },
+      {
+        "name": "barry-far",
+        "fullName": "barry-far/barry-far",
+        "description": "Config files for my GitHub profile.",
+        "url": "https://github.com/barry-far/barry-far",
+        "stars": 60,
+        "forks": 4,
+        "language": null,
+        "topics": [
+          "config",
+          "github",
+          "github-config",
+          "profile-readme",
+          "readme",
+          "readme-generator",
+          "readme-profile",
+          "readme-stats",
+          "readme-template"
+        ],
+        "categories": [],
+        "score": 65,
+        "coinWorthy": false,
+        "blockchain": [],
+        "frameworks": [],
+        "daysSinceLastCommit": 0,
+        "repoAgeInDays": 867,
+        "starVelocity": 0.07,
+        "isUnderrated": false,
+        "isEarlyStage": false,
+        "isActive": true,
+        "isHot": true,
+        "quality": {
+          "hasReadme": true,
+          "hasTests": false,
+          "hasCI": false,
+          "hasLicense": false
         }
       }
     ]
